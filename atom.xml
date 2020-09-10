@@ -6,7 +6,7 @@
   <link href="http://coolmoe.com/atom.xml" rel="self"/>
   
   <link href="http://coolmoe.com/"/>
-  <updated>2020-08-25T08:28:16.842Z</updated>
+  <updated>2020-09-10T05:05:58.665Z</updated>
   <id>http://coolmoe.com/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://coolmoe.com/2020/08/25/hello-world/"/>
-    <id>http://coolmoe.com/2020/08/25/hello-world/</id>
-    <published>2020-08-25T08:28:16.841Z</published>
-    <updated>2020-08-25T08:28:16.842Z</updated>
+    <title>Hello World，hello CoolMoe.com</title>
+    <link href="http://coolmoe.com/2020/09/10/Hello-World%EF%BC%8Chello-CoolMoe.com/"/>
+    <id>http://coolmoe.com/2020/09/10/Hello-World%EF%BC%8Chello-CoolMoe.com/</id>
+    <published>2020-09-10T05:05:58.408Z</published>
+    <updated>2020-09-10T05:05:58.665Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://coolmoe.com/">CoolMoe</a> !   </p><p>其实，又一次搭建Hexo博客，已经有半个月了。迟迟没有下笔，实在是不知道说什么好。今天，趁着心情还不错，聊两句吧。很羡慕那些大牛们，看的书多，懂的技术多，写出来的文章有模有样。很多时候都想模仿榜样，而我也持有一个观点：</p><blockquote><p>无论诗词歌赋还是大文章，都是头脑中自然流露出来的。</p></blockquote><p> 心中有感受，头脑有想法，字词就会自动输出的，无需怀疑，向来如此。</p><h2 id="说说域名-coolmoe-com"><a href="#说说域名-coolmoe-com" class="headerlink" title="说说域名 coolmoe.com"></a>说说域名 coolmoe.com</h2><p>这个域名是我在阿里云APP域名市场无意间看到的，当时第一眼就觉得，两个英文单词的组合，7个字母不算长，后缀还是王道.com，一口价才50元？！</p><p>等等，这个moe怎么那么熟悉，经常看动漫的我有点惊讶了，这不是<strong>萌</strong>的意思吗？那时候内心很冲动，可是手上已经有十几个闲置域名了。以防万一，专门用手机百度了<strong>moe</strong>这个单词的意思。英文Moe是常用名字（谐音“眸”），日文moe就是“萌”的意思，形容萝莉可爱等。虽然我不是萝莉控，对萌萌哒感觉也一般，但是这个域名无论从发音（谐音）、含义，都与我本人的大名和小名，出奇地吻合。</p><p>中文名字的全拼十几个字母，太长了，而且被域名贩子挂起来卖，都挂了十年了，中间还联系过我几次。我又不傻，怎么可能花高价去买一个名字呢？我那个net域名也是非常好，续费了十几年了。这里就祝福域名贩子挂一辈子吧。</p><p>确定含义无误之后，果断出手。人民币50元就买来这样一个优等域名，我也是满足了。从今往后，CoolMoe.com就作为我blog的主域名来用了.看起来就是顺眼啊。话说回来，我交了那么多域名学费，如今的品味，也算有点体高了吧。</p><h2 id="再说说BLOG"><a href="#再说说BLOG" class="headerlink" title="再说说BLOG"></a>再说说BLOG</h2><p>虽然我对网站技术研究不深，但是我对blog是非常感兴趣的。刚接触互联网的时候，就对E-mail QQ 非常感兴趣，大学时候就对Domain Blog很有兴致了。喜欢文字，喜欢写blog，这十几年，其实一直都有写，都有记录。遗憾的是，那是太年轻，写的都是情情爱爱，伤春悲秋（其实现在又何尝不是），每隔一两年回头看，就觉得不堪入目，于是冰封起来，换个地方重新开始。</p><p>就这样周而复始，删删写写，十几年就过去了。一事无成！</p><p>不管怎样，依然怀念博客年代。那时候的独立博客，如今还有不少坚挺着，偶尔访问他们的网站，就感觉羡慕和佩服。写个几年博客不算啥，会折腾十几个博客程序也不算什么，但是能够坚持十几年博客写作，坚持互联网创造、分享的精神，这个就不能不敬佩了。我们缺的是那点域名和空间的费用吗？缺的是一份真诚和定力，以及成功的品质。</p><p>我随波逐流过，也特立独行过，十几年了，哪怕断断续续，我也依然坚持着，只是很多过往的文字早已冰封（如果人肉的话，很多还能找到存档）。这么多年，感谢众多平台提供的免费服务，如QQ空间确实记录了咱们美好的学生时代，再次感谢。同时也感觉到，近几年来，不管百度、新浪、网易还是腾讯，产品迭代越来越快，导致我们倾注了很多的心血随着平台的式微而终止甚至彻底消失（因为大多数据不支持导出），包括人和人的连接，也产生了很大的冲击（例如某些无孔不入的微商极大地损伤了朋友圈）。</p><p>更不用说现今的“<strong>言论自由</strong>”了。2020年发生了太多事，太多冲突，太多匪夷所思的事情。自从我非常尊敬的一位大学老师被一群脑残举报和攻击，让她身患绝症还要承受不堪之时，我真的愤怒了。这位老师文笔十分细腻而感人，而她又是教法律的，文章充满了理性和睿智。她孜孜不倦地在网络上分享这么多年，把我们这些不是她学校的学生当自己的学生，给予帮助和关心…</p><p>这狗血的平台就是新浪微博。那时候起，我就用脚本删除了所有的微博记录，基本不再登录。微信朋友圈发出去的东西有时候只有自己可见，有思想的作者在公众号发的文章，常常是看着看着就显示被举报不存在了。知乎的也不是以前那个刷得停不下手，感觉能学习能开眼界的知乎了，而是充满了戾气，刻意地挑动低等负面情绪。于是也删除APP，只有查找资料时候会看。</p><p>我承认自己能力有限，没有办法跳出墙外。别人都用微信，还想生存下去的我，不可能不用，但真心不是以前的那种感觉了（去年我还忍不住每天都发圈，现在基本不发了，公众号也停更很久了）。我又回到了独立博客的状态，哪怕只有自己访问，我也写得不亦乐乎。感觉自由自在。我宁可花钱买域名服务器，宁愿科学上网用blogger，也不想再被恶心了。目前来看，除了<strong>伟光正</strong>的东西，其他的千万不要放国内的平台了，毫无隐私可言，要时刻自我审查，谨防后果。</p><p>俗话说得好，害人之心不可有，防人之心不可无。这就是人性！当规矩不可靠的时候，一定要洞察人性，不能再犯傻了。</p><h2 id="备份数据-备份数据-备份数据"><a href="#备份数据-备份数据-备份数据" class="headerlink" title="备份数据 备份数据 备份数据"></a>备份数据 备份数据 备份数据</h2><p>重要的事情确实值得强调再三。人生不满百，值得记录的人事物却太多太多了。我是一个喜欢记录的人，尤其喜欢文字记录。哪怕是生活琐事，点滴感受，都恨不得统统数据化。以前因为不够成熟，情绪波动大，往往是一时冲动就删除好几年的日志，包括删除了好几年学生时代的QQ空间。不久就后悔了，因为很多记忆，删除了就没有了，就好像灵魂死去了一部分。数据不备份好，一时冲动，否定自己的输出和积累，是很愚蠢的事情。哪怕现在觉得不够好，哪怕别人认为没有价值。</p><p>多放几年，再坚持几年，然后回头看看，一切风轻云淡，一切都是值得珍惜的数据。不要再否定自己了，给自己多点肯定，多点美好，多点回忆。</p><p>第一篇Hello World，就这样了，咱们下次再聊。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://coolmoe.com/&quot;&gt;CoolMoe&lt;/a&gt; !   &lt;/p&gt;
+&lt;p&gt;其实，又一次搭建Hexo博客，已经有半个月了。迟迟没有下笔，实在是不知道说什么好。今天，趁着心情还不错，聊两句吧。很羡慕那些大牛们，看的书多，</summary>
       
     
     
