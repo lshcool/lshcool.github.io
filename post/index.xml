@@ -1,82 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ONO</title>
+    <title>Posts on ONO</title>
     
     
     
-    <link>/</link>
-    <description>Recent content on ONO</description>
+    <link>/post/</link>
+    <description>Recent content in Posts on ONO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Jul 2022 16:12:09 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 11 Jul 2022 16:47:04 +0800</pubDate>
-      
-      <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>/showcase/</link>
-      <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
-      
-      <guid>/showcase/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          这是一个案例页面。
-2022年7月11日
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          欢迎来到我的部落格！
-https://ooo.ono.ooo
-hi@ono.ooo
-Shawn 2022年7月11日
-          
-        
-        </description>
-    </item>
     
     <item>
       <title>Sometimes</title>
