@@ -5,21 +5,22 @@
     
     
     
-    <link>/post/</link>
+    <link>https://ooo.ono.ooo/post/</link>
     <description>Recent content in Posts on ONO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>ono.ooo</copyright>
     <lastBuildDate>Mon, 11 Jul 2022 16:12:09 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ooo.ono.ooo/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sometimes</title>
-      <link>/post/sometimes/</link>
+      <link>https://ooo.ono.ooo/post/sometimes/</link>
       <pubDate>Mon, 11 Jul 2022 16:12:09 +0800</pubDate>
       
-      <guid>/post/sometimes/</guid>
+      <guid>https://ooo.ono.ooo/post/sometimes/</guid>
       <description>
         
           
@@ -39,10 +40,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world/</link>
+      <link>https://ooo.ono.ooo/post/hello-world/</link>
       <pubDate>Mon, 11 Jul 2022 16:11:45 +0800</pubDate>
       
-      <guid>/post/hello-world/</guid>
+      <guid>https://ooo.ono.ooo/post/hello-world/</guid>
       <description>
         
           
