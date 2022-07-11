@@ -5,12 +5,13 @@
     
     
     
-    <link>/categories/</link>
+    <link>https://ooo.ono.ooo/categories/</link>
     <description>Recent content in Categories on ONO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>ono.ooo</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ooo.ono.ooo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

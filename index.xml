@@ -5,41 +5,21 @@
     
     
     
-    <link>/</link>
+    <link>https://ooo.ono.ooo/</link>
     <description>Recent content on ONO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jul 2022 16:12:09 +0800</lastBuildDate>
+    <copyright>ono.ooo</copyright>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ooo.ono.ooo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 11 Jul 2022 16:47:04 +0800</pubDate>
-      
-      <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
     
     <item>
       <title>Showcase</title>
-      <link>/showcase/</link>
+      <link>https://ooo.ono.ooo/showcase/</link>
       <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
       
-      <guid>/showcase/</guid>
+      <guid>https://ooo.ono.ooo/showcase/</guid>
       <description>
         
           
@@ -57,10 +37,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ooo.ono.ooo/about/</link>
       <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ooo.ono.ooo/about/</guid>
       <description>
         
           
@@ -70,7 +50,7 @@
         
         
           欢迎来到我的部落格！
-https://ooo.ono.ooo
+有空多写信
 hi@ono.ooo
 Shawn 2022年7月11日
           
@@ -79,11 +59,11 @@ Shawn 2022年7月11日
     </item>
     
     <item>
-      <title>Sometimes</title>
-      <link>/post/sometimes/</link>
-      <pubDate>Mon, 11 Jul 2022 16:12:09 +0800</pubDate>
+      <title>Archive</title>
+      <link>https://ooo.ono.ooo/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/sometimes/</guid>
+      <guid>https://ooo.ono.ooo/archive/</guid>
       <description>
         
           
@@ -92,34 +72,7 @@ Shawn 2022年7月11日
         
         
         
-          有时候我是一只小小鸟，想要飞呀飞呀，却怎么样也飞不高……
-大人告诉我，等你长大了，你就知道了。可我长大后还是不知道，反而更迷茫了。
-老人告诉我，熬过去就好了。可我担心了，再熬下去，就要变成糟老头了。
-怎么办？看着办。慢慢来，不要停。
           
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/post/hello-world/</link>
-      <pubDate>Mon, 11 Jul 2022 16:11:45 +0800</pubDate>
-      
-      <guid>/post/hello-world/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          1959 年，BBC 采访 伯特兰·罗素（Bertrand Russell）
-最后一个问题：罗素勋爵，假定这段录像，将被我们的后人看到，如同死海古卷一般，在一千年后被人看见。您觉得有什么该对他们那一代人说的呢？有关您的一生以及一生的感悟。
-罗素：我想要说两点，其一关乎智识(智慧)，其二关乎道德。
-有关智识，我想对他们说的是，不管你是在研究什么事物，还是在思考任何观点，只问你自己，事实是什么，以及这些事实所证实的真理是什么。永远不要让自己被自己所更愿意相信的、或者认为人们相信了、会对社会更加有益的东西所影响。只是单单地去审视，什么才是事实。这是我想说的，关乎智识的一点。
-我想对他们说的有关道德的一点，十分简单。我要说：爱是明智的，恨是愚蠢的。在这个日益紧密相连的世界，我们必须学会容忍彼此，我们必须学会接受这样一个事实：总有人会说出我们不想听的话。只有这样，我们才有可能共同生存。而假如我们想要共存，而非共亡。我们就必须学会这种宽容和忍让，因为它们对于人类在这个星球的存续，是至关重要的。
           
         
         </description>
