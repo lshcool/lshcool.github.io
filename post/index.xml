@@ -10,10 +10,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ooo.ono.ooo</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 16:12:09 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2022 23:13:46 +0800</lastBuildDate>
     
 	<atom:link href="https://ooo.ono.ooo/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>折腾吧</title>
+      <link>https://ooo.ono.ooo/post/soso/</link>
+      <pubDate>Wed, 13 Jul 2022 23:13:46 +0800</pubDate>
+      
+      <guid>https://ooo.ono.ooo/post/soso/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          这三天一直在折腾各种 Blog ，往往被一些指示不明的教程带到沟里，也常常为了修改个字体，CSS 看到头晕眼花。
+有意义吗？有价值吗？
+意义这个东西，你说有就有。没折腾又怎么知道坑在哪里？折腾过后，起码知道，自己可能真的不擅长搞前端设计，干脆就不擅长计算机。
+价值呢？这个时代，“钱”机会可以衡量一切价值，有钱有价值，没钱没价值，有几块钱就几款钱的价值。
+还是把时间和精力，花在你的专业特长上面，一切用钱包数字来衡量。
+好的，祝财源滚滚，万寿无疆。
+2022年7月13日
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Sometimes</title>
