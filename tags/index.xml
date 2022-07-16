@@ -5,13 +5,13 @@
     
     
     
-    <link>https://ooo.ono.ooo/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 幸运萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ooo.ono.ooo</copyright>
     
-	<atom:link href="https://ooo.ono.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

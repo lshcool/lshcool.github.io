@@ -5,22 +5,22 @@
     
     
     
-    <link>https://ooo.ono.ooo/</link>
+    <link>/</link>
     <description>Recent content on 幸运萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ooo.ono.ooo</copyright>
     <lastBuildDate>Wed, 13 Jul 2022 23:13:46 +0800</lastBuildDate>
     
-	<atom:link href="https://ooo.ono.ooo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>折腾吧</title>
-      <link>https://ooo.ono.ooo/post/soso/</link>
+      <link>/post/soso/</link>
       <pubDate>Wed, 13 Jul 2022 23:13:46 +0800</pubDate>
       
-      <guid>https://ooo.ono.ooo/post/soso/</guid>
+      <guid>/post/soso/</guid>
       <description>
         
           
@@ -43,10 +43,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>https://ooo.ono.ooo/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
       
-      <guid>https://ooo.ono.ooo/showcase/</guid>
+      <guid>/showcase/</guid>
       <description>
         
           
@@ -64,10 +64,10 @@
     
     <item>
       <title>About</title>
-      <link>https://ooo.ono.ooo/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
       
-      <guid>https://ooo.ono.ooo/about/</guid>
+      <guid>/about/</guid>
       <description>
         
           
@@ -87,10 +87,10 @@ Shawn
     
     <item>
       <title>Sometimes</title>
-      <link>https://ooo.ono.ooo/post/sometimes/</link>
+      <link>/post/sometimes/</link>
       <pubDate>Mon, 11 Jul 2022 16:12:09 +0800</pubDate>
       
-      <guid>https://ooo.ono.ooo/post/sometimes/</guid>
+      <guid>/post/sometimes/</guid>
       <description>
         
           
@@ -110,10 +110,10 @@ Shawn
     
     <item>
       <title>Hello World</title>
-      <link>https://ooo.ono.ooo/post/hello-world/</link>
+      <link>/post/hello-world/</link>
       <pubDate>Mon, 11 Jul 2022 16:11:45 +0800</pubDate>
       
-      <guid>https://ooo.ono.ooo/post/hello-world/</guid>
+      <guid>/post/hello-world/</guid>
       <description>
         
           
@@ -134,10 +134,10 @@ Shawn
     
     <item>
       <title>Archive</title>
-      <link>https://ooo.ono.ooo/archive/</link>
+      <link>/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ooo.ono.ooo/archive/</guid>
+      <guid>/archive/</guid>
       <description>
         
           

@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ooo.ono.ooo/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2022-07-13T23:13:46+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/</loc>
+    <loc>/</loc>
     <lastmod>2022-07-13T23:13:46+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/post/soso/</loc>
+    <loc>/post/soso/</loc>
     <lastmod>2022-07-13T23:13:46+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2022-07-11T16:28:45+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-07-11T16:25:42+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/post/sometimes/</loc>
+    <loc>/post/sometimes/</loc>
     <lastmod>2022-07-11T16:12:09+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2022-07-11T16:11:45+08:00</lastmod>
   </url><url>
-    <loc>https://ooo.ono.ooo/archive/</loc>
+    <loc>/archive/</loc>
   </url><url>
-    <loc>https://ooo.ono.ooo/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://ooo.ono.ooo/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

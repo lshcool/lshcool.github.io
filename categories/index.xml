@@ -5,13 +5,13 @@
     
     
     
-    <link>https://ooo.ono.ooo/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on 幸运萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ooo.ono.ooo</copyright>
     
-	<atom:link href="https://ooo.ono.ooo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
