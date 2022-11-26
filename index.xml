@@ -9,11 +9,31 @@
     <description>Recent content on 幸运萌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>ooo.ono.ooo</copyright>
-    <lastBuildDate>Sun, 17 Jul 2022 11:42:45 +0800</lastBuildDate>
+    <copyright>https://lucky.cm</copyright>
+    <lastBuildDate>Sat, 26 Nov 2022 10:45:51 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>又生疏了</title>
+      <link>/post/20221126/</link>
+      <pubDate>Sat, 26 Nov 2022 10:45:51 +0800</pubDate>
+      
+      <guid>/post/20221126/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          太久没用 git 和 hugo 发现完全生疏了，又得重新开始查资料。果然，好记性不如烂笔头。没有记录就没有发生。
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>思维改变命运</title>
