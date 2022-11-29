@@ -17,7 +17,11 @@ cd public
 git add .
 git commit -m &amp;ldquo;renew&amp;rdquo;
 git pull &amp;ndash;rebase origin main
-git push"/>
+git push
+报错
+[rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
+解决
+在终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联"/>
 <meta name="keywords" content="moe.fyi"/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="/post/2022112602/" />
@@ -48,7 +52,11 @@ cd public
 git add .
 git commit -m &ldquo;renew&rdquo;
 git pull &ndash;rebase origin main
-git push"/>
+git push
+报错
+[rejected] master -&gt; master (fetch first) error: failed to push some refs
+解决
+在终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联"/>
 
 
 
@@ -64,7 +72,11 @@ cd public
 git add .
 git commit -m &ldquo;renew&rdquo;
 git pull &ndash;rebase origin main
-git push" />
+git push
+报错
+[rejected] master -&gt; master (fetch first) error: failed to push some refs
+解决
+在终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/post/2022112602/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2022-11-26T11:12:26+08:00" />
@@ -199,6 +211,9 @@ git push" />
 <li>
 <p>用 git push 命令将分支内容推到 github 上去</p>
 </li>
+</ol>
+<hr>
+<ol>
 <li>
 <p>cd public</p>
 </li>
@@ -213,6 +228,21 @@ git push" />
 </li>
 <li>
 <p>git push</p>
+</li>
+</ol>
+<hr>
+<p>报错</p>
+<blockquote>
+<p>[rejected]   master -&gt; master (fetch first) <br>
+error: failed to push some refs</p>
+</blockquote>
+<p>解决</p>
+<ol>
+<li>
+<p>在终端输入 <code>git pull --rebase origin main</code> 即可跟刚创建的线上远程仓库的默认分支main关联</p>
+</li>
+<li>
+<p>执行 <code>git push -u origin main</code> 即可将我们的项目文件上传到关联的线上远程文件中</p>
 </li>
 </ol>
 

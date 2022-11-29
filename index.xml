@@ -41,6 +41,10 @@ git add .
 git commit -m &amp;ldquo;renew&amp;rdquo;
 git pull &amp;ndash;rebase origin main
 git push
+报错
+[rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
+解决
+在终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联
           
         
         </description>
