@@ -38,8 +38,8 @@
 用 git push 命令将分支内容推到 github 上去
 cd public
 git add .
-git commit -m &amp;ldquo;add news&amp;rdquo;
-git pull &amp;ndash;rebase origin master
+git commit -m &amp;ldquo;renew&amp;rdquo;
+git pull &amp;ndash;rebase origin main
 git push
           
         
@@ -60,7 +60,8 @@ git push
         
         
         
-          太久没用 git 和 hugo 发现完全生疏了，又得重新开始查资料。果然，好记性不如烂笔头。没有记录就没有发生。
+          太久没用 git 和 hugo 发现完全生疏了，又得重新开始查资料。
+果然，好记性不如烂笔头。没有记录就没有发生。
           
         
         </description>
