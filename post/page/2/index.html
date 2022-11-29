@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     
-      <title>Posts :: moe.fyi — moe.fyi</title>
+      <title>Posts :: MOE.FYI — Moe&#39;s blog</title>
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,12 +33,12 @@
 <meta property="og:title" content="Posts" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/post/" /><meta property="og:site_name" content="moe.fyi" />
+<meta property="og:url" content="/post/" /><meta property="og:site_name" content="MOE.FYI" />
 
 
 
 
-<link rel="alternate" type="application/rss+xml" href="/post/index.xml" title="moe.fyi" />
+<link rel="alternate" type="application/rss+xml" href="/post/index.xml" title="MOE.FYI" />
 
 
 
@@ -142,22 +142,15 @@
       <div class="post-content">
         
           
-            往基于 github 的 Hugo 静态博客 推送新博文的步骤分 为以下几步：
+            步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
 用 hugo new 命令新建 md 文件
 用 hugo -D 生成 public html 文件
 前往 public 目录
 用 git add -A 命令将全部更新的文件添加到暂存区
 用 git commit 命令将暂存区内容添加到分支
 用 git push 命令将分支内容推到 github 上去
-cd public
-git add .
-git commit -m “renew”
-git pull –rebase origin main
-git push
-报错
-[rejected] master -&gt; master (fetch first) error: failed to push some refs
+指令 cd public git add . git commit -m “renew” git pull –rebase origin main git push 报错 [rejected] master -&gt; master (fetch first) error: failed to push some refs
 解决
-在终端输入 git pull &ndash;rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联
           
         
       </div>
@@ -328,7 +321,7 @@ git push
         <footer class="footer">
   <div class="footer__inner">
     
-      <div class="copyright copyright--user">moe.fyi</div>
+      <div class="copyright copyright--user">MOE.FYI</div>
     
   </div>
 </footer>

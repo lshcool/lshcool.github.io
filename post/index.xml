@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on moe.fyi</title>
+    <title>Posts on MOE.FYI</title>
     
     
     
     <link>/post/</link>
-    <description>Recent content in Posts on moe.fyi</description>
+    <description>Recent content in Posts on MOE.FYI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>moe.fyi</copyright>
+    <copyright>MOE.FYI</copyright>
     <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
@@ -29,22 +29,15 @@
         
         
         
-          往基于 github 的 Hugo 静态博客 推送新博文的步骤分 为以下几步：
+          步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
 用 hugo new 命令新建 md 文件
 用 hugo -D 生成 public html 文件
 前往 public 目录
 用 git add -A 命令将全部更新的文件添加到暂存区
 用 git commit 命令将暂存区内容添加到分支
 用 git push 命令将分支内容推到 github 上去
-cd public
-git add .
-git commit -m &amp;ldquo;renew&amp;rdquo;
-git pull &amp;ndash;rebase origin main
-git push
-报错
-[rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
+指令 cd public git add . git commit -m &amp;ldquo;renew&amp;rdquo; git pull &amp;ndash;rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
 解决
-在终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联
           
         
         </description>
