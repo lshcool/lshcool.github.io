@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on LUCKY</title>
+    <title>Categories on LUCKY.CM</title>
     
     
     
     <link>/categories/</link>
-    <description>Recent content in Categories on LUCKY</description>
+    <description>Recent content in Categories on LUCKY.CM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>LUCKY</copyright>
+    <copyright>https://lucky.cm</copyright>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
