@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MOE.FYI</title>
+    <title>MOE</title>
     
     
     
     <link>/</link>
-    <description>Recent content on MOE.FYI</description>
+    <description>Recent content on MOE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MOE FOR YOUR INFORMATION</copyright>
@@ -57,7 +57,7 @@
         
         
         
-          这是一个案例页面。
+          这是一个示例页面。
 2022年7月11日
           
         
@@ -78,7 +78,7 @@
         
         
         
-          欢迎光临 MOE.FYI
+          欢迎光临 Moe&amp;rsquo;s blog
 联系方式 HI@MOE.FYI
 2023年1月7日
           
