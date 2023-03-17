@@ -2,45 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MOE</title>
-    
-    
-    
     <link>/</link>
     <description>Recent content on MOE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Moe for your informaiton</copyright>
-    <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> HUGO 博客更新文章步骤和指令</title>
       <link>/post/2022112602/</link>
       <pubDate>Sat, 26 Nov 2022 11:12:26 +0800</pubDate>
       
       <guid>/post/2022112602/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
+      <description>步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
 用 hugo new 命令新建 md 文件
 用 hugo -D 生成 public html 文件
 前往 public 目录
 用 git add -A 命令将全部更新的文件添加到暂存区
 用 git commit 命令将暂存区内容添加到分支
 用 git push 命令将分支内容推到 github 上去
-指令 cd public git add . git commit -m &amp;quot;renew&amp;quot; git pull --rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
-解决
-          
-        
-        </description>
+指令 cd public git add . git commit -m &amp;quot;renew&amp;quot; git pull --rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs</description>
     </item>
     
     <item>
@@ -49,20 +30,9 @@
       <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
       
       <guid>/domain/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          退坑了 2023年3月17日
+      <description> 退坑了 2023年3月17日
 ##　域名列表
-yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men ReadPast.com Qiu.se Power.lol ono.ooo Note.science moes.pw MOE.FYI MiuFou.com MindPR.com Mind.sale Mind.cab MetaLife.Life meng.gs Meng.ee Lucky.cm LiuMi.net JuTie.ren HiYo.Ga GTGT.CC GoodLuck.cool Diary.win Diary.pw Boke.pw BingLove.com BeyCool.com BabyMary.com age.red age.ink 38.FYI 
-          
-        
-        </description>
+yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men ReadPast.com Qiu.se Power.lol ono.ooo Note.science moes.pw MOE.FYI MiuFou.com MindPR.com Mind.sale Mind.cab MetaLife.Life meng.gs Meng.ee Lucky.cm LiuMi.net JuTie.ren HiYo.Ga GTGT.CC GoodLuck.cool Diary.win Diary.pw Boke.pw BingLove.com BeyCool.com BabyMary.com age.red age.ink 38.FYI </description>
     </item>
     
     <item>
@@ -71,20 +41,9 @@ yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men 
       <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          欢迎光临 Moe&amp;rsquo;s blog
+      <description>欢迎光临 Moe&amp;rsquo;s blog
 联系方式 HI@MOE.FYI
-2023年1月7日
-          
-        
-        </description>
+2023年1月7日</description>
     </item>
     
     <item>
@@ -93,18 +52,7 @@ yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <description></description>
     </item>
     
   </channel>
