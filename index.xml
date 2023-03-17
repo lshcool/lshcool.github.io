@@ -6,20 +6,7 @@
     <description>Recent content on MOE.FYI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Mar 2023 17:48:45 +0800</lastBuildDate><atom:link href="https://moe.fyi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HUGO常用命令列表</title>
-      <link>https://moe.fyi/posts/2023031701/</link>
-      <pubDate>Fri, 17 Mar 2023 17:48:45 +0800</pubDate>
-      
-      <guid>https://moe.fyi/posts/2023031701/</guid>
-      <description>hugo是基于命令行的静态网站生成工具, 掌握基本的命令是很有必要的.
-常用命令列表 通过hugo help命令可以获取hugo命令行的帮助文档. 下面会对每个命令做更详细的一些介绍. 在开始之前需要先在本机安装hugo, 并在环境变量中配置好hugo.
-hugo new site 创建一个新的网站(骨架), 例如: hugo new site mysite , 他会在当前目录下创建一个mysite的文件夹, 并在其中填充必须的必须的目录和文件. 也可以指定具体的路径来创建新的网站. 下面是mysite文件夹的结构
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ├─archetypes ├─content ├─data ├─layouts ├─resources │ └─_gen │ ├─assets │ └─images ├─static └─themes └─study-theme ├─archetypes ├─layouts │ ├─partials │ └─_default └─static ├─css └─js content文件夹里面就是用于生成网站的”原材料”, themes里面放的是网站的UI, hugo就是靠这些来创建静态网站的.
-hugo new 添加网站内容. 例如: hugo new about.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate><atom:link href="https://moe.fyi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> HUGO 博客更新文章步骤和指令</title>
       <link>https://moe.fyi/posts/2022112602/</link>
