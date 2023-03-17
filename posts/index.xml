@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MOE.FYI</title>
-    <link>https://moe.fyi/</link>
-    <description>Recent content on MOE.FYI</description>
+    <title>Posts on MOE.FYI</title>
+    <link>https://moe.fyi/posts/</link>
+    <description>Recent content in Posts on MOE.FYI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Mar 2023 17:48:45 +0800</lastBuildDate><atom:link href="https://moe.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 17:48:45 +0800</lastBuildDate><atom:link href="https://moe.fyi/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HUGO常用命令列表</title>
       <link>https://moe.fyi/posts/2023031701/</link>
@@ -34,37 +34,6 @@ hugo new 添加网站内容. 例如: hugo new about.</description>
 用 git commit 命令将暂存区内容添加到分支
 用 git push 命令将分支内容推到 github 上去
 指令 cd public git add . git commit -m &amp;quot;renew&amp;quot; git pull --rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs</description>
-    </item>
-    
-    <item>
-      <title>domains</title>
-      <link>https://moe.fyi/domains/</link>
-      <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
-      
-      <guid>https://moe.fyi/domains/</guid>
-      <description> 退坑了 2023年3月17日
-##　域名列表
-yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men ReadPast.com Qiu.se Power.lol ono.ooo Note.science moes.pw MOE.FYI MiuFou.com MindPR.com Mind.sale Mind.cab MetaLife.Life meng.gs Meng.ee Lucky.cm LiuMi.net JuTie.ren HiYo.Ga GTGT.CC GoodLuck.cool Diary.win Diary.pw Boke.pw BingLove.com BeyCool.com BabyMary.com age.red age.ink 38.FYI </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://moe.fyi/about/</link>
-      <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
-      
-      <guid>https://moe.fyi/about/</guid>
-      <description>欢迎光临 Moe&amp;rsquo;s blog
-联系方式 HI@MOE.FYI
-2023年1月7日</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://moe.fyi/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moe.fyi/archive/</guid>
-      <description></description>
     </item>
     
   </channel>
