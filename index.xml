@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MOE.FYI</title>
-    <link>https://moe.fyi/</link>
-    <description>Recent content on MOE.FYI</description>
+    <title>Lucky.cm</title>
+    <link>https://lucky.cm/</link>
+    <description>Recent content on Lucky.cm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate><atom:link href="https://moe.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 11:12:26 +0800</lastBuildDate><atom:link href="https://lucky.cm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> HUGO 博客更新文章步骤和指令</title>
-      <link>https://moe.fyi/posts/2022112602/</link>
+      <title> HUGO 写博客基础步骤和指令</title>
+      <link>https://lucky.cm/posts/2022112602/</link>
       <pubDate>Sat, 26 Nov 2022 11:12:26 +0800</pubDate>
       
-      <guid>https://moe.fyi/posts/2022112602/</guid>
+      <guid>https://lucky.cm/posts/2022112602/</guid>
       <description>步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
 用 hugo new 命令新建 md 文件
 用 hugo -D 生成 public html 文件
@@ -25,32 +25,34 @@
     
     <item>
       <title>domains</title>
-      <link>https://moe.fyi/domains/</link>
+      <link>https://lucky.cm/domains/</link>
       <pubDate>Mon, 11 Jul 2022 16:28:45 +0800</pubDate>
       
-      <guid>https://moe.fyi/domains/</guid>
+      <guid>https://lucky.cm/domains/</guid>
       <description> 退坑了 2023年3月17日
 ##　域名列表
-yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men ReadPast.com Qiu.se Power.lol ono.ooo Note.science moes.pw MOE.FYI MiuFou.com MindPR.com Mind.sale Mind.cab MetaLife.Life meng.gs Meng.ee Lucky.cm LiuMi.net JuTie.ren HiYo.Ga GTGT.CC GoodLuck.cool Diary.win Diary.pw Boke.pw BingLove.com BeyCool.com BabyMary.com age.red age.ink 38.FYI </description>
+yoga.vg Xmind.fun WebLog.ren sun.ci Stronger.cool SheDe.org Shawn.host Sean.men ReadPast.com Qiu.se Power.lol ono.ooo Note.science moes.pw MOE.FYI MindPR.com Mind.sale Mind.cab MetaLife.Life meng.gs Meng.ee Lucky.cm LiuMi.net JuTie.ren HiYo.Ga GTGT.CC GoodLuck.cool Diary.win Diary.pw Boke.pw BingLove.com BeyCool.com BabyMary.com age.red age.ink 38.FYI </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://moe.fyi/about/</link>
-      <pubDate>Mon, 11 Jul 2022 16:25:42 +0800</pubDate>
+      <link>https://lucky.cm/about/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://moe.fyi/about/</guid>
-      <description>欢迎光临 Moe&amp;rsquo;s blog
+      <guid>https://lucky.cm/about/</guid>
+      <description>每次自我介绍，都觉得挺难的。不知道你怎么觉得，反正我觉得自己没啥好介绍的，该介绍的，身份证、简历上都有，真要自己说出来，无非是再次陈述、罗列。
+所以，自我介绍的目的是什么呢？真的是让别人了解自己吗？别人真的对我感兴趣吗？
+欢迎光临 Moe&amp;rsquo;s blog
 联系方式 HI@MOE.FYI
 2023年1月7日</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://moe.fyi/archive/</link>
+      <link>https://lucky.cm/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moe.fyi/archive/</guid>
+      <guid>https://lucky.cm/archive/</guid>
       <description></description>
     </item>
     
