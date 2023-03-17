@@ -2,25 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/2022112602/</loc>
+    <loc>https://moe.fyi/post/2023031701/</loc>
+    <lastmod>2023-03-17T17:48:45+08:00</lastmod>
+  </url><url>
+    <loc>https://moe.fyi/</loc>
+    <lastmod>2023-03-17T17:48:45+08:00</lastmod>
+  </url><url>
+    <loc>https://moe.fyi/post/</loc>
+    <lastmod>2023-03-17T17:48:45+08:00</lastmod>
+  </url><url>
+    <loc>https://moe.fyi/post/2022112602/</loc>
     <lastmod>2022-11-26T11:12:26+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-11-26T11:12:26+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-11-26T11:12:26+08:00</lastmod>
-  </url><url>
-    <loc>/domain/</loc>
+    <loc>https://moe.fyi/domain/</loc>
     <lastmod>2022-07-11T16:28:45+08:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://moe.fyi/about/</loc>
     <lastmod>2022-07-11T16:25:42+08:00</lastmod>
   </url><url>
-    <loc>/archive/</loc>
+    <loc>https://moe.fyi/archive/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://moe.fyi/authors/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://moe.fyi/categories/</loc>
+  </url><url>
+    <loc>https://moe.fyi/series/</loc>
+  </url><url>
+    <loc>https://moe.fyi/tags/</loc>
   </url>
 </urlset>

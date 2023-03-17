@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on MOE.FYI</title>
+    <link>https://moe.fyi/authors/</link>
+    <description>Recent content in Authors on MOE.FYI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://moe.fyi/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
