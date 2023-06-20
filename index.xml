@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucky.cm</title>
-    <link>https://lucky.cm/</link>
-    <description>Recent content on Lucky.cm</description>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 11 Jun 2023 19:52:25 +0800</lastBuildDate><atom:link href="https://lucky.cm/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jun 2023 19:52:25 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>以食为天</title>
-      <link>https://lucky.cm/posts/20230611/</link>
+      <link>http://example.org/posts/20230611/</link>
       <pubDate>Sun, 11 Jun 2023 19:52:25 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/20230611/</guid>
+      <guid>http://example.org/posts/20230611/</guid>
       <description>2023年5月22日~6月11日
 说说 散步 走山 冥想 一个人也可以过得很舒适 2023/05/22 民以食为天 食，是一件很重要的事。并不是为了发个美化的图片到朋友圈，而是为了尊重健康，尊重生命，尊重自己。 每每都会想到九十几岁的阿公，哪怕在勉强能够走路的时候，依然非常执着认真地，给每一位家人端端正正摆上碗筷。在他眼中，吃饭是一件十分神圣的事情，不允许浪费食物，一定要和家人分享，这是最重要的事。 2023/05/22
 朴素饮食 艰苦训练 哎呀，吃得太饱了。第一次调酱料，还算挺可口的。健身饮食，不一定非得淡出鸟，完全可以吃香的喝辣的。 2023/05/24
@@ -31,10 +31,10 @@
     
     <item>
       <title>健康的动物够凶猛</title>
-      <link>https://lucky.cm/posts/%E5%81%A5%E5%BA%B7%E7%9A%84%E5%8A%A8%E7%89%A9%E5%A4%9F%E5%87%B6%E7%8C%9B/</link>
+      <link>http://example.org/posts/%E5%81%A5%E5%BA%B7%E7%9A%84%E5%8A%A8%E7%89%A9%E5%A4%9F%E5%87%B6%E7%8C%9B/</link>
       <pubDate>Sun, 21 May 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%81%A5%E5%BA%B7%E7%9A%84%E5%8A%A8%E7%89%A9%E5%A4%9F%E5%87%B6%E7%8C%9B/</guid>
+      <guid>http://example.org/posts/%E5%81%A5%E5%BA%B7%E7%9A%84%E5%8A%A8%E7%89%A9%E5%A4%9F%E5%87%B6%E7%8C%9B/</guid>
       <description>运动记录第22天 早上买个早餐，守档的还是那个可爱的小妹妹。没忍住问她，你不去上学吗？她说不读了。我说早点挣钱也好…… 小妹妹明显情绪低落了，虽然我初衷是好的，但也有点后悔多管闲事了。按照她的年龄，应该坐在教室里考试，按照我的年龄，应该成为社会栋梁、家庭支柱。然而现实是各种各样的。 计划往往赶不上变化，我们也是『人在江湖，身不由己』
 热身的时候，用较小的重量，注重运动轨迹和节奏。竟然让我找到一种练习瑜伽的舒适感。可能这就是进入『心流』的预兆。无论瑜伽还是健身，不要虚妄，而要追求入定『心流』或者『全身心的愉悦』，这样才不会走歪路。
 20230504
@@ -67,10 +67,10 @@
     
     <item>
       <title>自信总比悲观好</title>
-      <link>https://lucky.cm/posts/%E8%87%AA%E4%BF%A1%E6%80%BB%E6%AF%94%E6%82%B2%E8%A7%82%E5%A5%BD/</link>
+      <link>http://example.org/posts/%E8%87%AA%E4%BF%A1%E6%80%BB%E6%AF%94%E6%82%B2%E8%A7%82%E5%A5%BD/</link>
       <pubDate>Thu, 04 May 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%87%AA%E4%BF%A1%E6%80%BB%E6%AF%94%E6%82%B2%E8%A7%82%E5%A5%BD/</guid>
+      <guid>http://example.org/posts/%E8%87%AA%E4%BF%A1%E6%80%BB%E6%AF%94%E6%82%B2%E8%A7%82%E5%A5%BD/</guid>
       <description>运动记录第14天 晚上九点到十点半 训练内容： 杠铃卧推 （热身组渐进，然后 5×5 ） 硬拉 （10×4） 器械横拉 这是一次适可而止的训练 2023.04.17
 借书证 刚毕业那会儿，千里迢迢也要跑去图书馆办个借书证。那时候就已经知道，不努力学习是不行的。然而，现在技术进步了，想看什么书，几分钟之内就可以下载到电子版。却没想到，看的书反而越来越少了。必须警醒，多看书，少刷视频。 2023.04.17
 运动记录第15天 昨晚练腿+农夫行走；先来两轮器械举腿热身（前后左右都练到了，器械也比较多）；然后杠铃深蹲，循序渐进，最后3×6，大重量深蹲；农夫行走用的事六角杠铃，走了两趟用上了助力带，因为把手实在太滑了；末尾又来了几组器械练腿，整体训练效果挺好； 又见到了跟我打招呼的暨大学生，家在广州黄埔，长得还算高大，皮肤却很好，年轻人生活质量好啊！他又给我展示他的『妊娠纹』，蛮得意的；我也为他高兴，一段时间不见，确实又变大了；他对我说，自己用的五分化训练法；我告诉他，再坚持半年，整体的体型就非常棒了。 2023年4月19日
@@ -89,10 +89,10 @@
     
     <item>
       <title>第9~11次运动记录</title>
-      <link>https://lucky.cm/posts/%E7%AC%AC9~11%E6%AC%A1%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95/</link>
+      <link>http://example.org/posts/%E7%AC%AC9~11%E6%AC%A1%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Sat, 15 Apr 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%AC%AC9~11%E6%AC%A1%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95/</guid>
+      <guid>http://example.org/posts/%E7%AC%AC9~11%E6%AC%A1%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95/</guid>
       <description>鼠标手 朋友圈发布了一个 如何解决 『腕管综合征』的小视频。起因是大学同学发了朋友圈求助怎么拯救『鼠标手』？其实，大多白领都有各种不舒服的症状，只是轻重不同罢了。归根到底，还是『信任』问题。我不是医生，只是一个瑜伽健身爱好者，所以，别人肯定不会轻信的。我要做的是继续学习坚持科普，做得更好。
 运动记录第 9 天 2023 年 4 月 9 日 周日 本来是高强度的练腿日，结果还是太着急，大重量深蹲冲击的最后一组，右脚膝盖不知怎么的就受伤了。惨！旧伤未愈，新伤又来。只能放弃重量训练，更改其他训练方案。还好，有多年的训练经验，并没有因为一点小伤而彻底放弃。又多了一个教训，看来，热身还得继续增加项目和时间。『循序渐进』可不是儿戏。
 精练的意义 通过『精练』，透过表象看到本质，掌握原理，以后便可触类旁通，一通百通。
@@ -104,10 +104,10 @@
     
     <item>
       <title>随笔20230412~14</title>
-      <link>https://lucky.cm/posts/%E9%9A%8F%E7%AC%9420230412-14/</link>
+      <link>http://example.org/posts/%E9%9A%8F%E7%AC%9420230412-14/</link>
       <pubDate>Sat, 15 Apr 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%9A%8F%E7%AC%9420230412-14/</guid>
+      <guid>http://example.org/posts/%E9%9A%8F%E7%AC%9420230412-14/</guid>
       <description>接纳 不是否定或者肯定，而要『接纳』 承认自己不是完美的，有长处也有短处，无需别人的肯定也不必过度反省（否定），首先应该是接纳，接纳自己是一个普通人，有成功和失败的可能，有选择的自由，值得被爱和尊重；我们需要无条件接纳自己，然后设定目标，想方设法实现理想。
 对手 想要长久，需要朋友； 想要进步，需要对手。
 命运 感想来自亲朋好友的人生经历，结合自身感受；所谓『命』，即是你的出生，家庭、教育背景，成长遭遇等等；命，可以理解为过去的，客观的环境；命，就像逝去的光阴，发生过，不可变；但『运』，更着眼将来，未来是不可预测的，是有多种可能的；未来跟现在息息相关，也就是说，运气是可以改变的；现在，你努力读书，未来你可能获得一个善于阅读的头脑；现在，你努力健身，未来，你可以获得一副健康而有力量的身体。 2023年4月14日
@@ -118,10 +118,10 @@
     
     <item>
       <title>不要相信『微辣』</title>
-      <link>https://lucky.cm/posts/%E5%BE%AE%E8%BE%A3/</link>
+      <link>http://example.org/posts/%E5%BE%AE%E8%BE%A3/</link>
       <pubDate>Sun, 09 Apr 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%BE%AE%E8%BE%A3/</guid>
+      <guid>http://example.org/posts/%E5%BE%AE%E8%BE%A3/</guid>
       <description>2023年4月9日 星期日
 起床后又赖在床上刷推，一刷就到中午了，懒做饭，出去吃吧。吃什么呢？随便吧。走进一家店，有20元的单人快餐，比如酸菜鱼和水煮肉片啥的。
 犹豫了会儿，选了水煮肉片，并嘱咐『不要辣』。
@@ -137,19 +137,19 @@
     
     <item>
       <title>运动记录第8天</title>
-      <link>https://lucky.cm/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC8%E5%A4%A9/</link>
+      <link>http://example.org/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC8%E5%A4%A9/</link>
       <pubDate>Fri, 07 Apr 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC8%E5%A4%A9/</guid>
+      <guid>http://example.org/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC8%E5%A4%A9/</guid>
       <description>热身30分钟（脖子落枕）12:35 开始 施瓦辛格健身计划训练2 15:35 完成 拉伸 15:55 结束 『感想』 世界上没有容易的事情。即使有，价值也不高。 每次训练，即使运动方案是完全一样的，感觉和收获也会不同；比如今日的训练，总共花费了三个多钟头！单热身就花了30分钟，认真执行训练计划又用了两个钟头；那么，这次训练是完美的吗？不，远远达不到，我还弄伤了左手手腕。就因为一个『提铃上举』的动作，操之过急，手腕突然承受了太大压力，导致受伤；虽然并无大碍，但对很多动作都有影响。 经验教训就是，以后每一次训练前，都要加强手腕的热身准备。</description>
     </item>
     
     <item>
       <title>看好年轻人</title>
-      <link>https://lucky.cm/posts/%E7%9C%8B%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA/</link>
+      <link>http://example.org/posts/%E7%9C%8B%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA/</link>
       <pubDate>Thu, 06 Apr 2023 15:57:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%9C%8B%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA/</guid>
+      <guid>http://example.org/posts/%E7%9C%8B%E5%A5%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA/</guid>
       <description>难得朋友有空，于是花了两个半小时过去蹭饭。朋友这边的空气是真好，饭菜是真好吃。
 让我印象深刻的还有一个，出地铁口的时候，外面还飘着零星毛毛雨，我打算骑共享单车过去，因为也就十分钟路程。可单车的坐垫满是水滴，我呼吸新鲜的空气，说了声，wow 没关系。
 忽然，对面一个戴眼镜的年轻小哥一步走了过来，伸出手就给我递纸巾。搞得我立马说『谢谢』，不用了，我也有……
@@ -158,10 +158,10 @@
     
     <item>
       <title>有燕子飞翔的地方</title>
-      <link>https://lucky.cm/posts/%E6%9C%89%E7%87%95%E5%AD%90%E9%A3%9E%E7%BF%94%E7%9A%84%E5%9C%B0%E6%96%B9/</link>
+      <link>http://example.org/posts/%E6%9C%89%E7%87%95%E5%AD%90%E9%A3%9E%E7%BF%94%E7%9A%84%E5%9C%B0%E6%96%B9/</link>
       <pubDate>Tue, 04 Apr 2023 10:11:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%9C%89%E7%87%95%E5%AD%90%E9%A3%9E%E7%BF%94%E7%9A%84%E5%9C%B0%E6%96%B9/</guid>
+      <guid>http://example.org/posts/%E6%9C%89%E7%87%95%E5%AD%90%E9%A3%9E%E7%BF%94%E7%9A%84%E5%9C%B0%E6%96%B9/</guid>
       <description>经过城中村的时候，不经意抬头，竟然看见几只燕子在穿梭飞翔！着实让我有点惊诧，因为这个城中村有很多小作坊，噪音和污染都应该挺大的吧。但是，为什么这些燕子在这里玩耍呢？恐怕不止玩耍这么简单，应该还在这里筑巢的。燕子是一种对环境要求还蛮高的动物，是否说明这里的环境没有我想象中那么糟糕呢？要知道，现在的农村由于滥用农药，以及新房子不适合燕子筑巢、繁衍，导致燕子数量已经很少了。 或许，我该换一种视角，有燕子飞翔的地方，其实也蛮宜居的。 2023年4月4日
 运动记录第4天 施瓦辛格训练3 深蹲为主 运动记录第5天 施瓦辛格训练3 目标下背部 硬拉为主
 运动记录第6天 必须走出去 必须走出门去，是我今早去公园散步爬山得出的感悟。以前就是懒，一直想去户外徒步，一直拖延着；今早仍旧6点起床，看看外面，又没下雨，天气挺好的，很想去户外走走。于是拿起背包就走出门去。 实际证明，哪怕在公园里走走，听听鸟叫，呼吸点新鲜的空气，整个人的感觉都完全不同，大脑确实也得到了放松。长久待在室内是容易让人抑郁的，享受户外自然的美好环境，对人的身心健康大有裨益。 以后给自己安排去公园晨练，周末去徒步、爬山吧，只有这样才能充分体验健康生活。 在散步的时候，也不止一次想过，远离城市的喧嚣，去一个安静的地方，好好享受生活，休养生息；然而，工作和经济来源是一个很大的问题，往往山清水秀的地方是最贫穷的地方；而热闹的大城市，没钱又很难找到一个满意的住所，再说，我还想每天去健身房训练呢。 如何找到一个折中的、可持续发展的方案呢？这是一个问题。
@@ -170,10 +170,10 @@
     
     <item>
       <title>运动记录第4天</title>
-      <link>https://lucky.cm/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC4%E5%A4%A9/</link>
+      <link>http://example.org/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC4%E5%A4%A9/</link>
       <pubDate>Sat, 01 Apr 2023 01:00:05 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC4%E5%A4%A9/</guid>
+      <guid>http://example.org/posts/%E8%BF%90%E5%8A%A8%E8%AE%B0%E5%BD%95%E7%AC%AC4%E5%A4%A9/</guid>
       <description>运动记录第4天 2023年4月1日 星期六
 今日来，阴雨连绵，主观情绪欠佳，焦虑、抑郁渐长。中午终于走出房间，吃了个蒸饭，味道不错（自己煮面吃了两天了）。
 吃过饭，总得走走吧？街道上车水马龙，人人行色匆匆，忽然间不知道走向哪里？像极了人到中年的挫败和沮丧感。于是习惯性地走到了健身房，那就随便练练吧，或许能够提升一下能量。
@@ -186,11 +186,11 @@
     
     <item>
       <title>施瓦辛格健身计划</title>
-      <link>https://lucky.cm/posts/%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92/</link>
+      <link>http://example.org/posts/%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92/</link>
       <pubDate>Wed, 29 Mar 2023 01:00:05 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92/</guid>
-      <description> 施瓦辛格健身计划 训练1（周一、四） 无特别说明，默认 12 RM 4 组
+      <guid>http://example.org/posts/%E6%96%BD%E7%93%A6%E8%BE%9B%E6%A0%BC%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92/</guid>
+      <description>施瓦辛格健身计划 训练1（周一、四） 无特别说明，默认 12 RM 4 组
 胸部：
 杠铃卧推 上斜推举 仰卧上拉 背部：
 引体向上（每次训练尽可能多做，直到你能做总共50次反复） 俯身划船 硬拉（3组，分别为10、6、4次反复，练到力竭） 腹部：
@@ -208,10 +208,10 @@
     
     <item>
       <title>什么样的瑜伽课才是好的</title>
-      <link>https://lucky.cm/posts/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%91%9C%E4%BC%BD%E8%AF%BE%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84/</link>
+      <link>http://example.org/posts/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%91%9C%E4%BC%BD%E8%AF%BE%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84/</link>
       <pubDate>Thu, 23 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%91%9C%E4%BC%BD%E8%AF%BE%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84/</guid>
+      <guid>http://example.org/posts/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%91%9C%E4%BC%BD%E8%AF%BE%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84/</guid>
       <description>什么样的瑜伽课才是好的 什么样的瑜伽课才是好的呢？
 这个问题从刚开始练瑜伽就存在脑子里。
 今晚想稍微谈谈，这里不谈瑜伽老师的个人魅力和瑜伽习练场地的各种因素，只谈瑜伽体式序列（套路）。
@@ -251,10 +251,10 @@
     
     <item>
       <title>健身瑜伽体式分级</title>
-      <link>https://lucky.cm/posts/%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BD%93%E5%BC%8F%E5%88%86%E7%BA%A7-%E6%8E%92%E8%AF%BE%E6%80%9D%E8%B7%AF/</link>
+      <link>http://example.org/posts/%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BD%93%E5%BC%8F%E5%88%86%E7%BA%A7-%E6%8E%92%E8%AF%BE%E6%80%9D%E8%B7%AF/</link>
       <pubDate>Thu, 23 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BD%93%E5%BC%8F%E5%88%86%E7%BA%A7-%E6%8E%92%E8%AF%BE%E6%80%9D%E8%B7%AF/</guid>
+      <guid>http://example.org/posts/%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BD%93%E5%BC%8F%E5%88%86%E7%BA%A7-%E6%8E%92%E8%AF%BE%E6%80%9D%E8%B7%AF/</guid>
       <description>健身瑜伽体式分级 排课思路 在知乎上看到健身达人经常普及“运动的最高形式是竞技”，那么瑜伽体位法的最高形式应该也是竞技比赛吧。
 搜索了一下健身瑜伽竞赛，看到了如下的体位分级：
 广义的瑜伽等级，当然不能仅仅通过比赛体位来分段。因为个人的智慧学识、灵魂境界、公益慈善、社会贡献等都比体式重要得多。
@@ -270,32 +270,32 @@
     
     <item>
       <title>力量训练的重要性</title>
-      <link>https://lucky.cm/posts/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E5%9F%BA%E7%A1%80-%E7%AC%94%E8%AE%B0/</link>
+      <link>http://example.org/posts/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E5%9F%BA%E7%A1%80-%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Thu, 23 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E5%9F%BA%E7%A1%80-%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://example.org/posts/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E5%9F%BA%E7%A1%80-%E7%AC%94%E8%AE%B0/</guid>
       <description>身体力量是生命中最重要的东西。 身体力量对现代日常生活来说，越来也不紧要，但对我们生命重要性却从未减弱。 我们的力量在很大程度上决定了我们生存的质量和长度。 人也是动物——归根到底，身体的存在才是唯一重要的。 离开高强度的身体活动，人类的身体就是不正常的。 锻炼不是我们针对某一个问题而找到的解决方法——而是我们无论如何都必须做的一件事，一件如果我们不做就会出现很多问题的事情。 锻炼只是维持身心正常，但对有追求的人来说，还是远远不够的。 8. 人体是作为一个完整的系统来运作的——它以这样的方式运动，它也希望能以同样的方式进行训练。 9. 正确实施的、全动作幅度的杠铃练习，实际上是人类骨骼、肌肉系统在负重下的功能性表达。 10. 骨骼是有生命的、能够对外界的压力做出反应的组织，就像肌肉、韧带、肌腱、皮肤、神经和大脑一样。 11. 很长时间以来，深蹲都是所有训练项目中最重要的，但它也是最未被人们充分了解的一个项目。 12. 后链指的是产生髋部伸展运动的肌肉——它们能够在深蹲的最低点帮助弯曲的髋关节伸直。这些肌肉群——也叫做髋部伸肌——包括腘绳肌、臀肌和内收肌。 13. 如果做得正确，深蹲是健身房中唯一一种能够以循序渐进得方式将整个后链作为一个整体来训练得动作。 14. 最难正确锻炼的身体部位其实是我们看不见的部位。
 2022年6月16日</description>
     </item>
     
     <item>
       <title>如何强制刷新chrome 更新缓存</title>
-      <link>https://lucky.cm/posts/%E5%A6%82%E4%BD%95%E5%BC%BA%E5%88%B6%E5%88%B7%E6%96%B0chrome-%E6%9B%B4%E6%96%B0%E7%BC%93%E5%AD%98/</link>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%BC%BA%E5%88%B6%E5%88%B7%E6%96%B0chrome-%E6%9B%B4%E6%96%B0%E7%BC%93%E5%AD%98/</link>
       <pubDate>Thu, 23 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%A6%82%E4%BD%95%E5%BC%BA%E5%88%B6%E5%88%B7%E6%96%B0chrome-%E6%9B%B4%E6%96%B0%E7%BC%93%E5%AD%98/</guid>
-      <description> 如何强制刷新chrome 更新缓存？ 每次心血来潮都会直接在宝塔后台操作更换网站的小图标之类的，然后用chrome浏览器总是过时的缓存，看不到实时的更新。也曾试过用最笨的方法——清除chrome浏览器全部缓存。但是这样的后果是，其他网站又要重新输入密码登陆之类的，造成不少麻烦。
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%BC%BA%E5%88%B6%E5%88%B7%E6%96%B0chrome-%E6%9B%B4%E6%96%B0%E7%BC%93%E5%AD%98/</guid>
+      <description>如何强制刷新chrome 更新缓存？ 每次心血来潮都会直接在宝塔后台操作更换网站的小图标之类的，然后用chrome浏览器总是过时的缓存，看不到实时的更新。也曾试过用最笨的方法——清除chrome浏览器全部缓存。但是这样的后果是，其他网站又要重新输入密码登陆之类的，造成不少麻烦。
 那么如何强制刷新chrome当前标签的网站内容呢？只要两步就可以了。
 按下 F12 在刷新图标右键，选择第三个刷新模式即可。 </description>
     </item>
     
     <item>
       <title>阿斯汤加瑜伽基础序列大纲导航</title>
-      <link>https://lucky.cm/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E7%91%9C%E4%BC%BD%E5%A4%A7%E7%BA%B2%E5%AF%BC%E5%9B%BE/</link>
+      <link>http://example.org/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E7%91%9C%E4%BC%BD%E5%A4%A7%E7%BA%B2%E5%AF%BC%E5%9B%BE/</link>
       <pubDate>Thu, 23 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E7%91%9C%E4%BC%BD%E5%A4%A7%E7%BA%B2%E5%AF%BC%E5%9B%BE/</guid>
-      <description> 大纲 五遍拜日A ，五遍拜日B； 站姿部分； 过渡体式； 坐姿部分； 初级序列； 结束体式； 【拜日】 拜日A： 拜日B： 拜日A
+      <guid>http://example.org/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E7%91%9C%E4%BC%BD%E5%A4%A7%E7%BA%B2%E5%AF%BC%E5%9B%BE/</guid>
+      <description>大纲 五遍拜日A ，五遍拜日B； 站姿部分； 过渡体式； 坐姿部分； 初级序列； 结束体式； 【拜日】 拜日A： 拜日B： 拜日A
 【站姿】 站立前屈： 三角伸展式： 扭转三角伸展式： 侧角伸展式： 扭转侧角伸展式： 双角式ABCD： 加强侧伸展： 站立腿上提1234： 半莲花单腿加强背部伸展式： 【过渡体式】 拜日A+拜日B（不停留呼吸）； 幻椅，战士一，战士二，各5个呼吸； 【坐姿】 坐立山式： 坐立前屈ABC： 反台式： 半莲花坐立前屈： 半英雄坐立前屈： 单腿头碰膝ABC： 圣哲玛里琪ABCD： 船式： 5组；
 腿交叉手推臂抬腿：在每组船式之后；
 【初级序列】 腿交叉手臂平衡AB： 龟式： 睡龟： 胎儿式： 胎儿式顺时针滚动：8次归原位
@@ -307,10 +307,10 @@
     
     <item>
       <title>浪费</title>
-      <link>https://lucky.cm/posts/%E6%B5%AA%E8%B4%B9/</link>
+      <link>http://example.org/posts/%E6%B5%AA%E8%B4%B9/</link>
       <pubDate>Mon, 20 Mar 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B5%AA%E8%B4%B9/</guid>
+      <guid>http://example.org/posts/%E6%B5%AA%E8%B4%B9/</guid>
       <description>从健身房出来都晚上十一点了，想吃点简单的东西，于是走进麦当劳，点了两个优惠的套餐。是的，就我一个人吃，根据以往经历，就算一个人吃全家桶都从来没有浪费过的。
 等待过程中，不远一桌四个人，三男一女，女生打扮稍微成熟，男生有穿球衣的，看他们年纪不大，应该是附近的大学生。轮到我取餐的时候，他们刚好走了。为什么我会那么留意他们呢？因为我每次都坐在他们那个位置，靠着落地窗，可以很清楚地看到外面的景象，同时背靠着墙壁，也是室内视野最好的一桌。
 看到他们走了，我宁愿亲自收拾一下他们吃剩的垃圾，也要坐在那个位置；忽然，我楞了一下，看到一个餐盘中竟然还有两个汉堡，连包装纸都没有打开，就放在那儿，等待工作人员收走，然后丢进垃圾桶吧。
@@ -329,10 +329,10 @@
     
     <item>
       <title>有光必有影</title>
-      <link>https://lucky.cm/posts/2023032501/</link>
+      <link>http://example.org/posts/2023032501/</link>
       <pubDate>Thu, 16 Mar 2023 01:00:05 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2023032501/</guid>
+      <guid>http://example.org/posts/2023032501/</guid>
       <description>一直对【太阳】有着隐约的向往，说不上崇拜，只是觉得太阳散发光明、激发生命，实在太神秘而伟大；
 瑜伽体式中的【拜日式】也叫【向太阳致敬式】，是最基础且最重要的体式；几乎每堂瑜伽课都会练习，且练得越多，内心就越光明而稳固；可抵挡现实的不堪、岁月的侵蚀。
 也许你不会相信，因为一开始我也不相信；直到自己真的走进练习，走进阳光之中。
@@ -343,10 +343,10 @@
     
     <item>
       <title>聚焦</title>
-      <link>https://lucky.cm/posts/%E8%81%9A%E7%84%A6/</link>
+      <link>http://example.org/posts/%E8%81%9A%E7%84%A6/</link>
       <pubDate>Sun, 12 Feb 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%81%9A%E7%84%A6/</guid>
+      <guid>http://example.org/posts/%E8%81%9A%E7%84%A6/</guid>
       <description>不知道什么时候起，每次回家都有一种欢欣的感觉，每一次离家都有点想哭。明明记得以前是不想回家的，别的同学都回去了，我拖到最后一个；过年过节后，明明没有要紧事，早早地跑去学校，原因就一个，那个家待着不舒服，看着揪心，坐也不是、躺也不是，在门口进进出出，感觉烦躁、局促，就像一只被关在笼子里的鸟。 现在的感受为何不同了？是爷爷奶奶九十几岁了，就要到了永别的时刻了吗？是自己年纪也大了，心理变得脆弱了吗？还是在外漂泊太久，终于意识到了家人的好，家的暖？
 如果不为了利益，不为了家庭而战？那又为了什么呢？我丝毫没有对不住国家民族，对不住的永远只有无私付出的家人和自己那颗惭愧的心。恨只恨自己不够出类拔萃，世俗的成功之路只有一条。同时也知道，”恨“会失去一切，只有”热爱“才能成就、救赎。
 2023年2月12日</description>
@@ -354,10 +354,10 @@
     
     <item>
       <title>说话</title>
-      <link>https://lucky.cm/posts/%E8%AF%B4%E8%AF%9D/</link>
+      <link>http://example.org/posts/%E8%AF%B4%E8%AF%9D/</link>
       <pubDate>Fri, 10 Feb 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AF%B4%E8%AF%9D/</guid>
+      <guid>http://example.org/posts/%E8%AF%B4%E8%AF%9D/</guid>
       <description>回家过个年，发现有些亲戚情商比我还低得多，没文化就算了，还不会说话！
 我在外边被人诟病已久，评价“不会说话”。具体表现在讲话太直接，固执己见，容易得罪人、起冲突。
 有些亲戚实在不行。讲话不清楚，啰里啰嗦，还要倚老卖老，动不动愤怒想支配人，喜欢说教，摆架子教训人。由于时代和环境所限，他们性格和教养也就那样了，然而最受不了还是他们不懂装懂，教人家乱七八糟的食疗法，中草药治病！
@@ -368,10 +368,10 @@
     
     <item>
       <title>重建</title>
-      <link>https://lucky.cm/posts/%E9%87%8D%E5%BB%BA/</link>
+      <link>http://example.org/posts/%E9%87%8D%E5%BB%BA/</link>
       <pubDate>Wed, 08 Feb 2023 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%87%8D%E5%BB%BA/</guid>
+      <guid>http://example.org/posts/%E9%87%8D%E5%BB%BA/</guid>
       <description>看了俞敏洪老师的文章，觉得 2023 年的关键字必须是“重建”。
 无论是重建信心还是重建认知，
 无论是重建事业还是重建生活，
@@ -384,10 +384,10 @@
     
     <item>
       <title> HUGO 写博客基础步骤和指令</title>
-      <link>https://lucky.cm/posts/2022112602/</link>
+      <link>http://example.org/posts/2022112602/</link>
       <pubDate>Sat, 26 Nov 2022 11:12:26 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022112602/</guid>
+      <guid>http://example.org/posts/2022112602/</guid>
       <description>步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
 用 hugo new 命令新建 md 文件
 用 hugo -D 生成 public html 文件
@@ -395,15 +395,16 @@
 用 git add -A 命令将全部更新的文件添加到暂存区
 用 git commit 命令将暂存区内容添加到分支
 用 git push 命令将分支内容推到 github 上去
-指令 cd public git add . git commit -m &amp;quot;renew&amp;quot; git pull --rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs</description>
+指令 cd public git add . git commit -m &amp;quot;renew&amp;quot; git pull --rebase origin main git push 报错 [rejected] master -&amp;gt; master (fetch first) error: failed to push some refs
+解决</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://lucky.cm/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lucky.cm/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>关于 域名 一直记得朋友的父亲讲过这么一句话 “ 不要跟我讲什么能力，人生一世，有【运气】就足够了 ”
 很难形容那时候的心理，直到现在也无力反驳；既然找不到任何藉口，那就接受吧，与其承认自己无能，不如说自己缺点【运气】。
 Lucky.cm 是我能够注册到英文单词 lucky 且能够坚持续费的唯一域名；那么，拥有一个 Lucky 域名，人生就能转运了吗？别幼稚了，这仅仅是一个心理暗示，仅仅是一个微不足道的开始。
@@ -420,10 +421,10 @@ Lucky.cm 是我能够注册到英文单词 lucky 且能够坚持续费的唯一�
     
     <item>
       <title>为什么要写博客</title>
-      <link>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/</link>
+      <link>http://example.org/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/</link>
       <pubDate>Sun, 06 Mar 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/</guid>
       <description>随便搜索“为什么要写博客”，文章还是一大堆的。独立博客从来都是小众、少数派，因为拥有独立思想的人实在太少了。
 本人也只是兴趣使然的部落阁主，对文字、部落阁、域名一直感兴趣。 疫情在家的时间，啥事没干成，倒是精品域名注册了一大堆。
 是不是精品，只要看看同类型的英文单词，白金词、溢价域名的价格，各大买卖平台标价、成交价，就知道了。
@@ -439,10 +440,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>2022年3月4日</title>
-      <link>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%884%E6%97%A5/</link>
+      <link>http://example.org/posts/2022%E5%B9%B43%E6%9C%884%E6%97%A5/</link>
       <pubDate>Fri, 04 Mar 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%884%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2022%E5%B9%B43%E6%9C%884%E6%97%A5/</guid>
       <description>2022年3月4日 星期五 应该是晴天吧
 天还是黑黑的，早醒了，赖着床而已。胡思乱想一番后，觉得不管几点，既然已经睡不着了，就该起床，无论是学习还是锻炼。
 一看手机时间，近6点了，心里一股庆幸，挺好的。果然睡早点，就可以早起点。
@@ -453,10 +454,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>2022年3月1日</title>
-      <link>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%881%E6%97%A5/</link>
+      <link>http://example.org/posts/2022%E5%B9%B43%E6%9C%881%E6%97%A5/</link>
       <pubDate>Tue, 01 Mar 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022%E5%B9%B43%E6%9C%881%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2022%E5%B9%B43%E6%9C%881%E6%97%A5/</guid>
       <description>2022年3月1日 星期二 多云
 突然就进入了阳春三月，原来是自己忽略了二月的特别。人生皆如此，当你幡然醒悟之时，早已失去。
 东隅已逝，桑榆非晚。该健身了。
@@ -476,10 +477,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>为什么狗子爱打架</title>
-      <link>https://lucky.cm/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AD%90%E7%88%B1%E6%89%93%E6%9E%B6/</link>
+      <link>http://example.org/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AD%90%E7%88%B1%E6%89%93%E6%9E%B6/</link>
       <pubDate>Mon, 28 Feb 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AD%90%E7%88%B1%E6%89%93%E6%9E%B6/</guid>
+      <guid>http://example.org/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AD%90%E7%88%B1%E6%89%93%E6%9E%B6/</guid>
       <description>为什么狗子爱打架 2022年2月28日 星期一 晴天
 今晚狗子又打架了，而且是在吃完晚饭的情况下。我就纳儿闷了，都吃完了，已经没有肉可以争了，为什么这个点还要打上一架？
 有事问谷歌去，先搜索一番再说……
@@ -490,10 +491,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>人生成败体现在生活细节中</title>
-      <link>https://lucky.cm/posts/%E4%BA%BA%E7%94%9F%E6%88%90%E8%B4%A5%E4%BD%93%E7%8E%B0%E5%9C%A8%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%E4%B8%AD/</link>
+      <link>http://example.org/posts/%E4%BA%BA%E7%94%9F%E6%88%90%E8%B4%A5%E4%BD%93%E7%8E%B0%E5%9C%A8%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%E4%B8%AD/</link>
       <pubDate>Wed, 02 Feb 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%BA%BA%E7%94%9F%E6%88%90%E8%B4%A5%E4%BD%93%E7%8E%B0%E5%9C%A8%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%E4%B8%AD/</guid>
+      <guid>http://example.org/posts/%E4%BA%BA%E7%94%9F%E6%88%90%E8%B4%A5%E4%BD%93%E7%8E%B0%E5%9C%A8%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%E4%B8%AD/</guid>
       <description>人生成败体现在生活细节中 2022年2月2日 星期三 阴雨天
 有位亲戚讲话经常不过脑子，例如在别人吃饭的时候，冷不防来一句，“就你那猪脑子，连屎都吃不上！”
 呃，是个正常人都会被噎死吧。究竟是什么原因，在吃饭的时候，对家人说这种粗野、下流的话？小学生都知道这种话是错的，一个快60岁的人为什么如此轻易地对亲人讲出这种话呢？
@@ -509,10 +510,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>2022年2月1日</title>
-      <link>https://lucky.cm/posts/2022%E5%B9%B42%E6%9C%881%E6%97%A5/</link>
+      <link>http://example.org/posts/2022%E5%B9%B42%E6%9C%881%E6%97%A5/</link>
       <pubDate>Tue, 01 Feb 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022%E5%B9%B42%E6%9C%881%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2022%E5%B9%B42%E6%9C%881%E6%97%A5/</guid>
       <description>2022年2月1日 星期二 阴雨天
 今天大年初一，为了避免发红包，我躺着床上睡了一整天。回想昨天年夜饭，只有一个人吃点剩饭剩菜，其他人都没有叫我吃饭，他们自己一桌了。
 我知道他们不是故意的，然而这种忽视是切实的，回想往年，也没有任何一次年夜饭像这样一个人吃的。尽管年味已经没多少了，还是觉得很不爽。
@@ -523,10 +524,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>凡事多思考</title>
-      <link>https://lucky.cm/posts/%E5%A4%9A%E7%82%B9%E6%80%9D%E8%80%83/</link>
+      <link>http://example.org/posts/%E5%A4%9A%E7%82%B9%E6%80%9D%E8%80%83/</link>
       <pubDate>Mon, 31 Jan 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%A4%9A%E7%82%B9%E6%80%9D%E8%80%83/</guid>
+      <guid>http://example.org/posts/%E5%A4%9A%E7%82%B9%E6%80%9D%E8%80%83/</guid>
       <description>凡事多思考 2022年1月31日 星期一 雨天
 天下熙熙皆为利来，天下攘攘皆为利往。 —— 司马迁
 普天之下，庸人居多，看到的往往是别人的过错和缺点，却常常看不到自己的问题。因此，能够觉悟的人，看到真相和智慧的人少之又少。
@@ -545,10 +546,10 @@ Shawn 2022年3月6日</description>
     
     <item>
       <title>只要开始就是好的</title>
-      <link>https://lucky.cm/posts/%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</link>
+      <link>http://example.org/posts/%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</link>
       <pubDate>Wed, 26 Jan 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</guid>
+      <guid>http://example.org/posts/%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E5%A5%BD%E7%9A%84/</guid>
       <description>2022年1月26日 星期三 晴天
 今天是值得纪念的一天。不仅仅因为阳光明媚、微风和煦，也不仅仅因为年关将近，村里气氛热闹了些，还因为黑白颠倒、作息紊乱多日的我，终于“正常地”睡了一个好觉，早晨自然地醒来了，不似往日般“晨重暮轻”，大白天的也只能瘫痪很久很久，错过了那么多的美妙清晨。
 起床后热了开水，冲了一杯越南咖啡，倒入半瓶金典纯牛奶，还加了半罐红牛功能饮料。哈，熟悉的配方，以前在健身房时，自制的“氮泵”。为了冲击最大力量训练，体验最嗨的感觉。
@@ -578,20 +579,20 @@ Namaste!</description>
     
     <item>
       <title>2022年1月23日</title>
-      <link>https://lucky.cm/posts/2022%E5%B9%B41%E6%9C%8823%E6%97%A5/</link>
+      <link>http://example.org/posts/2022%E5%B9%B41%E6%9C%8823%E6%97%A5/</link>
       <pubDate>Sun, 23 Jan 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2022%E5%B9%B41%E6%9C%8823%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2022%E5%B9%B41%E6%9C%8823%E6%97%A5/</guid>
       <description>2022年1月23日 星期天 阴天
 今天阿琼回家了，还是带着那个唐氏综合症的小孩。未见其人，先闻其声，像个哑巴哇哇乱叫（今年他都八九岁了，还是不会说话，和哑巴也差不多了）。</description>
     </item>
     
     <item>
       <title>搞米</title>
-      <link>https://lucky.cm/posts/%E6%90%9E%E7%B1%B3/</link>
+      <link>http://example.org/posts/%E6%90%9E%E7%B1%B3/</link>
       <pubDate>Fri, 14 Jan 2022 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%90%9E%E7%B1%B3/</guid>
+      <guid>http://example.org/posts/%E6%90%9E%E7%B1%B3/</guid>
       <description>2022年1月14日　星期五　阴天
 “搞米” 阿婆昨天就告诉我，没有米了。意思是让我扛一袋谷子去碾米店。那时候我很快地答应下来，然而东搞西搞，又花了很多时间遛狗，就忘记了。
 所以，昨晚临睡前，设置好了日历闹钟，今天中午，务必把事情办好。用伯父的话来说，我比狗还闲。这事我不做谁做呢？
@@ -604,10 +605,10 @@ Namaste!</description>
     
     <item>
       <title>2021年12月30日</title>
-      <link>https://lucky.cm/posts/2021%E5%B9%B412%E6%9C%8830%E6%97%A5/</link>
+      <link>http://example.org/posts/2021%E5%B9%B412%E6%9C%8830%E6%97%A5/</link>
       <pubDate>Thu, 30 Dec 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2021%E5%B9%B412%E6%9C%8830%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2021%E5%B9%B412%E6%9C%8830%E6%97%A5/</guid>
       <description>2021年12月30日　星期四　晴
 因为丢了一只可爱的小土狗，所以买回来两只，寓意是“双倍旺回来”！现在一只两三个月大的小土狗，母的要两百多块钱，公的也要一百五以上，这只是乡下的市场价，最令人懊恼和惋惜的还是日复一日的饲养和陪伴，无形中都把小狗当成大家庭的一份子了。丢了一只狗，就不再是丢了一只狗，丢了两百块钱，感情是很难用金钱衡量的。
 丢失一只宠物，都让人多日牵挂思念，总想着狗子有一天能够自己跑回来，或者咱们在哪里找到了它。实际上，冬至开始，狗肉价格上涨，家养的狗十有八九是被无良的狗贩子给拐走了。刚开始，阿公阿婆都不接受这个推测，只说是害怕祠堂放的鞭炮躲起来了，等鞭炮停息，它自己就会从某个柴堆钻出来了。我是挺羡慕阿公阿婆乐观的心态的，只是现实往往是残酷的。悲观的人能够更客观地预测现实，乐观的人能够发挥主观能动性。让合适的人在合适的岗位上，天下可太平。
@@ -617,10 +618,10 @@ Namaste!</description>
     
     <item>
       <title>终于把之前公众号的主要文章搬过来</title>
-      <link>https://lucky.cm/posts/%E7%BB%88%E4%BA%8E%E6%8A%8A%E4%B9%8B%E5%89%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E4%B8%BB%E8%A6%81%E6%96%87%E7%AB%A0%E6%90%AC%E8%BF%87%E6%9D%A5%E4%BA%86/</link>
+      <link>http://example.org/posts/%E7%BB%88%E4%BA%8E%E6%8A%8A%E4%B9%8B%E5%89%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E4%B8%BB%E8%A6%81%E6%96%87%E7%AB%A0%E6%90%AC%E8%BF%87%E6%9D%A5%E4%BA%86/</link>
       <pubDate>Sat, 25 Dec 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%BB%88%E4%BA%8E%E6%8A%8A%E4%B9%8B%E5%89%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E4%B8%BB%E8%A6%81%E6%96%87%E7%AB%A0%E6%90%AC%E8%BF%87%E6%9D%A5%E4%BA%86/</guid>
+      <guid>http://example.org/posts/%E7%BB%88%E4%BA%8E%E6%8A%8A%E4%B9%8B%E5%89%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E4%B8%BB%E8%A6%81%E6%96%87%E7%AB%A0%E6%90%AC%E8%BF%87%E6%9D%A5%E4%BA%86/</guid>
       <description>终于把之前公众号的主要文章搬过来了。
 最麻烦的就是格式排版，尤其是图片的存储和引用。
 之前太相信腾讯QQ，不料世界变化太快，QQ变成了微信，腾讯部落红不过三天（当初还以为能够有一个比较好的瑜伽BBS呢，结果隐私没没搞好，虎头蛇尾，最后倒闭，让人失望），
@@ -646,10 +647,10 @@ moe.yoga 2021年12月25日</description>
     
     <item>
       <title>2021年12月24日</title>
-      <link>https://lucky.cm/posts/2021%E5%B9%B412%E6%9C%8824%E6%97%A5/</link>
+      <link>http://example.org/posts/2021%E5%B9%B412%E6%9C%8824%E6%97%A5/</link>
       <pubDate>Fri, 24 Dec 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2021%E5%B9%B412%E6%9C%8824%E6%97%A5/</guid>
+      <guid>http://example.org/posts/2021%E5%B9%B412%E6%9C%8824%E6%97%A5/</guid>
       <description>2021年12月24日　星期五　晴
 今晚平安夜，明天是圣诞节，广州应该是浓浓的过节气氛了吧。我在乡下的家里，这里没有人过圣诞节，也不会说 Merry Christmas.
 感恩节的时候没来得及跟瑜伽小伙伴们“忆往昔，峥嵘岁月”感恩一下一起度过的美好时光，所以今天借着西方的节日表达一下东方的平安祝福。
@@ -672,10 +673,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>养花那点事</title>
-      <link>https://lucky.cm/posts/%E5%85%BB%E8%8A%B1%E9%82%A3%E7%82%B9%E4%BA%8B/</link>
+      <link>http://example.org/posts/%E5%85%BB%E8%8A%B1%E9%82%A3%E7%82%B9%E4%BA%8B/</link>
       <pubDate>Tue, 23 Mar 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%85%BB%E8%8A%B1%E9%82%A3%E7%82%B9%E4%BA%8B/</guid>
+      <guid>http://example.org/posts/%E5%85%BB%E8%8A%B1%E9%82%A3%E7%82%B9%E4%BA%8B/</guid>
       <description>养花那点事 养花这件事，我绝对是个小白。
 准确来说，去年10月份才开始买花。
 图1
@@ -736,10 +737,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>适者生存</title>
-      <link>https://lucky.cm/posts/%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98/</link>
+      <link>http://example.org/posts/%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98/</link>
       <pubDate>Tue, 23 Mar 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98/</guid>
+      <guid>http://example.org/posts/%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98/</guid>
       <description>适者生存 ​ 我种的月季 果汁阳台
 物竞天择，适者生存！（想必这句话大家都听腻了）
 达尔文的演化论成了现代社会丛林法则，成王败寇也自古有之。宣扬这种论调的，有希望控制他人去适应人造环境的，有幸存者合理化自慰的，有随波逐流说教的。
@@ -768,10 +769,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>又一次在医院过生日</title>
-      <link>https://lucky.cm/posts/%E5%8F%88%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%BF%87%E7%94%9F%E6%97%A5/</link>
+      <link>http://example.org/posts/%E5%8F%88%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%BF%87%E7%94%9F%E6%97%A5/</link>
       <pubDate>Fri, 08 Jan 2021 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8F%88%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%BF%87%E7%94%9F%E6%97%A5/</guid>
+      <guid>http://example.org/posts/%E5%8F%88%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%BF%87%E7%94%9F%E6%97%A5/</guid>
       <description>又一次在医院过生日 前天（1月6日）是我的公历生日，当时我在医院看护住院的爷爷，已经熬了两个通宵了。稍微闲下来打开手机，收到Bilibili的短消息，她祝我生日快乐，然后一条收费的模板广告链接结尾。才回过神来，原来是自个儿的生日，有且只有广告商的第一时间“祝福”。
 又是一个人的生日，没有蛋糕没有祝福就算了，反正我们家就没有过生日的传统，自己都忘记生日，怎能要求别人呢？只是又一次在医院过生日，有点五味杂陈罢了。
 记得大四时候，毕业时节，同学们三天两头吃散伙饭。一个酒足饭饱的晚上，我的腹部剧痛起来，吃了藿香正气液也没有用，熬到三更半夜，实在不行了，感觉要死了。只好一个人弓着背，捂着肚子去医院。距离学校最近的医院是一家中医院，穿过教职工宿舍的小铁门再朝右边拐个弯儿就到了。可是那么短的距离，我现在想起来还是那么遥远，尤其是夜深人静，小铁门已经上锁了，我到现在都不知道当时的我是怎么翻墙过去的。要知道，那是急性阑尾炎！（实际上吃了很多消炎药打了很多抗生素，去了三四次医院才最终确诊阑尾炎，最后自然是手术解决问题。只是已经误诊好几次了，直接导致我的身体状况一落千丈，打2009年起，直到2015年才感觉完全康复，不说这个了，血泪史）
@@ -796,10 +797,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>【排课】健身瑜伽一级</title>
-      <link>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%80%E7%BA%A7/</link>
+      <link>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%80%E7%BA%A7/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%80%E7%BA%A7/</guid>
+      <guid>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%80%E7%BA%A7/</guid>
       <description>【排课】健身瑜伽一级 完整瑜伽体式排序
 自己挖的坑，自己填一下。
 1-1 简易坐（体式序号和名称，参考图1）
@@ -835,15 +836,16 @@ Shawn (阿爽)</description>
 猫拉尾式 （见图3），左右各10个呼吸；
 摊尸式 5分钟
 本人试练花费时间45分钟。专业不仅体现在每一个瑜伽体式的细节还体现在体式之间的串联和过渡。
-（图1）</description>
+（图1）
+图2</description>
     </item>
     
     <item>
       <title>【排课】健身瑜伽三级</title>
-      <link>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%89%E7%BA%A7/</link>
+      <link>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%89%E7%BA%A7/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%89%E7%BA%A7/</guid>
+      <guid>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%B8%89%E7%BA%A7/</guid>
       <description>【排课】健身瑜伽三级 【排课】健身瑜伽三级
 3-01 至善坐 5分钟
 3-03 单腿背部伸展式 左 20个呼吸
@@ -862,15 +864,16 @@ Shawn (阿爽)</description>
 3-13 手枕式 右 10个呼吸
 3-05 上犬式 10个呼吸 （大腿离地）
 3-04 眼镜蛇式 10个呼吸 （手肘弯）
-3-10 顶峰式 20个呼吸</description>
+3-10 顶峰式 20个呼吸
+3-16 战士二式 左右 各20个呼吸 （耐力较弱的，可以分组）</description>
     </item>
     
     <item>
       <title>【排课】健身瑜伽二级</title>
-      <link>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BA%8C%E7%BA%A7/</link>
+      <link>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BA%8C%E7%BA%A7/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BA%8C%E7%BA%A7/</guid>
+      <guid>http://example.org/posts/%E6%8E%92%E8%AF%BE%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E4%BA%8C%E7%BA%A7/</guid>
       <description>【排课】健身瑜伽二级 健身瑜伽体位二级
 2-1 金刚座 5分钟
 2-5 下犬式 10个呼吸
@@ -895,10 +898,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>45分钟瑜伽 量化训练</title>
-      <link>https://lucky.cm/posts/45%E5%88%86%E9%92%9F%E7%91%9C%E4%BC%BD-%E9%87%8F%E5%8C%96%E8%AE%AD%E7%BB%83/</link>
+      <link>http://example.org/posts/45%E5%88%86%E9%92%9F%E7%91%9C%E4%BC%BD-%E9%87%8F%E5%8C%96%E8%AE%AD%E7%BB%83/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/45%E5%88%86%E9%92%9F%E7%91%9C%E4%BC%BD-%E9%87%8F%E5%8C%96%E8%AE%AD%E7%BB%83/</guid>
+      <guid>http://example.org/posts/45%E5%88%86%E9%92%9F%E7%91%9C%E4%BC%BD-%E9%87%8F%E5%8C%96%E8%AE%AD%E7%BB%83/</guid>
       <description>45分钟瑜伽 量化训练 西方有句谚语，
 人不能两次踏进同一条河流
 因为河水奔腾不息，世间万物永恒变化。哪怕地点相同，时间不同了；河流看起来一样，本质不同了。
@@ -937,15 +940,16 @@ Shawn (阿爽)</description>
 练习的时候用双手撑地辅助，用呼吸来计数。
 注意勾脚和绷脚背都要各做一组。
 坐姿压腿有多种练法，可以因人而异，知道目标是拉伸腿部内侧和外侧就好。
-五、后弯 10组 5~10分钟 我选的是单臂骆驼式、骆驼式，桥式到轮式。</description>
+五、后弯 10组 5~10分钟 我选的是单臂骆驼式、骆驼式，桥式到轮式。
+本以为至少要十分钟，但我5分钟就做完了，可能着急了点。</description>
     </item>
     
     <item>
       <title>半夜的灵感</title>
-      <link>https://lucky.cm/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/</link>
+      <link>http://example.org/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/</guid>
+      <guid>http://example.org/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/</guid>
       <description>半夜的灵感 顺序 从下往上：根基、重心、中位线、沉着、螺旋、凝视点、呼吸、复原。
 从左到右：国际习惯(减少犹豫)
 由里向外：开合 (拜日式双手)
@@ -961,10 +965,10 @@ Shawn (阿爽)</description>
     
     <item>
       <title>遇瑜伽交流记</title>
-      <link>https://lucky.cm/posts/%E9%81%87%E7%91%9C%E4%BC%BD%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%E8%AE%B0/</link>
+      <link>http://example.org/posts/%E9%81%87%E7%91%9C%E4%BC%BD%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%E8%AE%B0/</link>
       <pubDate>Mon, 23 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%81%87%E7%91%9C%E4%BC%BD%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%E8%AE%B0/</guid>
+      <guid>http://example.org/posts/%E9%81%87%E7%91%9C%E4%BC%BD%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%E8%AE%B0/</guid>
       <description>Y+U遇瑜伽交流习记 缘来缘往 2017年，因为Anita而认识了Y+U遇瑜伽主人Elyn . 当时，惊叹于遇瑜伽的场馆环境，明明是办公楼的工业风，却在Elyn的布置下，处处鲜花处处美，不经意间的小物件总让人眼前一亮&amp;hellip;
 Elyn是那种天然让人喜欢的瑜伽美女，如花般芬芳美丽的人儿，更佩服Elyn的独特审美和人格魅力。Elyn拥有超好的教养，与人讲话从来轻声细语，总会照顾到别人，性格甜美得像邻家女孩，同时思路清晰，拥有果断和明智，不会被枝枝蔓蔓所累。
 个人觉得她成功的最大资本就是她与生俱来的特性，以及良好的教养和审美。也是我想要学习的地方，尽管知道性格和审美这些素质是很难改善和进步的，需要好的环境和资源。
@@ -987,10 +991,10 @@ Elyn是那种天然让人喜欢的瑜伽美女，如花般芬芳美丽的人儿�
     
     <item>
       <title>番茄钟间隙训练法</title>
-      <link>https://lucky.cm/posts/%E7%95%AA%E8%8C%84%E9%92%9F%E9%97%B4%E9%9A%99%E8%AE%AD%E7%BB%83%E6%B3%95/</link>
+      <link>http://example.org/posts/%E7%95%AA%E8%8C%84%E9%92%9F%E9%97%B4%E9%9A%99%E8%AE%AD%E7%BB%83%E6%B3%95/</link>
       <pubDate>Tue, 17 Mar 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%95%AA%E8%8C%84%E9%92%9F%E9%97%B4%E9%9A%99%E8%AE%AD%E7%BB%83%E6%B3%95/</guid>
+      <guid>http://example.org/posts/%E7%95%AA%E8%8C%84%E9%92%9F%E9%97%B4%E9%9A%99%E8%AE%AD%E7%BB%83%E6%B3%95/</guid>
       <description>番茄钟间隙训练法 2022年3月17日 星期四 晴天
 番茄钟间隙训练法，顾名思义，就是工作的时候使用番茄钟，专心致志地聚焦在工作上；而休息的间隙，5分钟左右，就去锻炼身体，无论是拉伸一下紧张的肌肉，还是做几组俯卧撑和引体向上，三五分钟的效果就很好了。
 自己近来状态低迷，难以保持高质量的一整套训练（时间大概一两个小时）。于是试验这种懒人健身方法——番茄钟间隙训练法。
@@ -1015,10 +1019,10 @@ Elyn是那种天然让人喜欢的瑜伽美女，如花般芬芳美丽的人儿�
     
     <item>
       <title>戴个口罩 减轻恐惧</title>
-      <link>https://lucky.cm/posts/2020%E5%B9%B41%E6%9C%8828%E6%97%A5-%E6%88%B4%E5%8F%A3%E7%BD%A9/</link>
+      <link>http://example.org/posts/2020%E5%B9%B41%E6%9C%8828%E6%97%A5-%E6%88%B4%E5%8F%A3%E7%BD%A9/</link>
       <pubDate>Tue, 28 Jan 2020 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2020%E5%B9%B41%E6%9C%8828%E6%97%A5-%E6%88%B4%E5%8F%A3%E7%BD%A9/</guid>
+      <guid>http://example.org/posts/2020%E5%B9%B41%E6%9C%8828%E6%97%A5-%E6%88%B4%E5%8F%A3%E7%BD%A9/</guid>
       <description>2020年1月28日
 戴个口罩 减轻恐惧
 明天要上班了，什么延迟假期推迟工作的政策与我无关的，我只能控制自己的生活（能做到已经很不容易）。这两天没日没夜看小说（因为动漫番更新太慢，其他影视又觉得拖沓缺乏想象力，还真不如看小说），缺乏锻炼用眼过度，吃的也不算健康，身体的状态自然不够饱满。于是想着出门走走，买几个新鲜的菜，做顿好饭，调理一番。
@@ -1032,10 +1036,10 @@ Elyn是那种天然让人喜欢的瑜伽美女，如花般芬芳美丽的人儿�
     
     <item>
       <title>你想要什么</title>
-      <link>https://lucky.cm/posts/%E4%BD%A0%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88/</link>
+      <link>http://example.org/posts/%E4%BD%A0%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88/</link>
       <pubDate>Wed, 23 Oct 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%BD%A0%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88/</guid>
+      <guid>http://example.org/posts/%E4%BD%A0%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88/</guid>
       <description>你想要什么？ 时间一晃，又过去好多天。（配合一声轻轻的叹气，然后想起深圳朋友对我的好心劝诫：不要叹气，要积极阳光，要让人舒服……）
 半山腰
 从年龄上来讲，我已经步入大叔行列；而内心来讲，似乎依然年轻，偶尔还会多愁善感，想些风花雪月……
@@ -1077,10 +1081,10 @@ AA制挺好，真正的AA制不是平均，而是自己吃多少负责多少…�
     
     <item>
       <title>举重 少有人走的路</title>
-      <link>https://lucky.cm/posts/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF/</link>
+      <link>http://example.org/posts/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF/</link>
       <pubDate>Mon, 23 Sep 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF/</guid>
+      <guid>http://example.org/posts/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF/</guid>
       <description>少有人走的路 也不知是哪天，无意中在知乎上刷到喜宝的一个举重视频。当时，就惊呼，哇，原来举重的美女这么可爱，更惊叹的是，那个举重动作，超级干净利落（当时的我还不知道高翻、抓举等术语含义），绝对是长年累月的训练才能达到的水平，那种爆发力和稳定性，让人感受到了举重之美。
 想起高中年代，早上看到过体育生练习快速推举，当时就觉得只是力量训练，也不觉得有什么美感。现在看来真是无知啊！如果时光能够倒流，我一定要交钱给老师，求他们带我一起练的。毕竟好身体是练出来的。
 时间再到2013年，那时候的我刚刚踏进健身房，虽然以前在校时候是业余百米组的前三，拥有一定爆发力，但是对器械训练完全一无所知。当时，我按照自己的想象，随便拉拉，举举，被一身肌肉背上有个关公纹身的总教练翻白眼，不知为何，现在还记得很清楚。
@@ -1101,10 +1105,10 @@ AA制挺好，真正的AA制不是平均，而是自己吃多少负责多少…�
     
     <item>
       <title>记 2019年9月8日 广州公益瑜伽（珠江公园）户外活动</title>
-      <link>https://lucky.cm/posts/%E8%AE%B0-2019%E5%B9%B49%E6%9C%888%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E6%B4%BB%E5%8A%A8/</link>
+      <link>http://example.org/posts/%E8%AE%B0-2019%E5%B9%B49%E6%9C%888%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E6%B4%BB%E5%8A%A8/</link>
       <pubDate>Sun, 08 Sep 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AE%B0-2019%E5%B9%B49%E6%9C%888%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E6%B4%BB%E5%8A%A8/</guid>
+      <guid>http://example.org/posts/%E8%AE%B0-2019%E5%B9%B49%E6%9C%888%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E6%B4%BB%E5%8A%A8/</guid>
       <description>记 2019年9月8日 广州公益瑜伽（珠江公园）户外活动 缘起 广州公益瑜伽的微信群里，潜水许久的小伙伴冒泡了，发了一个怀念以前纯公益户外瑜伽的照片小视频。就像平静的湖面投入一颗小石子，泛起的涟漪层层向外扩散，小伙伴们你一言我一语地聊起来。作为一个还保持着一定激情和热情的瑜伽老师，觉得到了组织一次户外瑜伽的时候了。于是开始调研投票，后台报名等程序。最终，在安妮老师的加持下，凑够了户外瑜伽“开课”的人数。
 千万不要觉得十几个人的一次户外瑜伽很容易。据我经验，在广州有好几个十几二十年的老同学哥们儿，然而很多时候一两个月都约不到一场球！尤其对家有儿女的家庭，周末一般是固定的家庭日，平时都在忙工作，周末一定要陪小孩的，这也是起码的责任。想聚一聚，真的没那么容易，放不下或者没时间。
 所以，咱们这些“老”瑜伽小伙伴，能够凑齐十几个人组织一次公益户外瑜伽，着实难能可贵了。贵在有心。
@@ -1136,10 +1140,10 @@ AA制挺好，真正的AA制不是平均，而是自己吃多少负责多少…�
     
     <item>
       <title>绿色武功山</title>
-      <link>https://lucky.cm/posts/2019%E5%B9%B46%E6%9C%88%E7%BB%BF%E8%89%B2%E6%AD%A6%E5%8A%9F%E5%B1%B1/</link>
+      <link>http://example.org/posts/2019%E5%B9%B46%E6%9C%88%E7%BB%BF%E8%89%B2%E6%AD%A6%E5%8A%9F%E5%B1%B1/</link>
       <pubDate>Fri, 28 Jun 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2019%E5%B9%B46%E6%9C%88%E7%BB%BF%E8%89%B2%E6%AD%A6%E5%8A%9F%E5%B1%B1/</guid>
+      <guid>http://example.org/posts/2019%E5%B9%B46%E6%9C%88%E7%BB%BF%E8%89%B2%E6%AD%A6%E5%8A%9F%E5%B1%B1/</guid>
       <description>上周五也就是6月28日，向绿色武功山出发的日子；到现在7月5日，又是星期五了，时间过得太快了。而我的徒步小记却屡屡被打断，迟迟没有面世。有时候，都质疑自己“廉颇老矣，尚能码字否？”。
 手头好几个策划都没有落实，各方面的压力又像潜入深海，大脑反而变得迟钝，拖延症患者还有救吗？
 还是抢救一下吧。8000字的游记有点为难，那就缩减3000字，3000字还觉得有压力，那么，就随便写写300字，挑一个重点，说几个感受，标记一下『原创』也好。
@@ -1184,10 +1188,10 @@ Shawn
     
     <item>
       <title>去户外，找健康，寻开心</title>
-      <link>https://lucky.cm/posts/%E5%8E%BB%E6%88%B7%E5%A4%96%E6%89%BE%E5%81%A5%E5%BA%B7%E5%AF%BB%E5%BC%80%E5%BF%83/</link>
+      <link>http://example.org/posts/%E5%8E%BB%E6%88%B7%E5%A4%96%E6%89%BE%E5%81%A5%E5%BA%B7%E5%AF%BB%E5%BC%80%E5%BF%83/</link>
       <pubDate>Sun, 23 Jun 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8E%BB%E6%88%B7%E5%A4%96%E6%89%BE%E5%81%A5%E5%BA%B7%E5%AF%BB%E5%BC%80%E5%BF%83/</guid>
+      <guid>http://example.org/posts/%E5%8E%BB%E6%88%B7%E5%A4%96%E6%89%BE%E5%81%A5%E5%BA%B7%E5%AF%BB%E5%BC%80%E5%BF%83/</guid>
       <description>去户外，找健康，寻开心 之前打开过好多次微信公众后台，每次都是想写点什么然后又不了了之。哈，毕竟不是职业的运营，实在没办法逼迫自己。
 只好等有心情了，再记录点东西，贴点图片。
 我喜欢随心所欲，我喜欢自然而然，我喜欢真实表达。
@@ -1206,11 +1210,11 @@ Shawn</description>
     
     <item>
       <title>广州621国际瑜伽日</title>
-      <link>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E-%E7%83%AD%E7%83%88%E5%BA%86%E7%A5%9D621%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5/</link>
+      <link>http://example.org/posts/%E5%B9%BF%E5%B7%9E-%E7%83%AD%E7%83%88%E5%BA%86%E7%A5%9D621%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5/</link>
       <pubDate>Fri, 21 Jun 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E-%E7%83%AD%E7%83%88%E5%BA%86%E7%A5%9D621%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5/</guid>
-      <description> [广州] 热烈庆祝621国际瑜伽日 2019年6月21日 星期五 晴 立夏
+      <guid>http://example.org/posts/%E5%B9%BF%E5%B7%9E-%E7%83%AD%E7%83%88%E5%BA%86%E7%A5%9D621%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5/</guid>
+      <description>[广州] 热烈庆祝621国际瑜伽日 2019年6月21日 星期五 晴 立夏
 今天参加了由印度驻广州总领事馆与《瑜伽》杂志、艾扬格瑜伽学院联合举办的621国际瑜伽日活动。
 昨晚和朋友会谈，晚归晚睡，而今早5:45起床，7:45到达活动场地。
 给我第一感觉是：这么大的太阳，竟然是户外的活动!？我一个粗糙汉子也就算了，那些肤白貌美的 yogini 呢？
@@ -1231,11 +1235,11 @@ THE END - </description>
     
     <item>
       <title>[徒步记] 宁静总在折腾后</title>
-      <link>https://lucky.cm/posts/%E5%BE%92%E6%AD%A5%E8%AE%B0-%E5%AE%81%E9%9D%99%E6%80%BB%E5%9C%A8%E6%8A%98%E8%85%BE%E5%90%8E/</link>
+      <link>http://example.org/posts/%E5%BE%92%E6%AD%A5%E8%AE%B0-%E5%AE%81%E9%9D%99%E6%80%BB%E5%9C%A8%E6%8A%98%E8%85%BE%E5%90%8E/</link>
       <pubDate>Sun, 16 Jun 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%BE%92%E6%AD%A5%E8%AE%B0-%E5%AE%81%E9%9D%99%E6%80%BB%E5%9C%A8%E6%8A%98%E8%85%BE%E5%90%8E/</guid>
-      <description> [徒步记] 宁静总在折腾后 2019年6月16日　星期天　阳光灿烂
+      <guid>http://example.org/posts/%E5%BE%92%E6%AD%A5%E8%AE%B0-%E5%AE%81%E9%9D%99%E6%80%BB%E5%9C%A8%E6%8A%98%E8%85%BE%E5%90%8E/</guid>
+      <description>[徒步记] 宁静总在折腾后 2019年6月16日　星期天　阳光灿烂
 看到大海啦！ 心情很激动又很平静啦！
 昨日深圳东西涌穿越徒步活动，回到已接近凌晨，今日补了个懒觉，起床的时候发现阳光特别通透，阳台外的树叶绿得让人欣喜，而楼下偶尔传来的儿童打闹声则使我感到些许不同的内心的宁静。
 能够感受到平常生活的幸福感，能够体会到心绪的宁静，而不是总为了一日三餐愁眉苦脸。生活本该如此啊！对瑜伽老师，尤其重要。因为瑜伽老师传递的应该是审美的东西，例如平和、喜悦，力量、柔韧……
@@ -1269,10 +1273,10 @@ THE END - </description>
     
     <item>
       <title>咳嗽感冒，不用吃药</title>
-      <link>https://lucky.cm/posts/%E5%92%B3%E5%97%BD%E6%84%9F%E5%86%92%E4%B8%8D%E7%94%A8%E5%90%83%E8%8D%AF/</link>
+      <link>http://example.org/posts/%E5%92%B3%E5%97%BD%E6%84%9F%E5%86%92%E4%B8%8D%E7%94%A8%E5%90%83%E8%8D%AF/</link>
       <pubDate>Mon, 04 Mar 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%92%B3%E5%97%BD%E6%84%9F%E5%86%92%E4%B8%8D%E7%94%A8%E5%90%83%E8%8D%AF/</guid>
+      <guid>http://example.org/posts/%E5%92%B3%E5%97%BD%E6%84%9F%E5%86%92%E4%B8%8D%E7%94%A8%E5%90%83%E8%8D%AF/</guid>
       <description>咳嗽感冒，不用吃药 昨日发布了一条小猫咪领养信息，打扰了两个瑜伽群，群发了公众号。遗憾的是，至今也只有一位友人有兴趣询问了一下，最终无果。所以，今日又把文章贴到了豆瓣专门领养猫咪的小组，再看看反馈吧。（互联网盛行，圈子细分那么多，真的需要广撒网，才能概率高点呢）
 昨日感觉到咳嗽已经好得差不多了，喉咙还有点充血，发炎的感觉，鼻子还有点不通畅，脑子却是清醒了，于是重新恢复训练。根据自己的感觉，按照训练计划，一项项下来，耗时较长，却最终完成了系统的训练。最后还增加了拳击和鞭腿训练，打完沙包，真是浑身舒爽！
 咳嗽了三天，前两天最严重，甚至咳出了血，心肝脾肺都要咳出来的感觉，不由得心生恐惧。想到多年前在挤公交时感染了厉害的流感病毒，整整咳了一个多月！ 最后还是吃了一种特效感冒药才好起来，心有余悸，害怕重蹈覆辙呢。
@@ -1295,10 +1299,10 @@ THE END - </description>
     
     <item>
       <title>祈福瑜伽108拜</title>
-      <link>https://lucky.cm/posts/%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD108%E6%8B%9C/</link>
+      <link>http://example.org/posts/%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD108%E6%8B%9C/</link>
       <pubDate>Tue, 01 Jan 2019 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD108%E6%8B%9C/</guid>
+      <guid>http://example.org/posts/%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD108%E6%8B%9C/</guid>
       <description>祈福瑜伽108拜 也不知道元旦那天的天气如何，有多少瑜伽朋友能够按计划到达，所以特意提前准备好祈祷词与音频文件，方便路途遥远或其他原因无法一起祈福的小伙伴。
 无论您身在何方，元旦当天9点，让我们一起跟随祈祷词的声音，做一件有意义的事情吧！
 导语：
@@ -1364,15 +1368,16 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
 我能够适当清楚的表达自己，我能够与人做最好的沟通，我释放所有的负能量，没有压抑，所以我的肝脏很快乐。
 我彻底的实行宽恕和感谢。我祝福每一个人。我无条件的去爱和理解。爱是我永远的选择，所以我的心脏也彻底自由，没有负担。
 我只看好的只想好的我只活在当下，所以我全身的肌肉健康有活力，我全身的筋骨强壮又有力，双腿双脚轻松自在没有压力。
-唯有经过释放，善良的美好的能量才会展现出来。想要幸福和健康，首先要释放所有的压抑和愤怒。</description>
+唯有经过释放，善良的美好的能量才会展现出来。想要幸福和健康，首先要释放所有的压抑和愤怒。
+潜意识隐藏的信念，主导了我们的一生。释放的祈祷，帮助释放所有限制我们的负面信念。</description>
     </item>
     
     <item>
       <title>珠江公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E8%AE%B02018-12-1%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E8%AE%B02018-12-1%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sat, 01 Dec 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AE%B02018-12-1%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E8%AE%B02018-12-1%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
       <description>[记]2018-12-1日珠江公园户外瑜伽 璐璐
 每一次的户外都是非常开心快乐的，每一次的户外都让我感觉自己还年轻，每一次的户外都让我享受生命，每一次的户外都让我感觉世界是多么的美好。。。。。。。
 最好的活法，不是其他，而是你认真过好每一天，认真对待每个身边人。
@@ -1416,10 +1421,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>珠江公园欢乐瑜伽</title>
-      <link>https://lucky.cm/posts/%E5%A4%9A%E5%9B%BE-%E6%9C%AB%E6%9C%88%E9%A6%96%E6%97%A5-%E6%AC%A2%E4%B9%90%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E5%A4%9A%E5%9B%BE-%E6%9C%AB%E6%9C%88%E9%A6%96%E6%97%A5-%E6%AC%A2%E4%B9%90%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sat, 01 Dec 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%A4%9A%E5%9B%BE-%E6%9C%AB%E6%9C%88%E9%A6%96%E6%97%A5-%E6%AC%A2%E4%B9%90%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E5%A4%9A%E5%9B%BE-%E6%9C%AB%E6%9C%88%E9%A6%96%E6%97%A5-%E6%AC%A2%E4%B9%90%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>[多图] 末月首日 | 欢乐珠江公园 | 广州公益瑜伽 今天是2018年12月1日，瑜伽小伙伴说，又是新的一天开始啦！
 我很喜欢这样的表达。心态年轻才会怀着憧憬喜悦的心说道，就快新年啦，而不是今年只剩最后一个月了。
 本次公益户外瑜伽，是咱资深瑜伽爱好者璐璐姐带头的。起因是璐璐姐说到自己竟然半年多都没有参加户外瑜伽活动了，期待和小伙伴一起玩耍，健康快乐，还发了去年咱们去东湖公园的照片和感悟文字。
@@ -1438,10 +1443,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>又一场户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E5%8F%88%E4%B8%80%E5%9C%BA%E6%88%B7%E5%A4%96-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
+      <link>http://example.org/posts/%E5%8F%88%E4%B8%80%E5%9C%BA%E6%88%B7%E5%A4%96-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
       <pubDate>Sun, 11 Nov 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8F%88%E4%B8%80%E5%9C%BA%E6%88%B7%E5%A4%96-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
+      <guid>http://example.org/posts/%E5%8F%88%E4%B8%80%E5%9C%BA%E6%88%B7%E5%A4%96-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
       <description>又一场户外 | 广州公益瑜伽 | 珠江公园 从业十年的瑜伽导师：梅子
 2018年11月11日早就从光棍节变成了网络购物节十年之久，而简单工作生活的我心心念的却是周日活动，压根儿就没有关注这个日子，在慧兰瑜伽体式练习之后，和瑜伽小伙伴婷婷聊起，才惊觉日子“特殊”！
 原来不知不觉，我已步入“中年”，开始内观，自动屏蔽噪音和冗余。好吧，就不装X了——瑜伽老师没有钱过购物节。瑜伽老师很喜欢和大自然亲近，和瑜伽朋友一起玩耍。
@@ -1471,10 +1476,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>湿的好还是干的好</title>
-      <link>https://lucky.cm/posts/%E6%B9%BF%E7%9A%84%E9%A9%AC%E9%93%83%E8%96%AF%E5%A5%BD%E8%BF%98%E6%98%AF%E5%B9%B2%E7%9A%84%E5%A5%BD/</link>
+      <link>http://example.org/posts/%E6%B9%BF%E7%9A%84%E9%A9%AC%E9%93%83%E8%96%AF%E5%A5%BD%E8%BF%98%E6%98%AF%E5%B9%B2%E7%9A%84%E5%A5%BD/</link>
       <pubDate>Thu, 23 Aug 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B9%BF%E7%9A%84%E9%A9%AC%E9%93%83%E8%96%AF%E5%A5%BD%E8%BF%98%E6%98%AF%E5%B9%B2%E7%9A%84%E5%A5%BD/</guid>
+      <guid>http://example.org/posts/%E6%B9%BF%E7%9A%84%E9%A9%AC%E9%93%83%E8%96%AF%E5%A5%BD%E8%BF%98%E6%98%AF%E5%B9%B2%E7%9A%84%E5%A5%BD/</guid>
       <description>湿的马铃薯好，还是干的好？ 出门锻炼前，和舍友进行了一番“争吵式”讨论。“公说公有理婆说婆有理”，就是很长时间都没有讨论到“点”上。
 他说的是商业模式，我讲的是人生意义。
 其实，大家都有动脑子，都有条理、理性。只是，论点没厘清，也是白搭。
@@ -1510,10 +1515,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>心若菩提 曹德旺</title>
-      <link>https://lucky.cm/posts/%E5%BF%83%E8%8B%A5%E8%8F%A9%E6%8F%90-%E6%9B%B9%E5%BE%B7%E6%97%BA/</link>
+      <link>http://example.org/posts/%E5%BF%83%E8%8B%A5%E8%8F%A9%E6%8F%90-%E6%9B%B9%E5%BE%B7%E6%97%BA/</link>
       <pubDate>Sat, 24 Mar 2018 00:03:19 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%BF%83%E8%8B%A5%E8%8F%A9%E6%8F%90-%E6%9B%B9%E5%BE%B7%E6%97%BA/</guid>
+      <guid>http://example.org/posts/%E5%BF%83%E8%8B%A5%E8%8F%A9%E6%8F%90-%E6%9B%B9%E5%BE%B7%E6%97%BA/</guid>
       <description>心若菩提 曹德旺 多年前通过网络知道曹德旺这个人：当时觉得他真厉害，敢于创新从商，勇于承担，“被逼”成为亿万富翁；更厉害之处在于他对慈善的理解，对慈善做出的贡献。
 前几天，出于“功利”之心，想从成功的企业家身上得到一些有用的做人做事的方法，把自己从泥淖中拔出来。于是通宵熬夜看完了曹德旺自己写的传记《心若菩提》。
 这本书写得很朴实，却让人津津有味有趣，书中全部实名，无论恩怨，也是让人震撼——君子坦荡荡！ 真实的东西，才能让人感觉到莫大的力量。庆幸把这本书读完了。一个人的一生，浓缩起来，一本书（甚至几页纸）就可以概括。然而，书的质量和看书的心，是截然不同的。
@@ -1538,10 +1543,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>一年365天无死角</title>
-      <link>https://lucky.cm/posts/%E4%B8%80%E5%B9%B4365%E5%A4%A9%E6%97%A0%E6%AD%BB%E8%A7%92/</link>
+      <link>http://example.org/posts/%E4%B8%80%E5%B9%B4365%E5%A4%A9%E6%97%A0%E6%AD%BB%E8%A7%92/</link>
       <pubDate>Fri, 23 Mar 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%80%E5%B9%B4365%E5%A4%A9%E6%97%A0%E6%AD%BB%E8%A7%92/</guid>
+      <guid>http://example.org/posts/%E4%B8%80%E5%B9%B4365%E5%A4%A9%E6%97%A0%E6%AD%BB%E8%A7%92/</guid>
       <description>一年365天无死角 ​ 多年前偶然在微博搜索到王新凤老师，惊讶于她提出的“三位一体”论：无氧运动+有氧运动+瑜伽 ，竟是我亲身体验的综合（平衡）训练理念的高度归纳。
 王新凤老师的微博简介是：中国首位世界健身小姐 中国健身小姐冠军 CCTV-5《体育人间》专题人物 撰写出版四本健身书籍 《健与美》专栏作家 资深私人教练 瑜伽教练
 头衔不重要的，令人钦佩的是——王老师多年来在微博上晒健身美照，免费科普健身知识，能够做到始终如一的专业且宽容的姿态。给人以力量和正确的审美，激励人追求健康的体魄和人格魅力。由衷地称呼之“老师”，确实是学生受益了。
@@ -1562,10 +1567,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>吃很重要，但吃不是万能的</title>
-      <link>https://lucky.cm/posts/%E5%90%83%E5%BE%88%E9%87%8D%E8%A6%81%E4%BD%86%E5%90%83%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84/</link>
+      <link>http://example.org/posts/%E5%90%83%E5%BE%88%E9%87%8D%E8%A6%81%E4%BD%86%E5%90%83%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84/</link>
       <pubDate>Fri, 23 Mar 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%90%83%E5%BE%88%E9%87%8D%E8%A6%81%E4%BD%86%E5%90%83%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84/</guid>
+      <guid>http://example.org/posts/%E5%90%83%E5%BE%88%E9%87%8D%E8%A6%81%E4%BD%86%E5%90%83%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84/</guid>
       <description>吃很重要，但吃不是万能的。 老家有一位亲戚得知我在做瑜伽健身，通过微信询问我，更年期怒气旺，情绪波动大，应该吃什么药比较好……
 这&amp;hellip;？？？
 恕我有点无语，搞不懂她的逻辑，我是做运动疗愈的，不是医生呀，吃药的事情怎么能够随便推荐呢？正确的流程，不是应该去合适的医院找专业的医生“望闻问切”之后，最后得出科学合理的治疗方案么？
@@ -1610,10 +1615,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>手脚冰冷怎么办</title>
-      <link>https://lucky.cm/posts/%E6%89%8B%E8%84%9A%E5%86%B0%E5%86%B7%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
+      <link>http://example.org/posts/%E6%89%8B%E8%84%9A%E5%86%B0%E5%86%B7%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
       <pubDate>Fri, 23 Mar 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%89%8B%E8%84%9A%E5%86%B0%E5%86%B7%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
+      <guid>http://example.org/posts/%E6%89%8B%E8%84%9A%E5%86%B0%E5%86%B7%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
       <description>手脚冰冷怎么办？ （2010年海洋银杏树下合影）
 如果你在桂林待过几年，就会觉得广州的冬天根本就不算个事。桂林冬天的风，以及深秋的桂花香将永远地印在我脑子里。
 为什么要说起桂林的冬天呢？因为最近有朋友咨询我，她一到冬天就会手脚冰冷，怎么都暖不起来……
@@ -1637,10 +1642,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>期待已久的户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%E7%9A%84%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%E7%9A%84%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Fri, 23 Mar 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%E7%9A%84%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%E7%9A%84%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
       <description>期待已久的户外瑜伽 高春兰
 距离上次户外瑜伽忘记多少时日了，我怀念户外瑜伽已经有3、4个月之久了，今天终于等来了阿爽教练的户外瑜伽了。 正如阿爽所言，他现在都忙着提升自己健身瑜伽水平，没有出来和大家一起玩瑜伽了。我最近3个月做着化妆师自由职业，原计划自由职业可以更自由得安排自己的时间，除了学习工作外，也可以自由安排时参加想参加活动、和朋友联系、去参观艺术馆等。实际上，这段主要都是忙着提升专业技能、学习和拓展业务，却很少参加活动、联系朋友、参加艺术馆。
 带着忘记的快乐，享受着春天的感觉 今天终于出来户外瑜伽了，我背上瑜伽垫，带着忘记的快乐，哼着小曲“一寸光阴一寸金，老师说过寸金难买寸光阴……等待着下课等待着放学，等待游戏的童年……”来到户外瑜伽的常来之地珠江公园，今天练习的地方是藤木园。我来了珠江公园瑜伽也有几次了，竟然没有发现这么好看的一个地方，白色镂空墙和木栏搭配，木栏爬着藤蔓，今天天气阴凉，清风吹着脸和发丝，真的像百合说得“有春天的感觉”。
@@ -1661,10 +1666,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>拜日祈福，喜庆元旦</title>
-      <link>https://lucky.cm/posts/%E6%8B%9C%E6%97%A5%E7%A5%88%E7%A6%8F%E5%96%9C%E5%BA%86%E5%85%83%E6%97%A6%E7%91%9C%E4%BC%BD%E5%B0%8F%E4%BC%99%E4%BC%B4%E7%9B%B8%E8%81%9A%E5%9C%A8%E4%B8%80%E8%B5%B7/</link>
+      <link>http://example.org/posts/%E6%8B%9C%E6%97%A5%E7%A5%88%E7%A6%8F%E5%96%9C%E5%BA%86%E5%85%83%E6%97%A6%E7%91%9C%E4%BC%BD%E5%B0%8F%E4%BC%99%E4%BC%B4%E7%9B%B8%E8%81%9A%E5%9C%A8%E4%B8%80%E8%B5%B7/</link>
       <pubDate>Mon, 01 Jan 2018 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%8B%9C%E6%97%A5%E7%A5%88%E7%A6%8F%E5%96%9C%E5%BA%86%E5%85%83%E6%97%A6%E7%91%9C%E4%BC%BD%E5%B0%8F%E4%BC%99%E4%BC%B4%E7%9B%B8%E8%81%9A%E5%9C%A8%E4%B8%80%E8%B5%B7/</guid>
+      <guid>http://example.org/posts/%E6%8B%9C%E6%97%A5%E7%A5%88%E7%A6%8F%E5%96%9C%E5%BA%86%E5%85%83%E6%97%A6%E7%91%9C%E4%BC%BD%E5%B0%8F%E4%BC%99%E4%BC%B4%E7%9B%B8%E8%81%9A%E5%9C%A8%E4%B8%80%E8%B5%B7/</guid>
       <description>拜日祈福，喜庆元旦，瑜伽小伙伴相聚在一起 新年的第一天，意义非凡，人们相互问候，跨年喜庆。作为一个瑜伽中人，我第一想到的就是和伽人们一起，到户外去，亲近大自然，用瑜伽祈福，愿世界和平，人人欢乐。
 询问瑜伽小伙伴，查看周边瑜伽公众号，未曾发现符合自己心愿的“户外祈福瑜伽”活动。临近元旦三四天，在微信群里呼唤了一下，哎哟不错，有几人回应。于是就有了咱们2018年元旦珠江公园拜日祈福瑜伽活动。
 感谢瑜伽小伙伴们儿的陪伴，Namaste !
@@ -1680,10 +1685,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>记·东山湖公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E8%AE%B0%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E8%AE%B0%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Mon, 23 Oct 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AE%B0%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E8%AE%B0%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>记·东山湖公益瑜伽 1
 一场说来就来的户外瑜伽
 昨晚九点左右，伽友璐璐发消息询问有无瑜伽活动。瑜伽活动肯定很多啦，有悠季瑜伽校友会，有瑜伽节三日会，还有千人瑜伽，各种群组织的户外。活动常常有，小而美的公益瑜伽不常有，融洽得来又有收获，休闲得来训练又足的聚会更难得。
@@ -1703,10 +1708,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>真正值钱的</title>
-      <link>https://lucky.cm/posts/%E7%9C%9F%E6%AD%A3%E5%80%BC%E9%92%B1%E7%9A%84/</link>
+      <link>http://example.org/posts/%E7%9C%9F%E6%AD%A3%E5%80%BC%E9%92%B1%E7%9A%84/</link>
       <pubDate>Sat, 23 Sep 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%9C%9F%E6%AD%A3%E5%80%BC%E9%92%B1%E7%9A%84/</guid>
+      <guid>http://example.org/posts/%E7%9C%9F%E6%AD%A3%E5%80%BC%E9%92%B1%E7%9A%84/</guid>
       <description>前段时间，一些瑜伽教练在朋友圈转载这么一条：
 动作不值钱，可贵的全是细节。 一个动作，两种结果。 一种叫损伤，一种叫健康。 因为“像”，不代表一样。 需要激情，更需要专业。
 并配上对与错的图片： （幻椅式） 一个细节是收尾骨，一个是膝盖靠中线。乍看之下，觉得很有道理，很专业，好像我们严格遵守了这些细节，就对了，就专业了。
@@ -1749,10 +1754,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>广州塔千人瑜伽（母其弥亚）</title>
-      <link>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%8D%83%E4%BA%BA%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%AF%8D%E5%85%B6%E5%BC%A5%E9%9B%85%E6%9F%B3%E5%B2%A9%E5%88%B0%E5%9C%BA/</link>
+      <link>http://example.org/posts/%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%8D%83%E4%BA%BA%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%AF%8D%E5%85%B6%E5%BC%A5%E9%9B%85%E6%9F%B3%E5%B2%A9%E5%88%B0%E5%9C%BA/</link>
       <pubDate>Sat, 29 Jul 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%8D%83%E4%BA%BA%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%AF%8D%E5%85%B6%E5%BC%A5%E9%9B%85%E6%9F%B3%E5%B2%A9%E5%88%B0%E5%9C%BA/</guid>
+      <guid>http://example.org/posts/%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%8D%83%E4%BA%BA%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%AF%8D%E5%85%B6%E5%BC%A5%E9%9B%85%E6%9F%B3%E5%B2%A9%E5%88%B0%E5%9C%BA/</guid>
       <description>本来还想说几句的，但是说不出来，好吧，只看图好了。
 前期报名，过三关斩五将。
 现场长时间排长龙，安检人员还要将手机拿在手中验证短信，不允许带任何饮料进场，当场喝掉或扔掉。
@@ -1775,19 +1780,19 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>东山湖公园户外瑜伽 文/璐璐</title>
-      <link>https://lucky.cm/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%96%87%E7%92%90%E7%92%90/</link>
+      <link>http://example.org/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%96%87%E7%92%90%E7%92%90/</link>
       <pubDate>Sun, 23 Jul 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%96%87%E7%92%90%E7%92%90/</guid>
-      <description> 『多图』东山湖公园户外瑜伽 文/璐璐 文/璐璐姐 图/梦瑶（摄影）璐璐随拍&amp;hellip; 一个人最好的生活状态，是该干正事的时候干正事，该玩的时候尽情玩，看见优秀的人欣赏，看到落魄的人也不轻视，有自己的小生活和小情趣，不用去想改变世界，努力去活出自己。 人生最美女的事就是每天早晨都能看到生赐予我们的那一米阳光，这才是生命中最美好的开始！ 天下不是你的，但是你可以纵观天下，感受自然的美！ 岁月静好，微风不燥！ 美人不是你的，但是你可以观察美人，感受心灵的美！ 感谢瑜伽让我们相遇，珍惜我们的情谊！ </description>
+      <guid>http://example.org/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%96%87%E7%92%90%E7%92%90/</guid>
+      <description>『多图』东山湖公园户外瑜伽 文/璐璐 文/璐璐姐 图/梦瑶（摄影）璐璐随拍&amp;hellip; 一个人最好的生活状态，是该干正事的时候干正事，该玩的时候尽情玩，看见优秀的人欣赏，看到落魄的人也不轻视，有自己的小生活和小情趣，不用去想改变世界，努力去活出自己。 人生最美女的事就是每天早晨都能看到生赐予我们的那一米阳光，这才是生命中最美好的开始！ 天下不是你的，但是你可以纵观天下，感受自然的美！ 岁月静好，微风不燥！ 美人不是你的，但是你可以观察美人，感受心灵的美！ 感谢瑜伽让我们相遇，珍惜我们的情谊！ </description>
     </item>
     
     <item>
       <title>东山湖户外瑜伽 </title>
-      <link>https://lucky.cm/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD-%E6%96%87%E7%99%BE%E5%90%88/</link>
+      <link>http://example.org/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD-%E6%96%87%E7%99%BE%E5%90%88/</link>
       <pubDate>Sun, 04 Jun 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD-%E6%96%87%E7%99%BE%E5%90%88/</guid>
+      <guid>http://example.org/posts/%E4%B8%9C%E5%B1%B1%E6%B9%96%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD-%E6%96%87%E7%99%BE%E5%90%88/</guid>
       <description>东山湖户外瑜伽 文/百合 2017-6 -4
 东山湖户外瑜伽
 早上起来，阴天，有点犹豫是否参加户外瑜伽，最后还是冒着侥幸心理出发了，由于路途有点远，担心超时达到找不到组织，于是发了微信给组织者阿爽说我已经出发(让组织稍等片刻) ，来到东湖公园，太阳公公出来了，我们边逛公园，边赏美景，这老城区的公园人满为患，不过也习以为常，这里寸土寸金。最后我们在老地方练习动力瑜伽，一节课下来，汗流浃背。
@@ -1801,10 +1806,10 @@ Namaste是尊敬和感谢，是欣赏和感激。欣赏和感激，是一种最�
     
     <item>
       <title>记2017年6月4日东山湖公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E8%AE%B02017%E5%B9%B46%E6%9C%884%E6%97%A5%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E8%AE%B02017%E5%B9%B46%E6%9C%884%E6%97%A5%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 04 Jun 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AE%B02017%E5%B9%B46%E6%9C%884%E6%97%A5%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E8%AE%B02017%E5%B9%B46%E6%9C%884%E6%97%A5%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
       <description>记2017年6月4日东山湖公园户外瑜伽 图文/梁爽
 六月四日星期天，早早醒来，洗漱活络，读报看天。再三确认老天没有下雨，于是决定动身前往东山湖公园。
 做人，要有口齿。与小伙伴的约定不会随意变卦，尤其是昨晚一两点才睡下早上起不来这种低级借口（事实也不行(▭-▭)✧难道我还要告诉你是通过户外瑜伽活动治愈失眠症的吗？
@@ -1834,10 +1839,10 @@ CICI带来一盒爱心巧克力，分享大家甜蜜；
     
     <item>
       <title>工作是最好的修行</title>
-      <link>https://lucky.cm/posts/%E5%B7%A5%E4%BD%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BF%AE%E8%A1%8C/</link>
+      <link>http://example.org/posts/%E5%B7%A5%E4%BD%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BF%AE%E8%A1%8C/</link>
       <pubDate>Thu, 25 May 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%B7%A5%E4%BD%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BF%AE%E8%A1%8C/</guid>
+      <guid>http://example.org/posts/%E5%B7%A5%E4%BD%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BF%AE%E8%A1%8C/</guid>
       <description>工作是最好的修行 现在朋友圈最多的还是微商广告，鲜有令人怦然心动瞬间。不如关闭功能，活在自己的小世界，踩着自己的节奏。起码昨晚之前，我是这么想也是那样做的。
 昨天经历了一番艰难的思虑——重新审视自身、工作、家庭，过去和未来。不断地反思、反省和调整，思路、心态、观点、事实、理智。
 并没有顿悟得出一个明确的结论。却表明是一个好的思考过程。因为变化才是永恒的，真理只能无限趋近。
@@ -1880,10 +1885,10 @@ CICI带来一盒爱心巧克力，分享大家甜蜜；
     
     <item>
       <title>美的鹭湖公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%9C%80%E5%88%9D%E7%9A%84%E4%B9%90%E8%B6%A3/</link>
+      <link>http://example.org/posts/%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%9C%80%E5%88%9D%E7%9A%84%E4%B9%90%E8%B6%A3/</link>
       <pubDate>Tue, 28 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%9C%80%E5%88%9D%E7%9A%84%E4%B9%90%E8%B6%A3/</guid>
+      <guid>http://example.org/posts/%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%9C%80%E5%88%9D%E7%9A%84%E4%B9%90%E8%B6%A3/</guid>
       <description>任何时候，不要忘记最初的乐趣 （太阳底下的瑜伽）
 最近这两三年非常热衷于户外瑜伽活动，觉得有一帮纯粹去玩的朋友真好！我们只是在一起习练瑜伽，专注呼吸，没有人会不识趣地问你收入、职位，“房事”婚事云云。
 那个时候反正就是一个瑜伽爱好者，从来没想过“经营”的事，怎么开心怎么玩，反而玩出一点成绩。
@@ -1902,10 +1907,10 @@ CICI带来一盒爱心巧克力，分享大家甜蜜；
     
     <item>
       <title>一份简单粗暴的减肥方案</title>
-      <link>https://lucky.cm/posts/%E4%B8%80%E4%BB%BD%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%E7%9A%84%E5%87%8F%E8%82%A5%E6%96%B9%E6%A1%88/</link>
+      <link>http://example.org/posts/%E4%B8%80%E4%BB%BD%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%E7%9A%84%E5%87%8F%E8%82%A5%E6%96%B9%E6%A1%88/</link>
       <pubDate>Thu, 23 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%80%E4%BB%BD%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%E7%9A%84%E5%87%8F%E8%82%A5%E6%96%B9%E6%A1%88/</guid>
+      <guid>http://example.org/posts/%E4%B8%80%E4%BB%BD%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%E7%9A%84%E5%87%8F%E8%82%A5%E6%96%B9%E6%A1%88/</guid>
       <description>一份简单粗暴的减肥方案 一、热身 5分钟 慢跑或者原地踏步，微微出汗即可。
 二、力量 20分钟 1.深蹲
 2.俯卧撑
@@ -1935,10 +1940,10 @@ CICI带来一盒爱心巧克力，分享大家甜蜜；
     
     <item>
       <title>东山湖公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E9%9A%8F%E6%89%8B%E6%8B%8D%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC28%E6%9C%9F/</link>
+      <link>http://example.org/posts/%E9%9A%8F%E6%89%8B%E6%8B%8D%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC28%E6%9C%9F/</link>
       <pubDate>Thu, 23 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%9A%8F%E6%89%8B%E6%8B%8D%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC28%E6%9C%9F/</guid>
+      <guid>http://example.org/posts/%E9%9A%8F%E6%89%8B%E6%8B%8D%E4%B8%9C%E5%B1%B1%E6%B9%96%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC28%E6%9C%9F/</guid>
       <description>【随手拍】东山湖公园-广州公益瑜伽第28期 如春风拂面，如秋实累累，如切如磋，如琢如磨&amp;hellip;
 各位伽人朋友准时到达，亲切问候交谈&amp;hellip;.
 瑜伽姿势练习 什么姿势不要紧，每一次都是新鲜的，都一次见面都是舒心的。
@@ -1956,10 +1961,10 @@ CICI带来一盒爱心巧克力，分享大家甜蜜；
     
     <item>
       <title>究竟怎么学瑜伽</title>
-      <link>https://lucky.cm/posts/%E7%A9%B6%E7%AB%9F%E6%80%8E%E4%B9%88%E5%AD%A6%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E7%A9%B6%E7%AB%9F%E6%80%8E%E4%B9%88%E5%AD%A6%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Thu, 23 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%A9%B6%E7%AB%9F%E6%80%8E%E4%B9%88%E5%AD%A6%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E7%A9%B6%E7%AB%9F%E6%80%8E%E4%B9%88%E5%AD%A6%E7%91%9C%E4%BC%BD/</guid>
       <description>究竟怎么学瑜伽？
 Shawn
 首先必须搞清楚什么是瑜伽？
@@ -1979,19 +1984,19 @@ Shawn
     
     <item>
       <title>第30期广州公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC30%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
+      <link>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC30%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
       <pubDate>Thu, 23 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC30%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
+      <guid>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC30%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
       <description>【活动照片】第30期广州公益瑜伽-珠江公园 感谢瑜伽小伙伴们儿，一起玩耍很开心，或许这才是真正的瑜伽！</description>
     </item>
     
     <item>
       <title>简单饮食 随心瑜</title>
-      <link>https://lucky.cm/posts/%E7%AE%80%E5%8D%95%E9%A5%AE%E9%A3%9F-%E9%9A%8F%E5%BF%83%E7%91%9C/</link>
+      <link>http://example.org/posts/%E7%AE%80%E5%8D%95%E9%A5%AE%E9%A3%9F-%E9%9A%8F%E5%BF%83%E7%91%9C/</link>
       <pubDate>Thu, 23 Mar 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%AE%80%E5%8D%95%E9%A5%AE%E9%A3%9F-%E9%9A%8F%E5%BF%83%E7%91%9C/</guid>
+      <guid>http://example.org/posts/%E7%AE%80%E5%8D%95%E9%A5%AE%E9%A3%9F-%E9%9A%8F%E5%BF%83%E7%91%9C/</guid>
       <description>简单饮食 随心瑜 上周六阴雨寒冷天气，让人颤抖；周日竟然比天气预报的多云还要好上加好，简直是阳光明媚晴空万里。遗憾的是，遇到一点事，取消了白云山的活动。
 今天周一，天气还是好得让人心情愉悦，蓝蓝的天，淡淡的云。吃过早饭，忍不住迈开脚步，走出去晒晒太阳。
 （简单饮食 荤素搭配 原汁原味）
@@ -2007,10 +2012,10 @@ Shawn
     
     <item>
       <title>公益杂谈</title>
-      <link>https://lucky.cm/posts/%E5%85%AC%E7%9B%8A%E6%9D%82%E8%B0%88/</link>
+      <link>http://example.org/posts/%E5%85%AC%E7%9B%8A%E6%9D%82%E8%B0%88/</link>
       <pubDate>Tue, 10 Jan 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%85%AC%E7%9B%8A%E6%9D%82%E8%B0%88/</guid>
+      <guid>http://example.org/posts/%E5%85%AC%E7%9B%8A%E6%9D%82%E8%B0%88/</guid>
       <description>公益杂谈 （第28期广州公益瑜伽）
 已经来到新年的第10天了，小小地感慨一下，时间过得真快！ 一转眼，第28期广州公益瑜伽活动已经圆满结束了。
 可能会有人问，为什么要积累数字呢？(&amp;ldquo;▔□▔) 呃，这个问题有点难。因为我本身从小就不是一个对数字敏感的人，记得没进小学之前，小伙伴的爸爸作为一个教育局的老师，考我们心算计数，小伙伴往往是张口就答，而我总要慢一拍，内心总要反复盘算好几次，怕出错&amp;hellip;小孩子很喜欢攀比也容易自卑，虽然有些方面比人家差了点，但是自己也有比别人强的呀，比如折纸，小伙伴快，但是很马虎，作品歪歪扭扭， 而我折的东西都很精致对称，还得到他教育局老爸的肯定。我跑得比他快，我翻跟斗比他好&amp;hellip;
@@ -2036,10 +2041,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>第24期广州公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E7%AC%AC24%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%B4%A0%E5%BF%83%E7%91%9C%E4%BC%BD%E5%8D%8E%E5%B8%88%E7%AB%99%E5%A6%82%E6%9C%9F%E5%AE%8C%E6%88%90/</link>
+      <link>http://example.org/posts/%E7%AC%AC24%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%B4%A0%E5%BF%83%E7%91%9C%E4%BC%BD%E5%8D%8E%E5%B8%88%E7%AB%99%E5%A6%82%E6%9C%9F%E5%AE%8C%E6%88%90/</link>
       <pubDate>Tue, 10 Jan 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%AC%AC24%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%B4%A0%E5%BF%83%E7%91%9C%E4%BC%BD%E5%8D%8E%E5%B8%88%E7%AB%99%E5%A6%82%E6%9C%9F%E5%AE%8C%E6%88%90/</guid>
+      <guid>http://example.org/posts/%E7%AC%AC24%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%9C%A8%E7%B4%A0%E5%BF%83%E7%91%9C%E4%BC%BD%E5%8D%8E%E5%B8%88%E7%AB%99%E5%A6%82%E6%9C%9F%E5%AE%8C%E6%88%90/</guid>
       <description>第24期广州公益瑜伽
 主要内容是：动力瑜伽的臀腿练习与核心增强，初级八段锦，当然少不了围坐在一起交流心得经验。
 （简单讲解拉伸的三步骤）
@@ -2067,10 +2072,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>2017年珠江公园元旦祈福瑜伽</title>
-      <link>https://lucky.cm/posts/2017%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E5%85%83%E6%97%A6%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/2017%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E5%85%83%E6%97%A6%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 01 Jan 2017 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2017%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E5%85%83%E6%97%A6%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/2017%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E5%85%83%E6%97%A6%E7%A5%88%E7%A6%8F%E7%91%9C%E4%BC%BD/</guid>
       <description>2017珠江公园元旦祈福瑜伽 （2017年元旦祈福活动@珠江公园）
 2017年1月1日，举国上下欢庆元旦，广州公益瑜伽的小伙伴也同样。三十位素心瑜伽人欢聚珠江公园，载歌载舞，瑜伽祈福，接下来的一年，必定红红火火，快快乐乐。
 感恩四位资深瑜伽教练各具特色的拜日瑜伽；
@@ -2094,10 +2099,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>瑜伽是国画，普拉提是油画</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E6%98%AF%E5%9B%BD%E7%94%BB%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E6%B2%B9%E7%94%BB/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E6%98%AF%E5%9B%BD%E7%94%BB%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E6%B2%B9%E7%94%BB/</link>
       <pubDate>Wed, 23 Nov 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E6%98%AF%E5%9B%BD%E7%94%BB%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E6%B2%B9%E7%94%BB/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E6%98%AF%E5%9B%BD%E7%94%BB%E6%99%AE%E6%8B%89%E6%8F%90%E6%98%AF%E6%B2%B9%E7%94%BB/</guid>
       <description>瑜伽是国画，普拉提是油画 ​ 瑜伽据说有8000年的历史，作为古印度哲学体系的一部分，由8个部分组成，体位只是瑜伽的1/8。
 普拉提自1926年在纽约正式亮相至今，不足百年，主导身体活动。
 瑜伽和普拉提有根本性不同。
@@ -2122,10 +2127,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>开心是最重要的元素之一</title>
-      <link>https://lucky.cm/posts/%E5%BC%80%E5%BF%83%E6%98%AF%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%83%E7%B4%A0%E4%B9%8B%E4%B8%80/</link>
+      <link>http://example.org/posts/%E5%BC%80%E5%BF%83%E6%98%AF%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%83%E7%B4%A0%E4%B9%8B%E4%B8%80/</link>
       <pubDate>Sun, 23 Oct 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%BC%80%E5%BF%83%E6%98%AF%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%83%E7%B4%A0%E4%B9%8B%E4%B8%80/</guid>
+      <guid>http://example.org/posts/%E5%BC%80%E5%BF%83%E6%98%AF%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%83%E7%B4%A0%E4%B9%8B%E4%B8%80/</guid>
       <description>开心是最重要的元素之一 本来想拟《开心是最重要的》这个题目，主观点武断点也不是不行。再一想吧，或许对抑郁症患者来说，开心的确是最重要的，是活着的证明，是人生的意义。可对其他很多人来说，或许健康，工资，学费，成绩，爱情……才是最重要的。
 本人也会常常提出一些看似前后矛盾的观点，其实，人生不应该设限。科学能够不断进步，正因为可以时时刻刻验证与推翻，并没有一个终结性真理定论。因此，文字又何妨留些弹性呢？
 一来减少争议，二来表达更恰当些。其实，我也赞成“语言是误会的根源”，同时，也相信没有语言一定会有更多误会。
@@ -2162,10 +2167,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>第20期广州公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E7%AC%AC20%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E7%AC%AC20%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 11 Sep 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%AC%AC20%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E7%AC%AC20%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>第20期广州公益瑜伽 Shawn
 近日来，暴雨连连。咱们广州公益瑜伽的小伙伴们很久没有聚在一起搞搞活动了，这样下去可不行呀。俗话说“拳不离手曲不离口”，雨不停，活动更不能停。
 庆幸认识『素心瑜伽』的青青和蓉蓉，经过商量和准备，于9月11日（今天）上午10点到下午3点，在中海名都A15栋3603素心瑜伽馆内圆满举办了公益瑜伽分享活动。
@@ -2181,10 +2186,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>二沙岛公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E4%BA%8C%E6%B2%99%E5%B2%9B%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E4%BA%8C%E6%B2%99%E5%B2%9B%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Tue, 23 Aug 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%BA%8C%E6%B2%99%E5%B2%9B%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E4%BA%8C%E6%B2%99%E5%B2%9B%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>上周末听闻青青欲组织户外大笑瑜伽，于是合计着广州公益瑜伽一起搞（总觉得这个字太万能了“囧”）。
 由于青青组织活动向来有好口碑，报名人数达到二三十人。并且大多数人都能够准时到场，想想广州佛山四面八方的瑜伽小伙伴，也确实难得。
 也由于青青对时间的把关，让我砍掉了很多自己觉得很重要的话(练习之前没有作必要的提醒，其实是自己失误)。准时开练一套“清晨瑜伽”（在核心基础体式之上编排的），后来还是由于时间关系，几个重要的动作和一组坐立拉伸没有练习到，但大家反应都还挺好的。（其实，公益户外瑜伽，免费的，人家哪好意思说你不好呢？自己想想也知道的了，呵呵）
@@ -2199,10 +2204,10 @@ QQ群还有人提问**，什么叫公益，有什么意义？**
     
     <item>
       <title>CPR具体流程和关键技术</title>
-      <link>https://lucky.cm/posts/cpr%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B%E5%92%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF/</link>
+      <link>http://example.org/posts/cpr%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B%E5%92%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Sat, 16 Apr 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/cpr%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B%E5%92%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF/</guid>
+      <guid>http://example.org/posts/cpr%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B%E5%92%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF/</guid>
       <description>CPR具体流程和关键技术 今天上午六点半就爬起床了，为的是参加广东省人民医院医课室举办的公益培训课。
 课程很简单，却非常实用，意义重大。
 为了巩固学员的知识，举办方特地在课程前后给学员各一份测试题，尤其是具有精确数字显示设备的急救模特以及专业的医师团队帮助学员，做到“达标通关”。
@@ -2260,15 +2265,16 @@ B （Breathing）人工呼吸
 1.以食指拇指捏住伤者鼻孔，将头后仰，下颌抬起；
 2.施救者嘴包住患者的嘴，口对口吹气，把气体吹进肺里；
 3.以吹到伤者胸廓有起伏为以宜。
-胸外按压：人工呼吸</description>
+胸外按压：人工呼吸
+每胸外按压30次，口对口人工呼吸2次，并以此30:2为循环反复。</description>
     </item>
     
     <item>
       <title>珠江公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB2016%E5%B9%B44%E6%9C%882%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB2016%E5%B9%B44%E6%9C%882%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sat, 02 Apr 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB2016%E5%B9%B44%E6%9C%882%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB2016%E5%B9%B44%E6%9C%882%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>珠江公园户外瑜伽 2016年4月2日** 这次户外瑜伽参加的人数不多，但教练好几个，其他的都是资深高手。阿爽喉咙又上火了，讲话吃力，而荫生植物区里的小水塘里，好多青蛙叫得可欢了……总之“亚历山大”。
 幸亏昨天录了一段引导词，伙伴们又都比较熟悉体式。
 虽是阴天，但心情非常晴朗，多谢梦梦、静子、安妮、美苑、蓉蓉、百合的支持和鼓励，希望大家厚积薄发，更上一层楼。
@@ -2291,10 +2297,10 @@ Namaste!
     
     <item>
       <title>大夫山森林公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/2016%E5%B9%B43%E6%9C%8827%E6%97%A5%E5%A4%A7%E5%A4%AB%E5%B1%B1%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E6%8E%A0%E5%BD%B1%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/2016%E5%B9%B43%E6%9C%8827%E6%97%A5%E5%A4%A7%E5%A4%AB%E5%B1%B1%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E6%8E%A0%E5%BD%B1%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 27 Mar 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2016%E5%B9%B43%E6%9C%8827%E6%97%A5%E5%A4%A7%E5%A4%AB%E5%B1%B1%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E6%8E%A0%E5%BD%B1%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/2016%E5%B9%B43%E6%9C%8827%E6%97%A5%E5%A4%A7%E5%A4%AB%E5%B1%B1%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E6%8E%A0%E5%BD%B1%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>2016年3月27日大夫山森林公园掠影（广州公益瑜伽） 大夫山
 骑车、瑜伽
 畅聊、野餐
@@ -2303,10 +2309,10 @@ Namaste!
     
     <item>
       <title>一次全新的户外感觉</title>
-      <link>https://lucky.cm/posts/%E4%B8%80%E6%AC%A1%E5%85%A8%E6%96%B0%E7%9A%84%E6%88%B7%E5%A4%96%E6%84%9F%E8%A7%89/</link>
+      <link>http://example.org/posts/%E4%B8%80%E6%AC%A1%E5%85%A8%E6%96%B0%E7%9A%84%E6%88%B7%E5%A4%96%E6%84%9F%E8%A7%89/</link>
       <pubDate>Wed, 23 Mar 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%80%E6%AC%A1%E5%85%A8%E6%96%B0%E7%9A%84%E6%88%B7%E5%A4%96%E6%84%9F%E8%A7%89/</guid>
+      <guid>http://example.org/posts/%E4%B8%80%E6%AC%A1%E5%85%A8%E6%96%B0%E7%9A%84%E6%88%B7%E5%A4%96%E6%84%9F%E8%A7%89/</guid>
       <description>一次全新的户外感觉 ​ （走在东山湖公园的紫荆花大道上）
 参加户外瑜伽活动已经有好几年了，偶尔会有些失望和困惑，热情却是不减。这不，周六一整天都耗在广东广播电视台房产频道组织的瑜伽活动中（看马戏，玩水上高尔夫，和印度老师在阳光底下来一场HOLD住5个又5个呼吸的瑜伽&amp;hellip;）周日一大早又去参加了蕙兰瑜伽爱好者在东山湖公园组织的户外活动。
 因为体验到的感觉真的很不一样，所以非常值得记一记。
@@ -2329,10 +2335,10 @@ Namaste!
     
     <item>
       <title>时光飞逝，伽人依然</title>
-      <link>https://lucky.cm/posts/%E6%97%B6%E5%85%89%E9%A3%9E%E9%80%9D%E4%BC%BD%E4%BA%BA%E4%BE%9D%E7%84%B6/</link>
+      <link>http://example.org/posts/%E6%97%B6%E5%85%89%E9%A3%9E%E9%80%9D%E4%BC%BD%E4%BA%BA%E4%BE%9D%E7%84%B6/</link>
       <pubDate>Wed, 23 Mar 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%97%B6%E5%85%89%E9%A3%9E%E9%80%9D%E4%BC%BD%E4%BA%BA%E4%BE%9D%E7%84%B6/</guid>
+      <guid>http://example.org/posts/%E6%97%B6%E5%85%89%E9%A3%9E%E9%80%9D%E4%BC%BD%E4%BA%BA%E4%BE%9D%E7%84%B6/</guid>
       <description>时光飞逝，伽人依然 Shawn
 2009~2013年之间身心疲惫，学习和工作影响甚大，13年偶然机会走进白云一家小型健身房，从此和瑜伽健身结下不解之缘。
 身体是最诚实的。以前无论散步、跑步，都感觉疲惫不堪，效果甚微。自从接受瑜伽的花样体式和核心训练，身体素质得到质的改变。无论是自我体验还是友人旁观，身心健康逐渐提升。
@@ -2343,10 +2349,10 @@ Namaste!
     
     <item>
       <title>瑜伽 在路上</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%9C%A8%E8%B7%AF%E4%B8%8A/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%9C%A8%E8%B7%AF%E4%B8%8A/</link>
       <pubDate>Wed, 23 Mar 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%9C%A8%E8%B7%AF%E4%B8%8A/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%9C%A8%E8%B7%AF%E4%B8%8A/</guid>
       <description>瑜伽·在路上 Shawn
 参加l 中国瑜伽在线等组织的“瑜伽·在路上”第一天的课程活动；
 整体感觉还过得去，有高手讲解一些体式动作，有沙金老师指导“瑜伽冥想”的深层含义。
@@ -2362,10 +2368,10 @@ Namaste!
     
     <item>
       <title>第31期广州公益瑜伽</title>
-      <link>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC31%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E4%BA%8C%E6%B2%99%E5%B2%9B/</link>
+      <link>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC31%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E4%BA%8C%E6%B2%99%E5%B2%9B/</link>
       <pubDate>Wed, 23 Mar 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC31%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E4%BA%8C%E6%B2%99%E5%B2%9B/</guid>
+      <guid>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%85%A7%E7%89%87%E7%AC%AC31%E6%9C%9F%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-%E4%BA%8C%E6%B2%99%E5%B2%9B/</guid>
       <description>【活动照片】第31期广州公益瑜伽 - 二沙岛 落英缤纷 （拍摄 / 墨墨）
 4月1日愚人节，真诚的瑜伽小伙伴们儿没有半点愚人的意思，相约来到美丽的二沙岛，准备用瑜伽经108拜来迎接人间四月天。
 (瑜伽开始前排空身体是非常重要的)
@@ -2381,10 +2387,10 @@ Namaste!
     
     <item>
       <title>珠江公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E7%95%99%E5%BD%B12016%E5%B9%B41%E6%9C%8810%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
+      <link>http://example.org/posts/%E7%95%99%E5%BD%B12016%E5%B9%B41%E6%9C%8810%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</link>
       <pubDate>Sun, 10 Jan 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%95%99%E5%BD%B12016%E5%B9%B41%E6%9C%8810%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
+      <guid>http://example.org/posts/%E7%95%99%E5%BD%B12016%E5%B9%B41%E6%9C%8810%E6%97%A5%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD/</guid>
       <description>【留影】2016年1月10日珠江公园 （先来张“萌萌哒”自拍合照）
 （无限大叔说当年坚持下来了，所以体式就上来了）
 （无限大叔很强的）
@@ -2399,10 +2405,10 @@ Namaste!
     
     <item>
       <title>瑜伽蜕变之百合</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E8%9C%95%E5%8F%98%E4%B9%8B%E7%99%BE%E5%90%88%E7%82%B9%E6%BB%B4%E5%9B%9E%E9%A1%BE/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E8%9C%95%E5%8F%98%E4%B9%8B%E7%99%BE%E5%90%88%E7%82%B9%E6%BB%B4%E5%9B%9E%E9%A1%BE/</link>
       <pubDate>Sun, 03 Jan 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E8%9C%95%E5%8F%98%E4%B9%8B%E7%99%BE%E5%90%88%E7%82%B9%E6%BB%B4%E5%9B%9E%E9%A1%BE/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E8%9C%95%E5%8F%98%E4%B9%8B%E7%99%BE%E5%90%88%E7%82%B9%E6%BB%B4%E5%9B%9E%E9%A1%BE/</guid>
       <description>2015年百合遇见瑜伽之点滴回顾
 2015年元宵节，百合参加了强哥组织的《听青音学习爱》传播正能量的音符聚会，那是一个温暖的，充满爱的聚会，至今仍然记忆犹新，在音符朋友交流过程中，音符阿爽计划给音符朋友们提供公益瑜伽课。 经过两个多月的统筹，2015年5月17日在珠江公园诞生了第一节音符公益瑜伽课。第一次瑜伽课后，身体酸痛的感觉持续了三四天，不过睡眠挺好。但是没有老师带课，百合还是不会练习瑜伽。
 2015年6月14日第二次公益瑜伽课在生物岛，在生物岛百合认识了瑜伽爱好者梦梦，梦梦经常习练瑜伽，身材姣好，气质优雅，百合羡慕。梦梦还教初学者拍瑜伽体式照，
@@ -2425,10 +2431,10 @@ Namaste!
     
     <item>
       <title>瑜伽宝贝之静子小姐</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E9%9D%99%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84%E5%86%AC%E5%AD%A3%E6%80%80%E5%BF%B5/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E9%9D%99%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84%E5%86%AC%E5%AD%A3%E6%80%80%E5%BF%B5/</link>
       <pubDate>Fri, 01 Jan 2016 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E9%9D%99%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84%E5%86%AC%E5%AD%A3%E6%80%80%E5%BF%B5/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E9%9D%99%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84%E5%86%AC%E5%AD%A3%E6%80%80%E5%BF%B5/</guid>
       <description>瑜伽宝贝之静子小姐的冬季怀念 图文 /静子
 12月末是个怀念的日子！
 回顾这一年计划和计划外去过的地方，一切旅途和相伴的人有关；
@@ -2451,10 +2457,10 @@ Namaste!
     
     <item>
       <title>与你相伴 一路随行</title>
-      <link>https://lucky.cm/posts/%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%B4-%E4%B8%80%E8%B7%AF%E9%9A%8F%E8%A1%8C/</link>
+      <link>http://example.org/posts/%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%B4-%E4%B8%80%E8%B7%AF%E9%9A%8F%E8%A1%8C/</link>
       <pubDate>Mon, 23 Nov 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%B4-%E4%B8%80%E8%B7%AF%E9%9A%8F%E8%A1%8C/</guid>
+      <guid>http://example.org/posts/%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%B4-%E4%B8%80%E8%B7%AF%E9%9A%8F%E8%A1%8C/</guid>
       <description>与你相伴 一路随行 阿爽住处附近有家健身馆，步行才几分钟，年卡收费才1500元。因此常常下班之后到馆里举举杠铃，练练瑜伽，日子过得好像奔流的小溪……
 本以为15年就这样了——没料到，健身馆老板携款跑路了！
 “无良奸商”
@@ -2479,10 +2485,10 @@ Namaste!
     
     <item>
       <title>广州公益户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E9%9D%93%E5%BD%B12015%E5%B9%B411%E6%9C%8815%E6%97%A5%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E9%9D%93%E5%BD%B12015%E5%B9%B411%E6%9C%8815%E6%97%A5%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 15 Nov 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%9D%93%E5%BD%B12015%E5%B9%B411%E6%9C%8815%E6%97%A5%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E9%9D%93%E5%BD%B12015%E5%B9%B411%E6%9C%8815%E6%97%A5%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>【靓影】2015年11月15日广州公益瑜伽
 2015年11月15日上午在珠江公园的广州公益瑜伽再次如期举行圆满结束。
 感谢瑜伽美女积极参与；
@@ -2506,10 +2512,10 @@ Namaste!
     
     <item>
       <title>九月晨微凉午燥热</title>
-      <link>https://lucky.cm/posts/%E4%B9%9D%E6%9C%88%E6%99%A8%E5%BE%AE%E5%87%89%E5%8D%88%E7%87%A5%E7%83%AD%E8%AE%B8%E4%B9%85%E6%9C%AA%E8%81%9A%E4%BD%A0%E8%BF%98%E5%A5%BD%E5%90%97/</link>
+      <link>http://example.org/posts/%E4%B9%9D%E6%9C%88%E6%99%A8%E5%BE%AE%E5%87%89%E5%8D%88%E7%87%A5%E7%83%AD%E8%AE%B8%E4%B9%85%E6%9C%AA%E8%81%9A%E4%BD%A0%E8%BF%98%E5%A5%BD%E5%90%97/</link>
       <pubDate>Wed, 23 Sep 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E4%B9%9D%E6%9C%88%E6%99%A8%E5%BE%AE%E5%87%89%E5%8D%88%E7%87%A5%E7%83%AD%E8%AE%B8%E4%B9%85%E6%9C%AA%E8%81%9A%E4%BD%A0%E8%BF%98%E5%A5%BD%E5%90%97/</guid>
+      <guid>http://example.org/posts/%E4%B9%9D%E6%9C%88%E6%99%A8%E5%BE%AE%E5%87%89%E5%8D%88%E7%87%A5%E7%83%AD%E8%AE%B8%E4%B9%85%E6%9C%AA%E8%81%9A%E4%BD%A0%E8%BF%98%E5%A5%BD%E5%90%97/</guid>
       <description>九月晨微凉午燥热，许久未聚，你还好吗？ 清晨，感受一阵舒服的凉风，看见金色的阳光透过树叶柔和地倾泻下来，就在那一刻，觉得秋天应该来了。哪怕这个城市看起来四季如春夏，绿树葱葱，鲜花不败。
 拥有是我们在人际关系中最大的幻觉。有这种幻觉，是因为我们害怕失去。可所有人际关系的本质，都只是遇见。—— 动机在杭州
 遇见，竟然是人际关系的本质。就这样开始觉得这个词汇也如盛开的鲜花那么美丽了。
@@ -2531,10 +2537,10 @@ Namaste!
     
     <item>
       <title>兰的瑜伽图文分享</title>
-      <link>https://lucky.cm/posts/%E5%85%B0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB/</link>
+      <link>http://example.org/posts/%E5%85%B0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB/</link>
       <pubDate>Wed, 23 Sep 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%85%B0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB/</guid>
+      <guid>http://example.org/posts/%E5%85%B0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%9B%BE%E6%96%87%E5%88%86%E4%BA%AB/</guid>
       <description>兰的瑜伽图文分享 原创 **阿兰 **
 休假，期待赏梅瑜伽。梅未赏，有瑜伽，且美拍了一回，又小小分享了一下发艺，足已 [/smile]
 爽教练带的瑜伽很棒，节奏过度把握得好，也很认真给练习的伙伴指导，口令指导也不错。开头的引导词挺有助于带入瑜伽状态的，后面的冥想也很美。为方便听到还带了扩音麦。
@@ -2556,10 +2562,10 @@ Namaste!
     
     <item>
       <title>临时号召 户外瑜伽</title>
-      <link>https://lucky.cm/posts/2015%E5%B9%B48%E6%9C%8823%E6%97%A5%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E9%9A%8F%E7%AC%94/</link>
+      <link>http://example.org/posts/2015%E5%B9%B48%E6%9C%8823%E6%97%A5%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Sun, 23 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2015%E5%B9%B48%E6%9C%8823%E6%97%A5%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E9%9A%8F%E7%AC%94/</guid>
+      <guid>http://example.org/posts/2015%E5%B9%B48%E6%9C%8823%E6%97%A5%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E9%9A%8F%E7%AC%94/</guid>
       <description>2015年8月23日户外瑜伽随笔
 一场临时的号召 公司原计划周日是要加班的，所以没有组织瑜伽活动。没想到周六下午接到通知，周日又回来了。一时高兴，在群里吼了句，周日有人一起户外瑜伽吗？结果不出所料，应答者寥寥。
 跑到白云瑜伽群继续吼，把个人照片都抖出来了，还是未能吸引到一位瑜伽伙伴。失望（对整整500人的瑜伽群失望）！
@@ -2586,10 +2592,10 @@ Namaste!
     
     <item>
       <title>写在健身瑜伽打卡100天</title>
-      <link>https://lucky.cm/posts/%E5%86%99%E5%9C%A8%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E6%89%93%E5%8D%A1100%E5%A4%A9/</link>
+      <link>http://example.org/posts/%E5%86%99%E5%9C%A8%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E6%89%93%E5%8D%A1100%E5%A4%A9/</link>
       <pubDate>Sun, 23 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%86%99%E5%9C%A8%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E6%89%93%E5%8D%A1100%E5%A4%A9/</guid>
+      <guid>http://example.org/posts/%E5%86%99%E5%9C%A8%E5%81%A5%E8%BA%AB%E7%91%9C%E4%BC%BD%E6%89%93%E5%8D%A1100%E5%A4%A9/</guid>
       <description>写在健身瑜伽打卡100天 没有想象中那么励志 从一开始提倡瑜伽健身100天计划，我就知道自己能够完成。就好像多年前在校园读书那会儿，只要我愿意，就能够跑完10圈大操场。那时候的自己，觉得10圈就是4000米，已经很不错了，已经很累了。大概从来没有想过，其实，自己可以跑万米，甚至更多更多&amp;hellip;（跑题了）
 我想说的是，这个100天计划，就相当于当年跑个10圈操场，虽然难度不高，但是完成了目标，感觉也是不错的。至于标题提到的“励志”，真的没有。因为这个提倡，也只有几个人响应，也就是影响力也只限于几个人而已。移动互联网如此发达的时代，心灵鸡汤天天喝不停，没有巨大的成功，何谈“励志”？只是，亲，天天喝鸡汤打鸡血，你浑身长的只有脂肪（水桶腰）没有肌肉（实力）。
 100天说长不长说短不短，扎扎实实地锻炼了100天的人，一定能够体会到身体的变化，精神面貌的变化。于我而言，能够安然地渡过失业和转行的焦虑和压力，就已经是最大的收获与成功了。
@@ -2605,10 +2611,10 @@ Namaste!
     
     <item>
       <title>广州音符读书会</title>
-      <link>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%95%A5%E5%BD%B1%E9%9F%B3%E7%AC%A6%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%95%A5%E5%BD%B1%E9%9F%B3%E7%AC%A6%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 23 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E7%95%A5%E5%BD%B1%E9%9F%B3%E7%AC%A6%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E7%95%A5%E5%BD%B1%E9%9F%B3%E7%AC%A6%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>【活动略影】音符读书会 广州公益瑜伽 （珠江公园的“清风廊”位置不好找，环境倒挺不错的）
 （小伙伴们面对面分享读书感悟）
 （发现星同学越来越积极开朗，变得有主见有坚持了）
@@ -2626,10 +2632,10 @@ Namaste!
     
     <item>
       <title>美好的相遇</title>
-      <link>https://lucky.cm/posts/%E6%84%9F%E6%82%9F%E5%88%86%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%9A%84%E7%9B%B8%E9%81%87/</link>
+      <link>http://example.org/posts/%E6%84%9F%E6%82%9F%E5%88%86%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%9A%84%E7%9B%B8%E9%81%87/</link>
       <pubDate>Sun, 23 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%84%9F%E6%82%9F%E5%88%86%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%9A%84%E7%9B%B8%E9%81%87/</guid>
+      <guid>http://example.org/posts/%E6%84%9F%E6%82%9F%E5%88%86%E4%BA%AB%E7%BE%8E%E5%A5%BD%E7%9A%84%E7%9B%B8%E9%81%87/</guid>
       <description>【感悟分享】美好的相遇 原创 百合 今天的相遇是美好的，也很励志。有教练组织并带课，有资深爱好者一起交流分享。对此有种难以言表的感恩。
 今天收获跟以往不同的是
 1.珠江公园蛙声，流水声交集在一起成为我们习练的自然音乐，最后休息式有阿爽录制的引导语，引导语有助于放松休息！
@@ -2641,10 +2647,10 @@ Namaste!
     
     <item>
       <title>学员沙面户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E5%AD%A6%E5%91%98%E6%B2%99%E9%9D%A2%E6%88%B7%E5%A4%96%E5%B0%8F%E7%BB%93--%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E5%AD%A6%E5%91%98%E6%B2%99%E9%9D%A2%E6%88%B7%E5%A4%96%E5%B0%8F%E7%BB%93--%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 16 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%AD%A6%E5%91%98%E6%B2%99%E9%9D%A2%E6%88%B7%E5%A4%96%E5%B0%8F%E7%BB%93--%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E5%AD%A6%E5%91%98%E6%B2%99%E9%9D%A2%E6%88%B7%E5%A4%96%E5%B0%8F%E7%BB%93--%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>学员沙面户外小结&amp;ndash;广州公益瑜伽
 百合 2015年8月16日 第9期户外瑜伽在沙面（对于本人来说是第8次，因本人曾缺席一期),
 早上9点半集合，10点来到沙面公园寻宝式地找到一个平整阴凉场地，阿爽教练自备音响音乐带领我们进行了一个半小时的瑜伽体式练习。，瑜伽习练期间江边微风轻轻吹佛，感觉格外舒坦，虽然沙面珠江边人来人往，但我在习练瑜伽的时候，几乎能够做到若无旁骛，我感到这是我专注的一个小进步，瑜伽完毕，爽教练给学员们温习上一节课教的6个体式。嗯，是今天我才对六个体式有了一个大概的认知。以后还要好好看书才行呢。温习完毕来张大合照，我跟伟丽一起耍瑜伽体式照片，这次发现我的体式有了明显的进步。
@@ -2678,10 +2684,10 @@ Namaste!
     
     <item>
       <title>沙面公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/2015%E5%B9%B48%E6%9C%8816%E6%97%A5%E6%B2%99%E9%9D%A2%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E9%9A%8F%E6%8B%8D%E7%95%99%E5%BD%B1%E5%A4%9A%E5%9B%BE%E6%85%8E%E5%85%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/2015%E5%B9%B48%E6%9C%8816%E6%97%A5%E6%B2%99%E9%9D%A2%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E9%9A%8F%E6%8B%8D%E7%95%99%E5%BD%B1%E5%A4%9A%E5%9B%BE%E6%85%8E%E5%85%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 16 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2015%E5%B9%B48%E6%9C%8816%E6%97%A5%E6%B2%99%E9%9D%A2%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E9%9A%8F%E6%8B%8D%E7%95%99%E5%BD%B1%E5%A4%9A%E5%9B%BE%E6%85%8E%E5%85%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/2015%E5%B9%B48%E6%9C%8816%E6%97%A5%E6%B2%99%E9%9D%A2%E5%85%AC%E5%9B%AD%E6%88%B7%E5%A4%96%E9%9A%8F%E6%8B%8D%E7%95%99%E5%BD%B1%E5%A4%9A%E5%9B%BE%E6%85%8E%E5%85%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>2015年8月16日沙面公园户外随拍留影 (静坐准备开始)
 （百合的犁式）
 （百合与肖伟丽的舞蹈式，百合的舞蹈式有进步了，感觉到优雅了）
@@ -2708,10 +2714,10 @@ Namaste!
     
     <item>
       <title>鱼和熊掌</title>
-      <link>https://lucky.cm/posts/%E9%B1%BC%E5%92%8C%E7%86%8A%E6%8E%8C%E4%B8%8D%E5%8F%AF%E5%85%BC%E5%BE%97/</link>
+      <link>http://example.org/posts/%E9%B1%BC%E5%92%8C%E7%86%8A%E6%8E%8C%E4%B8%8D%E5%8F%AF%E5%85%BC%E5%BE%97/</link>
       <pubDate>Thu, 06 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%B1%BC%E5%92%8C%E7%86%8A%E6%8E%8C%E4%B8%8D%E5%8F%AF%E5%85%BC%E5%BE%97/</guid>
+      <guid>http://example.org/posts/%E9%B1%BC%E5%92%8C%E7%86%8A%E6%8E%8C%E4%B8%8D%E5%8F%AF%E5%85%BC%E5%BE%97/</guid>
       <description>鱼和熊掌不可兼得 户外瑜伽，“成也环境，败也环境”。因为环境因素的不可控（我们无法调节阴天雨天，无法干涉他人喧嚣……），所以或多或少地影响着我们习练瑜伽的状态。在优美安静的大自然怀抱中，我们更容易集中精力呼吸冥想，进入神圣的瑜伽状态；在不尽人意的嘈杂环境中，我们更容易分心甚至产生厌烦负情绪。从另一个角度来看，户外瑜伽也是修炼我们身心合一的好方法，将我们置身于现实而不是幻想之中，努力地寻求与环境的连接，包容合理与不合理的存在，发现自然而然的美丽，化纷繁为专一、专注。假若我们无论何时何地都能够进入瑜伽的世界，享受瑜伽的乐趣，则意味着我们修炼瑜伽到达了一定境界。因此，“修炼”是必不可少的。“接受无法改变的，努力完善可以改变的，培养准确判断二者的智慧”。
 2015年8月16日（周日），在明知会下雨的情况下，我们一群瑜伽爱好者依然集中到沙面公园，最终顺利完成一场约定的户外瑜伽。
 由于时间和环境的问题，我们没能按照预定计划完成6个体式的复习以及战士系列3个体式的学习。有点遗憾，同时也让我反思，鱼和熊掌不可兼得。一堂完整的瑜伽课一般需要90分钟，而伙伴们周末时间又很有限，不可能三四个小时“直落”。因此，为了使户外瑜伽课程的价值最大化，只能教会学员们“基本功”的训练方案和方法，纠正错误动作。还是那句老话，“师傅领进门，修行在个人”。
@@ -2722,10 +2728,10 @@ Namaste!
     
     <item>
       <title>广州公益瑜伽第8期</title>
-      <link>https://lucky.cm/posts/%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC8%E6%9C%9F/</link>
+      <link>http://example.org/posts/%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC8%E6%9C%9F/</link>
       <pubDate>Sun, 02 Aug 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC8%E6%9C%9F/</guid>
+      <guid>http://example.org/posts/%E7%8F%A0%E6%B1%9F%E5%85%AC%E5%9B%AD-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD%E7%AC%AC8%E6%9C%9F/</guid>
       <description>珠江公园 广州公益瑜伽第8期 阿爽：
 2015年8月2日（周日）珠江公园 广州公益瑜伽第8期
 迟到检讨：
@@ -2754,10 +2760,10 @@ Namaste!
     
     <item>
       <title>华师瑜伽座谈会小结</title>
-      <link>https://lucky.cm/posts/%E5%8D%8E%E5%B8%88%E7%91%9C%E4%BC%BD%E5%BA%A7%E8%B0%88%E4%BC%9A%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E5%8D%8E%E5%B8%88%E7%91%9C%E4%BC%BD%E5%BA%A7%E8%B0%88%E4%BC%9A%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 12 Jul 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%8D%8E%E5%B8%88%E7%91%9C%E4%BC%BD%E5%BA%A7%E8%B0%88%E4%BC%9A%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E5%8D%8E%E5%B8%88%E7%91%9C%E4%BC%BD%E5%BA%A7%E8%B0%88%E4%BC%9A%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>华师瑜伽座谈会小结——广州公益瑜伽 2015年7月12日19:00~22:00广州公益瑜伽在华师校园举办第6期活动——瑜伽座谈会（圆满成功）
 同学们的活动感想 百合 2015年7月12日，音符、伽友相聚于华师陶园，我们畅饮欢聊后夜逛华师校园，在华师的草坪上我们席地而坐，聊千里、聊瑜伽、聊工作，聊生活的点滴。就这样我们聊到晚上10点半才依依不舍离开。这是一个难忘而丰富的夜晚。听收音、学瑜伽丰富了我的业余生活，音符伽友丰富了我人际圈子。遇见你们很好。
 琳 ​
@@ -2810,10 +2816,10 @@ Namaste!
     
     <item>
       <title>白云山瑜伽活动小结</title>
-      <link>https://lucky.cm/posts/%E7%99%BD%E4%BA%91%E5%B1%B1%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E7%99%BD%E4%BA%91%E5%B1%B1%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 28 Jun 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%99%BD%E4%BA%91%E5%B1%B1%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E7%99%BD%E4%BA%91%E5%B1%B1%E7%91%9C%E4%BC%BD%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>白云山瑜伽活动小结——广州公益瑜伽 【阿爽·原文】
 2015年6月28日周日上午9:30，我准时到达白云山云台花园总站。意外的是——我竟然是最后两位到达目的地的。百合、兰和第一次参加我们活动的丹丹早已微笑等候。这是我们第四期广州公益户外瑜伽，真的做到了没有人迟到（尽管人数不多）。事实证明，只要我们有决心，树立守时的观念和习惯并没有那么难。
 根据活动通知，我们还是原地等候了15分钟，看看还有没有伙伴过来参加活动的。事后反思了一下，我们还是不能省略报名这个环节。也希望下次的活动，各位都尽量避免“放飞机”与“空降”，提前与组织者联系报名。
@@ -2847,10 +2853,10 @@ Namaste！ 【丹丹·原文】
     
     <item>
       <title>广州首届国际瑜伽日</title>
-      <link>https://lucky.cm/posts/6%E6%9C%8821%E6%97%A5%E9%A6%96%E5%B1%8A%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/6%E6%9C%8821%E6%97%A5%E9%A6%96%E5%B1%8A%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Sun, 21 Jun 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/6%E6%9C%8821%E6%97%A5%E9%A6%96%E5%B1%8A%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/6%E6%9C%8821%E6%97%A5%E9%A6%96%E5%B1%8A%E5%9B%BD%E9%99%85%E7%91%9C%E4%BC%BD%E6%97%A5-%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD/</guid>
       <description>6月21日首届国际瑜伽日-广州公益瑜伽 6月21日（昨日）是首届国际瑜伽日，我很荣幸地参加了官方在广州体育职业技术学院体育馆举办的瑜伽庆祝活动。
 关于报名
 我是很早之前在某个微信公众号看到的信息，于是第一时间报了名。活动开始前几天收到短信确认信息“【印度驻广州总领事馆】感谢您参加6月21日在广州市天河区长兴路338号广州体育职业技术学院举办的中国（广州）-印度国际瑜伽日，您的报名场次为：第三场 10:30-13:00。请在活动当天进场时出示此短信以进入会场，谢谢！”
@@ -2876,10 +2882,10 @@ Namaste！ 【丹丹·原文】
     
     <item>
       <title>麻雀虽小其意俱诚</title>
-      <link>https://lucky.cm/posts/%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%E5%85%B6%E6%84%8F%E4%BF%B1%E8%AF%9A/</link>
+      <link>http://example.org/posts/%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%E5%85%B6%E6%84%8F%E4%BF%B1%E8%AF%9A/</link>
       <pubDate>Sun, 21 Jun 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%E5%85%B6%E6%84%8F%E4%BF%B1%E8%AF%9A/</guid>
+      <guid>http://example.org/posts/%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%E5%85%B6%E6%84%8F%E4%BF%B1%E8%AF%9A/</guid>
       <description>麻雀虽小，其意俱诚 作为一名户外瑜伽爱好者，在国际瑜伽日之际，怎能少得了户外瑜伽的庆祝方式呢？
 因为本人时间关系，临时更改了瑜伽习练场地。几位瑜伽学员没有怨言，都从四面八方导航或者问路赶了过来，非常有诚意。
 节假日，星海公园的游人特别多，很难找到合适的练习瑜伽的场所。最后决定就在英雄纪念碑下的阶梯平台开始练习。只要专心做自己的练习，不必太在意围观的阳光以及各种喧闹。
@@ -2894,10 +2900,10 @@ Namaste！ 【丹丹·原文】
     
     <item>
       <title>回答一个为什么</title>
-      <link>https://lucky.cm/posts/%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88/</link>
+      <link>http://example.org/posts/%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88/</guid>
+      <guid>http://example.org/posts/%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88/</guid>
       <description>回答一个“为什么” 常常有人问我“为什么搞公益瑜伽？”是为了积累上课经验？为了博取人气？为了泡妞？为了名声赚取私教费？
 想起了我在某健身房的瑜伽室里，被一个女人用鄙夷的目光指着鼻子骂“臭男人练什么瑜伽啊？不就是就为了看美女吗？”那时候我并没有生气，真的没有。遭到如此奇葩待遇，我不生气的原因在于“理解”二字。我理解瑜伽的理念，我理解她狭隘的眼界。我也没有过多解释，该上课还上课。有趣的是后来，后来那位指着我鼻子骂的女人，每次见到我都主动微笑打招呼，应该是她通过眼睛的观察和感受，终于也理解并相信——我就是一个来练瑜伽的人。
 朋友曾经眯着眼睛问我“你一个男的，做瑜伽教练，别人觉得方便吗？”刚开始我还疑惑了一阵啥意思，随后终于明白所指。我还真的从来没有想歪过，因为我接触瑜伽以来，就看到好几位优秀的男士瑜伽教练，在户外瑜伽这个圈子里，大家也经常玩双人瑜伽……就好像人家专业的双人舞者，工作就是工作，演出就是演出，全神贯注之下，动作配合才能完美到位。朋友的问题在专业人士看来是不够尊重人的。然而回应是无可避免的，每一个行业都必须有职业道德的约束，在健身瑜伽私教一行里，教练和学员的肢体接触是不可避免，因为这就是工作。专业的教练，用的是指压而不是抚摸，是扎扎实实的辅助避免学员受伤，在课堂上保持严肃认真，与学员保持距离……
@@ -2910,11 +2916,11 @@ Shawn
     
     <item>
       <title>官洲生物岛户外瑜伽</title>
-      <link>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%AE%98%E6%B4%B2%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%AE%98%E6%B4%B2%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%AE%98%E6%B4%B2%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
-      <description> 【活动小结】官洲户外瑜伽 活动感言
+      <guid>http://example.org/posts/%E6%B4%BB%E5%8A%A8%E5%B0%8F%E7%BB%93%E5%AE%98%E6%B4%B2%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
+      <description>【活动小结】官洲户外瑜伽 活动感言
 百合：
 这次阿爽邀请了一位女嘉宾——梦梦参加本次瑜伽活动。梦梦由于经常练习瑜伽，显得很年轻，让我们音符们羡慕不已。之前阿爽说瑜伽可以使人年轻，瑜伽可以改变很多。虽然我们可以目睹阿爽通过练习瑜伽，身材是挺棒的，毕竟阿爽是男生。我们女生呀，就欣赏一下而已了。练习瑜伽有好处，就仅仅知道这这么一个说法而已。今天阿爽带来一位身材美好的梦梦展示我们面前。看到如此娇美的身材，羡慕，而且我算是相信瑜伽可以给人带来许多美好的。
 瑜伽活动后，我们一起咨询梦梦一些关于瑜伽的感受，梦梦说瑜伽可以使人新陈代谢加快，可以使人的脾气变得平和。气质变好。对于我们几位初学者来说，梦梦的话有点让我们听到心里去了。梦梦教导我们几位音符做一些瑜伽动作拍照留影，这对于初学者的我来说是一种激励。很好！
@@ -2938,10 +2944,10 @@ Shawn
     
     <item>
       <title>广州公益瑜伽 2015年8月2日</title>
-      <link>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-8%E6%9C%882%E6%97%A5/</link>
+      <link>http://example.org/posts/%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-8%E6%9C%882%E6%97%A5/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-8%E6%9C%882%E6%97%A5/</guid>
+      <guid>http://example.org/posts/%E5%B9%BF%E5%B7%9E%E5%85%AC%E7%9B%8A%E7%91%9C%E4%BC%BD-8%E6%9C%882%E6%97%A5/</guid>
       <description>8月2日　广州公益瑜伽 小谢谢: 在一节瑜伽课中，只要在你的这节课程中有一位学员对你的引导有一处是有感悟的、有帮助的，那么你的这节瑜伽课就很成功了。
 爽爽老师，你昨天的户外瑜伽课很成功，我也很受益！
 特别是在体式“侧角伸展式”中你指出我的髋骨突出，没有和上身的侧边成一条直线。
@@ -2977,10 +2983,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>户外随笔 </title>
-      <link>https://lucky.cm/posts/%E6%88%B7%E5%A4%96%E9%9A%8F%E7%AC%94/</link>
+      <link>http://example.org/posts/%E6%88%B7%E5%A4%96%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E6%88%B7%E5%A4%96%E9%9A%8F%E7%AC%94/</guid>
+      <guid>http://example.org/posts/%E6%88%B7%E5%A4%96%E9%9A%8F%E7%AC%94/</guid>
       <description>户外随笔 文/肖伟丽
 经历了一晚上半梦半醒的凌乱，
 直到坐上地铁那一刻才感觉到踏实。
@@ -3013,10 +3019,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>端午节户外瑜伽小记</title>
-      <link>https://lucky.cm/posts/%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B0%8F%E8%AE%B0/</link>
+      <link>http://example.org/posts/%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B0%8F%E8%AE%B0/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B0%8F%E8%AE%B0/</guid>
+      <guid>http://example.org/posts/%E7%AB%AF%E5%8D%88%E8%8A%82%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E5%B0%8F%E8%AE%B0/</guid>
       <description>端午节户外瑜伽小记 端午节户外活动其实是羊城通组织的，刚开始问我有没空，我说好的。后来看到几个群报名的人数也不少，教练也有安妮、煮雨……
 时间定得那么早，我也屁颠屁颠地六点多爬起来，八点多到达珠江公园。随后小伙伴们也陆陆续续到来，整个场地几乎占满了……
 本想着好好做一个学生，享受瑜伽。只是大家静坐调息一段时间后，煮雨教练还是来不了，安妮老师也指了指哗哗流水和喉咙。咳咳，只好本小爽硬着头皮上了。
@@ -3037,20 +3043,20 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>蝶恋花 /阿爽</title>
-      <link>https://lucky.cm/posts/%E8%9D%B6%E6%81%8B%E8%8A%B1%E6%89%93%E6%B2%B9%E8%AF%97/</link>
+      <link>http://example.org/posts/%E8%9D%B6%E6%81%8B%E8%8A%B1%E6%89%93%E6%B2%B9%E8%AF%97/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%9D%B6%E6%81%8B%E8%8A%B1%E6%89%93%E6%B2%B9%E8%AF%97/</guid>
+      <guid>http://example.org/posts/%E8%9D%B6%E6%81%8B%E8%8A%B1%E6%89%93%E6%B2%B9%E8%AF%97/</guid>
       <description>蝶恋花 /阿爽
 黄石池边白莲开，瑜伽户外，倩影多姿彩。 荫生蕨草傍花木，鹅卵曲径通幽处。 亭里奇艺亭外道，亭外流光，亭里伽人笑。 笑而不语心灵犀，道是无情却有晴。</description>
     </item>
     
     <item>
       <title>该怎么吃才好？</title>
-      <link>https://lucky.cm/posts/%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83%E6%89%8D%E5%A5%BD/</link>
+      <link>http://example.org/posts/%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83%E6%89%8D%E5%A5%BD/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83%E6%89%8D%E5%A5%BD/</guid>
+      <guid>http://example.org/posts/%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83%E6%89%8D%E5%A5%BD/</guid>
       <description>该怎么吃才好？ 前几天和一个久未见面的朋友一块儿吃饭，不可避免地聊了很多工作的话题，于是自然而然地引出怎么睡觉、怎么吃饭的“常识”。
 那个时候，我又进一步理解了人跟人之间的常识是如此地不同。这位朋友还停留在：
 “吃肉？会肥的&amp;hellip;”
@@ -3071,10 +3077,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>迟来的问候</title>
-      <link>https://lucky.cm/posts/%E8%BF%9F%E6%9D%A5%E7%9A%84%E9%97%AE%E5%80%99/</link>
+      <link>http://example.org/posts/%E8%BF%9F%E6%9D%A5%E7%9A%84%E9%97%AE%E5%80%99/</link>
       <pubDate>Mon, 23 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E8%BF%9F%E6%9D%A5%E7%9A%84%E9%97%AE%E5%80%99/</guid>
+      <guid>http://example.org/posts/%E8%BF%9F%E6%9D%A5%E7%9A%84%E9%97%AE%E5%80%99/</guid>
       <description>迟来的问候 由于种种原因，广州公益瑜伽订阅号很久没有发布信息。小编心里想：这下可好，伽人们肯定全部取消关注了……
 今日打开后台，意外发现伽人有增无减，内心涌起一股伴随责任的感动之情。2015年一定多发一些实在的公益瑜伽活动、课程信息，以及正确导向的瑜伽图文。
 作为一个瑜伽爱好者，小编去年年底参加了瑜伽公益演出，认识了一帮可爱无私的伽人，他们的美丽和付出让我非常感动。同时希望更多的人能够认识瑜伽，受益于瑜伽，加入到健康快乐的瑜乐圈。
@@ -3084,20 +3090,20 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>云溪公园户外瑜伽</title>
-      <link>https://lucky.cm/posts/2015%E5%B9%B43%E6%9C%8822%E6%97%A5%E4%BA%91%E6%BA%AA%E5%85%AC%E5%9B%AD%E6%B4%BB%E5%8A%A8%E5%89%AA%E5%BD%B1/</link>
+      <link>http://example.org/posts/2015%E5%B9%B43%E6%9C%8822%E6%97%A5%E4%BA%91%E6%BA%AA%E5%85%AC%E5%9B%AD%E6%B4%BB%E5%8A%A8%E5%89%AA%E5%BD%B1/</link>
       <pubDate>Sun, 22 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/2015%E5%B9%B43%E6%9C%8822%E6%97%A5%E4%BA%91%E6%BA%AA%E5%85%AC%E5%9B%AD%E6%B4%BB%E5%8A%A8%E5%89%AA%E5%BD%B1/</guid>
+      <guid>http://example.org/posts/2015%E5%B9%B43%E6%9C%8822%E6%97%A5%E4%BA%91%E6%BA%AA%E5%85%AC%E5%9B%AD%E6%B4%BB%E5%8A%A8%E5%89%AA%E5%BD%B1/</guid>
       <description>2015年3月22日云溪公园活动剪影 感谢娟教练带课，感谢白云瑜伽群的组织，感谢可爱的伽人们。
 娟教练</description>
     </item>
     
     <item>
       <title>瑜伽宝贝之梦梦的2015</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E6%A2%A6%E6%A2%A6%E7%9A%842015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E6%A2%A6%E6%A2%A6%E7%9A%842015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</link>
       <pubDate>Mon, 02 Mar 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E6%A2%A6%E6%A2%A6%E7%9A%842015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E6%A2%A6%E6%A2%A6%E7%9A%842015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD/</guid>
       <description>瑜伽宝贝之梦梦的2015户外瑜伽 梦梦
 2015年户外瑜伽回顾
 又一年了，岁末盘点，一如既往，去悲存喜，去丑存美。
@@ -3126,10 +3132,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>瑜伽宝贝之叶子2015</title>
-      <link>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%8F%B6%E5%AD%902015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%B7%B1%E6%83%85%E5%9B%9E%E9%A1%BE/</link>
+      <link>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%8F%B6%E5%AD%902015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%B7%B1%E6%83%85%E5%9B%9E%E9%A1%BE/</link>
       <pubDate>Sat, 03 Jan 2015 20:09:38 +0800</pubDate>
       
-      <guid>https://lucky.cm/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%8F%B6%E5%AD%902015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%B7%B1%E6%83%85%E5%9B%9E%E9%A1%BE/</guid>
+      <guid>http://example.org/posts/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%8F%B6%E5%AD%902015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%B7%B1%E6%83%85%E5%9B%9E%E9%A1%BE/</guid>
       <description>瑜伽宝贝之叶子2015户外瑜伽深情回顾
 图文 /叶子
 户外啦，户外啦，换上飘逸的瑜伽服，背上瑜伽垫，我们整装出发啦！
@@ -3147,10 +3153,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title></title>
-      <link>https://lucky.cm/posts/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/</link>
+      <link>http://example.org/posts/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucky.cm/posts/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/</guid>
+      <guid>http://example.org/posts/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/</guid>
       <description>流水账 买了一个软件 平时在域名，网站主题，服务器上面花的钱挺多的；然而在工具类软件上却不多，因为可替代的开源软件太多了，我对工具软件也没有太大的依赖。 然而，有些小软件用起来顺手，喜欢，还是得表示支持的，对创作者是一种尊重。
 比如今天买的 Typora 是一款 markdown 编辑器（类似记事本的软件），优惠价格是 80.1 元，果断支付了。以后多写博客文章吧，输出一点有意义、有价值的东西。
 2023-06-11
@@ -3173,15 +3179,16 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
 2023-06-17
 多点开心 少点忧愁
 2023-06-17
-自己的家园要自己来造 或许真是年纪大了，飘荡在外没有归属感；住着别人的『鸽子笼』，种不了花，养不了狗，越来越感到憋屈——生而为人，本应驰骋于天地，安睡于自家。 现实却是给你画了一张大饼，等你耗尽青春才幡然醒悟——原来，我们只不过是工蚁。 纵使难以拥有『家』的感觉，也不放弃『家』的执念。一无所有就从头开始、自己来造。 按照理想，在一片荒芜中开垦，造出我的花园、菜园和果园，饲养我的小猫小狗；在宽敞的书房里看书，宽敞的厨房里做饭，宽敞的大厅里练瑜伽…… 这样看来，我的理想不算远，也不高；我只需要一个自己的空间，慢慢地找回自己，找到目标和重心。我知道，只要开始，就能拥有；只要开始，就能成功；我已拥有，我已成功。 人生过半，没有什么放不下的；活在当下，说得容易，想得轻巧，做来艰难；尝试越多，动手越多，就体验越多。哪怕作品不够出色，成果不足挂齿，又有什么关系呢？这才是属于你的生活，你的体验，你的世界。 人生是一场游戏。想赢无可厚非，但要记住，博弈、对抗，只是游戏的一种；更有趣的东西，是创造。不要只是消耗，而应该去尝试和创造。</description>
+自己的家园要自己来造 或许真是年纪大了，飘荡在外没有归属感；住着别人的『鸽子笼』，种不了花，养不了狗，越来越感到憋屈——生而为人，本应驰骋于天地，安睡于自家。 现实却是给你画了一张大饼，等你耗尽青春才幡然醒悟——原来，我们只不过是工蚁。 纵使难以拥有『家』的感觉，也不放弃『家』的执念。一无所有就从头开始、自己来造。 按照理想，在一片荒芜中开垦，造出我的花园、菜园和果园，饲养我的小猫小狗；在宽敞的书房里看书，宽敞的厨房里做饭，宽敞的大厅里练瑜伽…… 这样看来，我的理想不算远，也不高；我只需要一个自己的空间，慢慢地找回自己，找到目标和重心。我知道，只要开始，就能拥有；只要开始，就能成功；我已拥有，我已成功。 人生过半，没有什么放不下的；活在当下，说得容易，想得轻巧，做来艰难；尝试越多，动手越多，就体验越多。哪怕作品不够出色，成果不足挂齿，又有什么关系呢？这才是属于你的生活，你的体验，你的世界。 人生是一场游戏。想赢无可厚非，但要记住，博弈、对抗，只是游戏的一种；更有趣的东西，是创造。不要只是消耗，而应该去尝试和创造。
+2023-06-17</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lucky.cm/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E5%9F%BA%E7%A1%80%E5%BA%8F%E5%88%97%E5%9B%BE%E6%96%87/</link>
+      <link>http://example.org/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E5%9F%BA%E7%A1%80%E5%BA%8F%E5%88%97%E5%9B%BE%E6%96%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucky.cm/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E5%9F%BA%E7%A1%80%E5%BA%8F%E5%88%97%E5%9B%BE%E6%96%87/</guid>
+      <guid>http://example.org/posts/%E9%98%BF%E6%96%AF%E6%B1%A4%E5%8A%A0%E5%9F%BA%E7%A1%80%E5%BA%8F%E5%88%97%E5%9B%BE%E6%96%87/</guid>
       <description>draft = false date = 2023-06-11T22:42:38+08:00 title = &amp;ldquo;『图文』阿斯汤加基础序列&amp;rdquo; description = &amp;quot;&amp;quot; slug = &amp;quot;&amp;quot; authors = [] tags = [] categories = [] externalLink = &amp;quot;&amp;quot; series = []
 大纲 五遍拜日A ，五遍拜日B； 站姿部分； 过渡体式； 坐姿部分； 初级序列； 结束体式； 【拜日】 拜日A： 拜日B： 拜日A
 【站姿】 站立前屈： 三角伸展式： 扭转三角伸展式： 侧角伸展式： 扭转侧角伸展式： 双角式ABCD： 加强侧伸展： 站立腿上提1234： 半莲花单腿加强背部伸展式： 【过渡体式】 拜日A+拜日B（不停留呼吸）； 幻椅，战士一，战士二，各5个呼吸； 【坐姿】 坐立山式： 坐立前屈ABC： 反台式： 半莲花坐立前屈： 半英雄坐立前屈： 单腿头碰膝ABC： 圣哲玛里琪ABCD： 船式： 5组；
@@ -3191,10 +3198,10 @@ Myra： 活动感受:这是一个专业热心的团队，教练非常专业尽�
     
     <item>
       <title>Archive</title>
-      <link>https://lucky.cm/archive/</link>
+      <link>http://example.org/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucky.cm/archive/</guid>
+      <guid>http://example.org/archive/</guid>
       <description></description>
     </item>
     
