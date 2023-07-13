@@ -14,21 +14,19 @@
     <meta name="keywords" content="">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Archive"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Sean Leung"/>
+<meta name="twitter:description" content="Sean&#39;s Blog"/>
 
-    <meta property="og:title" content="Archive" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="/archive/" /><meta property="article:section" content="" />
-
-
+    <meta property="og:title" content="Sean Leung" />
+<meta property="og:description" content="Sean&#39;s Blog" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" />
 
 
     <title>Sean Leung</title>
 
     
-      <link rel="canonical" href="/archive/">
+      <link rel="canonical" href="/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -59,6 +57,7 @@
     <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Sean Leung" />
     <meta name="generator" content="Hugo 0.114.0">
   </head>
 
@@ -107,6 +106,51 @@
 
       <div class="content">
         
+  <section class="container centered">
+  <div class="about">
+    
+      
+        <div class="avatar"><img src="/images/moe.png" alt="avatar"></div>
+      
+    
+    
+    <h1>Sean</h1>
+    
+    <h2>hi@lucky.cm</h2>
+    
+    
+    <ul>
+      
+        
+          <li>
+            <a href="#" aria-label="Telegram"   >
+              <i class="fa fa-telegram fa-2x" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="#" aria-label="Github"   >
+              <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="#" aria-label="Twitter"   >
+              <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+    </ul>
+    
+  </div>
+</section>
+
+
       </div>
 
       
@@ -116,7 +160,7 @@
       
         ©
         
-          2015 -
+          2021 -
         
         2023
          Sean 
