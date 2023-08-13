@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/posts/</loc>
-    <lastmod>2023-07-27T09:28:48+08:00</lastmod>
+    <lastmod>2023-08-13T17:38:04+08:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-07-27T09:28:48+08:00</lastmod>
+    <lastmod>2023-08-13T17:38:04+08:00</lastmod>
+  </url><url>
+    <loc>/posts/20230813/</loc>
+    <lastmod>2023-08-13T17:38:04+08:00</lastmod>
   </url><url>
     <loc>/posts/20230727/</loc>
     <lastmod>2023-07-27T09:28:48+08:00</lastmod>
@@ -94,9 +97,6 @@
   </url><url>
     <loc>/posts/2022112602/</loc>
     <lastmod>2022-11-26T11:12:26+08:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/</loc>
     <lastmod>2022-03-06T20:09:38+08:00</lastmod>
