@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qiu.se</title>
+    <title>Home</title>
     <link>/</link>
-    <description>Recent content on Qiu.se</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Sep 2023 13:55:07 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
