@@ -6,7 +6,35 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 23:43:18 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 21:10:20 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discuz UCenter 无法登陆</title>
+      <link>/post/20240220/</link>
+      <pubDate>Tue, 20 Feb 2024 21:10:20 +0800</pubDate>
+      
+      <guid>/post/20240220/</guid>
+      <description>UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框
+Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。
+方法步骤：
+打开 uc_server/data/config.inc.php
+找到下列代码（没有的话补上）
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1); define(&#39;UC_IPGETTER&#39;, &#39;header&#39;); define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+将
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1);
+改为
+define(&#39;UC_ONLYREMOTEADDR&#39;, 0);
+找到
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+改为
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;你的 CDN 传递真实 IP 的参数&#39;)));
+你的 CDN 传递真实 IP 的参数
+这步参数，不知道怎么填。果断放弃！
+直接在 cloudflare 停用 小橙云 就可以了。
+早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。
+以后 Discuz 相关的，还是先去官方社区搜索一下。
+2024年2月20日</description>
+    </item>
+    
     <item>
       <title>有啥用，能吃吗？</title>
       <link>/post/2024021902/</link>
