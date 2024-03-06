@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sean</title>
-    <link>/</link>
-    <description>Recent content on Sean</description>
+    <title>Posts on Sean</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Sean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 09:54:32 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 09:54:32 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>孤独地活在热闹中</title>
       <link>/posts/20240305/</link>
@@ -3433,25 +3433,6 @@ Myra：Link to heading活动感受:这是一个专业热心的团队，教练�
 3）云溪公园：与更多的新伽人们同行；
 4）麓湖公园：统一服装，清一色美女
 2015，感恩一路相伴，美丽与喜悦！</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>SeanLink to headingJust a Blogger
-Telegram: https://t.me/cyoga </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/archive/</guid>
-      <description></description>
     </item>
     
   </channel>

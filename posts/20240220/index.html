@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Discuz UCenter 无法登陆 · Sean
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Sean">
+<meta name="description" content="UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框
+Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。
+方法步骤：
+打开 uc_server/data/config.inc.php
+找到下列代码（没有的话补上）
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1); define(&#39;UC_IPGETTER&#39;, &#39;header&#39;); define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+将
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1);
+改为
+define(&#39;UC_ONLYREMOTEADDR&#39;, 0);
+找到
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+改为
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;你的 CDN 传递真实 IP 的参数&#39;)));
+你的 CDN 传递真实 IP 的参数
+这步参数，不知道怎么填。果断放弃！
+直接在 cloudflare 停用 小橙云 就可以了。
+早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。
+以后 Discuz 相关的，还是先去官方社区搜索一下。
+2024年2月20日">
+<meta name="keywords" content="blog,sean,personal">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Discuz UCenter 无法登陆"/>
+<meta name="twitter:description" content="UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框
+Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。
+方法步骤：
+打开 uc_server/data/config.inc.php
+找到下列代码（没有的话补上）
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1); define(&#39;UC_IPGETTER&#39;, &#39;header&#39;); define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+将
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1);
+改为
+define(&#39;UC_ONLYREMOTEADDR&#39;, 0);
+找到
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+改为
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;你的 CDN 传递真实 IP 的参数&#39;)));
+你的 CDN 传递真实 IP 的参数
+这步参数，不知道怎么填。果断放弃！
+直接在 cloudflare 停用 小橙云 就可以了。
+早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。
+以后 Discuz 相关的，还是先去官方社区搜索一下。
+2024年2月20日"/>
+
+<meta property="og:title" content="Discuz UCenter 无法登陆" />
+<meta property="og:description" content="UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框
+Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。
+方法步骤：
+打开 uc_server/data/config.inc.php
+找到下列代码（没有的话补上）
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1); define(&#39;UC_IPGETTER&#39;, &#39;header&#39;); define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+将
+define(&#39;UC_ONLYREMOTEADDR&#39;, 1);
+改为
+define(&#39;UC_ONLYREMOTEADDR&#39;, 0);
+找到
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));
+改为
+define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&gt; &#39;你的 CDN 传递真实 IP 的参数&#39;)));
+你的 CDN 传递真实 IP 的参数
+这步参数，不知道怎么填。果断放弃！
+直接在 cloudflare 停用 小橙云 就可以了。
+早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。
+以后 Discuz 相关的，还是先去官方社区搜索一下。
+2024年2月20日" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/20240220/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-20T21:10:20+08:00" />
+<meta property="article:modified_time" content="2024-02-20T21:10:20+08:00" />
+
+
+
+
+<link rel="canonical" href="/posts/20240220/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.577e3c5ead537873430da16f0964b754a120fd87c4e2203a00686e7c75b51378.css" integrity="sha256-V348Xq1TeHNDDaFvCWS3VKEg/YfE4iA6AGhufHW1E3g=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="/">
+      Sean
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/post/">Blog</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="/posts/20240220/">
+              Discuz UCenter 无法登陆
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-02-20T21:10:20&#43;08:00">
+                February 20, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              One-minute read
+            </span>
+          </div>
+          
+          
+          
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <p><strong>UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框</strong></p>
+<p>Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。</p>
+<p>方法步骤：</p>
+<p>打开 uc_server/data/config.inc.php</p>
+<p>找到下列代码（没有的话补上）</p>
+<p><code>define('UC_ONLYREMOTEADDR', 1);</code>
+<code>define('UC_IPGETTER', 'header');</code>
+<code>define('UC_IPGETTER_HEADER', serialize(array('header' =&gt; 'HTTP_X_FORWARDED_FOR')));</code></p>
+<p>将</p>
+<p><code>define('UC_ONLYREMOTEADDR', 1);</code></p>
+<p>改为</p>
+<p><code>define('UC_ONLYREMOTEADDR', 0);</code></p>
+<p>找到</p>
+<p><code>define('UC_IPGETTER_HEADER', serialize(array('header' =&gt; 'HTTP_X_FORWARDED_FOR')));</code></p>
+<p>改为</p>
+<p><code>define('UC_IPGETTER_HEADER', serialize(array('header' =&gt; '你的 CDN 传递真实 IP 的参数')));</code></p>
+<blockquote>
+<p>你的 CDN 传递真实 IP 的参数</p>
+</blockquote>
+<p>这步参数，不知道怎么填。果断放弃！</p>
+<p>直接在 cloudflare 停用 小橙云 就可以了。</p>
+<p>早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。</p>
+<p>以后 Discuz 相关的，还是先去官方社区搜索一下。</p>
+<p>2024年2月20日</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script>
+  window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "qiuse" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    
+    document.addEventListener('themeChanged', function (e) { 
+        if (document.readyState == 'complete') {
+          DISQUS.reset({ reload: true, config: disqus_config });
+        }
+    });
+</script>
+        
+        
+        
+        
+
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2015 -
+    
+    2024
+     Sean 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
