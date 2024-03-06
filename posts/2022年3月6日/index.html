@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <title>
   为什么要写博客 · Sean
 </title>
@@ -26,8 +26,7 @@
 Shawn 2022年3月6日">
 <meta name="keywords" content="blog,sean,personal">
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="为什么要写博客"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="为什么要写博客"/>
 <meta name="twitter:description" content="随便搜索“为什么要写博客”，文章还是一大堆的。独立博客从来都是小众、少数派，因为拥有独立思想的人实在太少了。
 本人也只是兴趣使然的部落阁主，对文字、部落阁、域名一直感兴趣。 疫情在家的时间，啥事没干成，倒是精品域名注册了一大堆。
 是不是精品，只要看看同类型的英文单词，白金词、溢价域名的价格，各大买卖平台标价、成交价，就知道了。
@@ -53,14 +52,15 @@ Shawn 2022年3月6日"/>
 来吧，从一个独立的域名和部落阁做起，做你自己的品牌，做自己的代言人。
 Shawn 2022年3月6日" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="//localhost:1313/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-03-06T20:09:38+08:00" />
 <meta property="article:modified_time" content="2022-03-06T20:09:38+08:00" />
 
 
 
 
-<link rel="canonical" href="/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/">
+
+<link rel="canonical" href="//localhost:1313/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -70,7 +70,7 @@ Shawn 2022年3月6日" />
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.577e3c5ead537873430da16f0964b754a120fd87c4e2203a00686e7c75b51378.css" integrity="sha256-V348Xq1TeHNDDaFvCWS3VKEg/YfE4iA6AGhufHW1E3g=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -80,7 +80,7 @@ Shawn 2022年3月6日" />
   
     
     
-    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
   
 
 
@@ -128,7 +128,7 @@ Shawn 2022年3月6日" />
     <nav class="navigation">
   <section class="container">
     
-    <a class="navigation-title" href="/">
+    <a class="navigation-title" href="//localhost:1313/">
       Sean
     </a>
     
@@ -159,7 +159,7 @@ Shawn 2022年3月6日" />
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/">
+            <a class="title-link" href="//localhost:1313/posts/2022%E5%B9%B43%E6%9C%886%E6%97%A5/">
               为什么要写博客
             </a>
           </h1>
@@ -206,7 +206,30 @@ Shawn 2022年3月6日" />
         
 
 
-        
+        <div id="disqus_thread"></div>
+<script>
+  window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "qiuse" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    
+    document.addEventListener('themeChanged', function (e) { 
+        if (document.readyState == 'complete') {
+          DISQUS.reset({ reload: true, config: disqus_config });
+        }
+    });
+</script>
         
         
         
@@ -242,7 +265,7 @@ Shawn 2022年3月6日" />
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   

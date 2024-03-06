@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <title>
   半夜的灵感 · Sean
 </title>
@@ -26,8 +26,7 @@
 喵(^･ｪ･^) 要完善一堂分享课，需要时间和搭档。">
 <meta name="keywords" content="blog,sean,personal">
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="半夜的灵感"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="半夜的灵感"/>
 <meta name="twitter:description" content="半夜的灵感Link to heading顺序 从下往上：根基、重心、中位线、沉着、螺旋、凝视点、呼吸、复原。
 从左到右：国际习惯(减少犹豫)
 由里向外：开合 (拜日式双手)
@@ -53,14 +52,15 @@
 知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。
 喵(^･ｪ･^) 要完善一堂分享课，需要时间和搭档。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="//localhost:1313/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2020-03-23T20:09:38+08:00" />
 <meta property="article:modified_time" content="2020-03-23T20:09:38+08:00" />
 
 
 
 
-<link rel="canonical" href="/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/">
+
+<link rel="canonical" href="//localhost:1313/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -70,7 +70,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.577e3c5ead537873430da16f0964b754a120fd87c4e2203a00686e7c75b51378.css" integrity="sha256-V348Xq1TeHNDDaFvCWS3VKEg/YfE4iA6AGhufHW1E3g=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -80,7 +80,7 @@
   
     
     
-    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
   
 
 
@@ -128,7 +128,7 @@
     <nav class="navigation">
   <section class="container">
     
-    <a class="navigation-title" href="/">
+    <a class="navigation-title" href="//localhost:1313/">
       Sean
     </a>
     
@@ -159,7 +159,7 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/">
+            <a class="title-link" href="//localhost:1313/posts/%E5%8D%8A%E5%A4%9C%E7%9A%84%E7%81%B5%E6%84%9F/">
               半夜的灵感
             </a>
           </h1>
@@ -192,7 +192,7 @@
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p><img src="https://raw.githubusercontent.com/lshcool/pic/master/202112221459134.jpg" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/lshcool/pic/master/202112221459134.jpg"></p>
 <ol>
 <li>顺序</li>
 </ol>
@@ -212,7 +212,7 @@
 <p>姿势的尘埃落定(眼睛凝视或关闭，意识专注，呼吸稳定流畅)</p>
 <p>身体舒适稳定后，心才能安定，呼吸才会顺畅，才是瑜伽，无论开始、过程还是定势。</p>
 <p>知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。</p>
-<p><img src="https://raw.githubusercontent.com/lshcool/pic/master/202112221459135.jpg" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/lshcool/pic/master/202112221459135.jpg"></p>
 <p>喵(^･ｪ･^) 要完善一堂分享课，需要时间和搭档。</p>
 
       </div>
@@ -222,7 +222,30 @@
         
 
 
-        
+        <div id="disqus_thread"></div>
+<script>
+  window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "qiuse" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    
+    document.addEventListener('themeChanged', function (e) { 
+        if (document.readyState == 'complete') {
+          DISQUS.reset({ reload: true, config: disqus_config });
+        }
+    });
+</script>
         
         
         
@@ -258,7 +281,7 @@
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   
