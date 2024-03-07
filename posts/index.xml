@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2024 19:51:08 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 20:49:12 +0800</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>/posts/test1/</link>
+      <pubDate>Thu, 07 Mar 2024 20:49:12 +0800</pubDate>
+      <guid>/posts/test1/</guid>
+      <description>测试文章。。。</description>
+    </item>
     <item>
       <title>狗道理</title>
       <link>/posts/20240307/</link>
