@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 秋色部落</title>
-    <link>https://blog.qiu.se/categories/</link>
+    <link>https://qiu.se/categories/</link>
     <description>Recent content in Categories on 秋色部落</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hi@qiu.se (Sean)</managingEditor>
     <webMaster>hi@qiu.se (Sean)</webMaster>
-    <atom:link href="https://blog.qiu.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qiu.se/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

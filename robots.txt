@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.qiu.se/sitemap.xml
+Sitemap: https://qiu.se/sitemap.xml
