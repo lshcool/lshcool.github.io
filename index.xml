@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>秋色部落</title>
-    <link>https://qiu.se/</link>
-    <description>Recent content on 秋色部落</description>
+    <title>OWLS</title>
+    <link>https://owls.es/</link>
+    <description>Recent content on OWLS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hi@qiu.se (Sean)</managingEditor>
     <webMaster>hi@qiu.se (Sean)</webMaster>
     <lastBuildDate>Tue, 26 Mar 2024 05:21:20 +0800</lastBuildDate>
     
-        <atom:link href="https://qiu.se/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://owls.es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://qiu.se/about/</link>
+      <link>https://owls.es/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/about/</guid>
+      <guid>https://owls.es/about/</guid>
       
         <description>&lt;p&gt;Hi~
 我是 Sean Leung
@@ -29,10 +29,10 @@
     
     <item>
       <title>你想要一个什么样的大脑</title>
-      <link>https://qiu.se/post/20240326/</link>
+      <link>https://owls.es/post/20240326/</link>
       <pubDate>Tue, 26 Mar 2024 05:21:20 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240326/</guid>
+      <guid>https://owls.es/post/20240326/</guid>
       
         <description>&lt;p&gt;2024年3月26日　星期二　21～26℃&lt;/p&gt;
 &lt;p&gt;昨天起，我就穿上了短袖，睡觉时也不用盖被子了。体感舒适。春暖花开的日子，确实让人舒心。&lt;/p&gt;
@@ -53,10 +53,10 @@
     
     <item>
       <title>最好的身体锻炼方法</title>
-      <link>https://qiu.se/post/20240313/</link>
+      <link>https://owls.es/post/20240313/</link>
       <pubDate>Wed, 13 Mar 2024 16:36:53 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240313/</guid>
+      <guid>https://owls.es/post/20240313/</guid>
       
         <description>&lt;p&gt;2024年3月13日　星期三　阴天&lt;/p&gt;
 &lt;p&gt;有时候会沉迷工作。
@@ -80,10 +80,10 @@
     
     <item>
       <title>狗道理</title>
-      <link>https://qiu.se/post/20240307/</link>
+      <link>https://owls.es/post/20240307/</link>
       <pubDate>Thu, 07 Mar 2024 19:51:08 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240307/</guid>
+      <guid>https://owls.es/post/20240307/</guid>
       
         <description>&lt;p&gt;2024年3月7日　星期四　阴天&lt;/p&gt;
 &lt;p&gt;十来度的气温，里面一件T恤，外面一件运动单衣，室内体感良好，室外微凉；开个小电动出门，风儿一吹，刺激。&lt;/p&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>孤独地活在热闹中</title>
-      <link>https://qiu.se/post/20240305/</link>
+      <link>https://owls.es/post/20240305/</link>
       <pubDate>Tue, 05 Mar 2024 09:54:32 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240305/</guid>
+      <guid>https://owls.es/post/20240305/</guid>
       
         <description>&lt;p&gt;2024年3月4日　星期一　回南天&lt;/p&gt;
 &lt;p&gt;起床的时候，看到手机有两个未接电话，是阿公打的，估计有什么事吧。可是头好晕，这个时候还不想出门，于是趁着想修改BUG的念头，打开了电脑。&lt;/p&gt;
@@ -123,11 +123,11 @@
     </item>
     
     <item>
-      <title>20240303</title>
-      <link>https://qiu.se/post/20240303/</link>
+      <title>先行动再计划</title>
+      <link>https://owls.es/post/20240303/</link>
       <pubDate>Sun, 03 Mar 2024 17:35:43 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240303/</guid>
+      <guid>https://owls.es/post/20240303/</guid>
       
         <description>&lt;p&gt;2024年3月3日　星期天　阴有小雨&lt;/p&gt;
 &lt;p&gt;一百多天前创建的部落格，用的是国内的主机，备了案，至今还是空空如也。&lt;/p&gt;
@@ -153,46 +153,11 @@
     </item>
     
     <item>
-      <title>Discuz UCenter 无法登陆</title>
-      <link>https://qiu.se/post/20240220/</link>
-      <pubDate>Tue, 20 Feb 2024 21:10:20 +0800</pubDate>
-      <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240220/</guid>
-      
-        <description>&lt;p&gt;&lt;strong&gt;UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后台登录会验证 IP，IP 一直变动就导致登录失败。&lt;/p&gt;
-&lt;p&gt;方法步骤：&lt;/p&gt;
-&lt;p&gt;打开 uc_server/data/config.inc.php&lt;/p&gt;
-&lt;p&gt;找到下列代码（没有的话补上）&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;define(&#39;UC_ONLYREMOTEADDR&#39;, 1);&lt;/code&gt;
-&lt;code&gt;define(&#39;UC_IPGETTER&#39;, &#39;header&#39;);&lt;/code&gt;
-&lt;code&gt;define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;将&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;define(&#39;UC_ONLYREMOTEADDR&#39;, 1);&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;改为&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;define(&#39;UC_ONLYREMOTEADDR&#39;, 0);&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;找到&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;HTTP_X_FORWARDED_FOR&#39;)));&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;改为&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;define(&#39;UC_IPGETTER_HEADER&#39;, serialize(array(&#39;header&#39; =&amp;gt; &#39;你的 CDN 传递真实 IP 的参数&#39;)));&lt;/code&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;你的 CDN 传递真实 IP 的参数&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这步参数，不知道怎么填。果断放弃！&lt;/p&gt;
-&lt;p&gt;直接在 cloudflare 停用 小橙云 就可以了。&lt;/p&gt;
-&lt;p&gt;早知道是CDN导致的IP检测问题，就用不着到处找资料了。发现网上大部分的资料都没用，太陈旧了。&lt;/p&gt;
-&lt;p&gt;以后 Discuz 相关的，还是先去官方社区搜索一下。&lt;/p&gt;
-&lt;p&gt;2024年2月20日&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
       <title>有啥用，能吃吗？</title>
-      <link>https://qiu.se/post/2024021902/</link>
+      <link>https://owls.es/post/2024021902/</link>
       <pubDate>Mon, 19 Feb 2024 23:43:18 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/2024021902/</guid>
+      <guid>https://owls.es/post/2024021902/</guid>
       
         <description>&lt;p&gt;伯父说，我种的花啥玩意儿？没有任何经济价值。&lt;/p&gt;
 &lt;p&gt;我说，这花都是网上用钱买来的，怎么没有经济价值？&lt;/p&gt;
@@ -219,10 +184,10 @@
     
     <item>
       <title>珍惜的最好方式是物尽其用</title>
-      <link>https://qiu.se/post/2024021901/</link>
+      <link>https://owls.es/post/2024021901/</link>
       <pubDate>Mon, 19 Feb 2024 23:42:12 +0800</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/2024021901/</guid>
+      <guid>https://owls.es/post/2024021901/</guid>
       
         <description>&lt;p&gt;2024年2月19日&lt;/p&gt;
 &lt;p&gt;尴尬了……&lt;/p&gt;
@@ -240,10 +205,10 @@
     
     <item>
       <title>Archive</title>
-      <link>https://qiu.se/archives/</link>
+      <link>https://owls.es/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/archives/</guid>
+      <guid>https://owls.es/archives/</guid>
       
         <description></description>
       

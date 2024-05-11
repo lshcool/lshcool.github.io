@@ -1,69 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 秋色部落</title>
-    <link>https://qiu.se/post/</link>
-    <description>Recent content in Posts on 秋色部落</description>
+    <title>Posts on OWLS</title>
+    <link>https://owls.es/post/</link>
+    <description>Recent content in Posts on OWLS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hi@qiu.se (Sean)</managingEditor>
     <webMaster>hi@qiu.se (Sean)</webMaster>
     <lastBuildDate>Tue, 26 Mar 2024 05:21:20 +0800</lastBuildDate>
-    <atom:link href="https://qiu.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://owls.es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你想要一个什么样的大脑</title>
-      <link>https://qiu.se/post/20240326/</link>
+      <link>https://owls.es/post/20240326/</link>
       <pubDate>Tue, 26 Mar 2024 05:21:20 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240326/</guid>
+      <guid>https://owls.es/post/20240326/</guid>
       <description>&lt;p&gt;2024年3月26日　星期二　21～26℃&lt;/p&gt;&#xA;&lt;p&gt;昨天起，我就穿上了短袖，睡觉时也不用盖被子了。体感舒适。春暖花开的日子，确实让人舒心。&lt;/p&gt;&#xA;&lt;p&gt;因为药物导致的大脑创伤，我一度脑雾，讲话不利索，总忘词，甚至常常脸盲……&lt;/p&gt;&#xA;&lt;p&gt;要知道中学时代，记忆力是我引以为傲的。我一直觉得自己的表达能力属于中上水平的。&lt;/p&gt;</description>
     </item>
     <item>
       <title>最好的身体锻炼方法</title>
-      <link>https://qiu.se/post/20240313/</link>
+      <link>https://owls.es/post/20240313/</link>
       <pubDate>Wed, 13 Mar 2024 16:36:53 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240313/</guid>
+      <guid>https://owls.es/post/20240313/</guid>
       <description>2024年3月13日 星期三 阴天 有时候会沉迷工作。 比如昨晚为了修改一段 CSS 代码，就搞到凌晨三点才上床睡觉。 偶尔通宵达旦，问题不大，但长期的话，身</description>
     </item>
     <item>
       <title>狗道理</title>
-      <link>https://qiu.se/post/20240307/</link>
+      <link>https://owls.es/post/20240307/</link>
       <pubDate>Thu, 07 Mar 2024 19:51:08 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240307/</guid>
+      <guid>https://owls.es/post/20240307/</guid>
       <description>2024年3月7日 星期四 阴天 十来度的气温，里面一件T恤，外面一件运动单衣，室内体感良好，室外微凉；开个小电动出门，风儿一吹，刺激。 如果有太阳</description>
     </item>
     <item>
       <title>孤独地活在热闹中</title>
-      <link>https://qiu.se/post/20240305/</link>
+      <link>https://owls.es/post/20240305/</link>
       <pubDate>Tue, 05 Mar 2024 09:54:32 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240305/</guid>
+      <guid>https://owls.es/post/20240305/</guid>
       <description>2024年3月4日 星期一 回南天 起床的时候，看到手机有两个未接电话，是阿公打的，估计有什么事吧。可是头好晕，这个时候还不想出门，于是趁着想修改</description>
     </item>
     <item>
-      <title>20240303</title>
-      <link>https://qiu.se/post/20240303/</link>
+      <title>先行动再计划</title>
+      <link>https://owls.es/post/20240303/</link>
       <pubDate>Sun, 03 Mar 2024 17:35:43 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240303/</guid>
+      <guid>https://owls.es/post/20240303/</guid>
       <description>2024年3月3日 星期天 阴有小雨 一百多天前创建的部落格，用的是国内的主机，备了案，至今还是空空如也。 回想当初，因为冲动，买了阿里云99元一年</description>
     </item>
     <item>
-      <title>Discuz UCenter 无法登陆</title>
-      <link>https://qiu.se/post/20240220/</link>
-      <pubDate>Tue, 20 Feb 2024 21:10:20 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/20240220/</guid>
-      <description>UCenter 无法登陆 提示验证码错误 登陆后闪退 一直跳出登录框 Discuz!X3.5 IP 获取方式默认不相信代理 IP，当你的网站使用 CDN 时，就会导致默认获取到的都是 CDN 的 IP，而 UCenter 后</description>
-    </item>
-    <item>
       <title>有啥用，能吃吗？</title>
-      <link>https://qiu.se/post/2024021902/</link>
+      <link>https://owls.es/post/2024021902/</link>
       <pubDate>Mon, 19 Feb 2024 23:43:18 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/2024021902/</guid>
+      <guid>https://owls.es/post/2024021902/</guid>
       <description>伯父说，我种的花啥玩意儿？没有任何经济价值。 我说，这花都是网上用钱买来的，怎么没有经济价值？ 伯父指着他种在屋旁的荔枝树说，我种两棵果树，既能</description>
     </item>
     <item>
       <title>珍惜的最好方式是物尽其用</title>
-      <link>https://qiu.se/post/2024021901/</link>
+      <link>https://owls.es/post/2024021901/</link>
       <pubDate>Mon, 19 Feb 2024 23:42:12 +0800</pubDate><author>hi@qiu.se (Sean)</author>
-      <guid>https://qiu.se/post/2024021901/</guid>
+      <guid>https://owls.es/post/2024021901/</guid>
       <description>2024年2月19日 尴尬了…… 没想到真有人访问 qiu.se ，并且留言了。 让林林同学失望了，抱歉呢。同时，也感谢他的提醒。让我意识到，既然公布了博客网址</description>
     </item>
   </channel>

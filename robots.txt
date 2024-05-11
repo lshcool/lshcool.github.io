@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://qiu.se/sitemap.xml
+Sitemap: https://owls.es/sitemap.xml
