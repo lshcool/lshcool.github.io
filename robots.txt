@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://owls.es/sitemap.xml
+Sitemap: /sitemap.xml

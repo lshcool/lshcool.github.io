@@ -5,6 +5,9 @@
     <link>/tags/</link>
     <description>Recent content in Tags on OWLS.ES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>hi@owls.es (Sean)</managingEditor>
+    <webMaster>hi@owls.es (Sean)</webMaster>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
