@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OWLS.ES</title>
+    <title>Shawn.es</title>
     <link>/</link>
-    <description>Recent content on OWLS.ES</description>
+    <description>Recent content on Shawn.es</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hi@owls.es (Sean)</managingEditor>
-    <webMaster>hi@owls.es (Sean)</webMaster>
+    <managingEditor>hi@shawn.es (Shawn)</managingEditor>
+    <webMaster>hi@shawn.es (Shawn)</webMaster>
     <lastBuildDate>Tue, 26 Mar 2024 05:21:20 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>About</title>
       <link>/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/about/</guid>
       
         <description>&lt;p&gt;Hi~
@@ -31,7 +31,7 @@
       <title>你想要一个什么样的大脑</title>
       <link>/post/20240326/</link>
       <pubDate>Tue, 26 Mar 2024 05:21:20 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/post/20240326/</guid>
       
         <description>&lt;p&gt;2024年3月26日　星期二　21～26℃&lt;/p&gt;
@@ -55,7 +55,7 @@
       <title>最好的身体锻炼方法</title>
       <link>/post/20240313/</link>
       <pubDate>Wed, 13 Mar 2024 16:36:53 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/post/20240313/</guid>
       
         <description>&lt;p&gt;2024年3月13日　星期三　阴天&lt;/p&gt;
@@ -82,7 +82,7 @@
       <title>狗道理</title>
       <link>/post/20240307/</link>
       <pubDate>Thu, 07 Mar 2024 19:51:08 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/post/20240307/</guid>
       
         <description>&lt;p&gt;2024年3月7日　星期四　阴天&lt;/p&gt;
@@ -104,7 +104,7 @@
       <title>先行动再计划</title>
       <link>/post/20240303/</link>
       <pubDate>Sun, 03 Mar 2024 17:35:43 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/post/20240303/</guid>
       
         <description>&lt;p&gt;2024年3月3日　星期天　阴有小雨&lt;/p&gt;
@@ -134,7 +134,7 @@
       <title>有啥用，能吃吗？</title>
       <link>/post/2024021902/</link>
       <pubDate>Mon, 19 Feb 2024 23:43:18 +0800</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/post/2024021902/</guid>
       
         <description>&lt;p&gt;伯父说，我种的花啥玩意儿？没有任何经济价值。&lt;/p&gt;
@@ -164,7 +164,7 @@
       <title>Archive</title>
       <link>/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hi@owls.es (Sean)</author>
+      <author>hi@shawn.es (Shawn)</author>
       <guid>/archives/</guid>
       
         <description></description>
