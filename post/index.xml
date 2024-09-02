@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 秋色博客</title>
+    <title>Posts on 秋色日记</title>
     <link>/post/</link>
-    <description>Recent content in Posts on 秋色博客</description>
+    <description>Recent content in Posts on 秋色日记</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 11:29:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:31:53 +0800</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么要写东西</title>
+      <link>/post/20240902/</link>
+      <pubDate>Mon, 02 Sep 2024 00:31:53 +0800</pubDate>
+      <guid>/post/20240902/</guid>
+      <description>推特暂休 回归酷萌部落 推特（现在X平台）不愧是世界上最大的社交平台之一，玩久了，也确实可以遇见不少有趣的人。 但今早突然觉得在上面说的废话太多了</description>
+    </item>
+    <item>
+      <title>家在何方</title>
+      <link>/post/20240829/</link>
+      <pubDate>Thu, 29 Aug 2024 00:30:46 +0800</pubDate>
+      <guid>/post/20240829/</guid>
+      <description>2024年8月30日 星期五 29 ℃ 今早自然醒来，体感舒适。 尤其是打开房门就看到，屋后的小石榴树开出了一朵橙黄色的小花，感觉到生命的盎然和可爱，更</description>
+    </item>
+    <item>
+      <title>想做和擅长做</title>
+      <link>/post/2024082402/</link>
+      <pubDate>Sat, 24 Aug 2024 00:28:47 +0800</pubDate>
+      <guid>/post/2024082402/</guid>
+      <description>2024年8月25日 星期日 30℃ 脑海总有很多闪念，过一会儿又想不起来了；很多想说的话，总是夜深人静或者无聊发呆的时候冒出来，假如不及时记录，</description>
+    </item>
+    <item>
+      <title>别想 去做</title>
+      <link>/post/20240824/</link>
+      <pubDate>Sat, 24 Aug 2024 00:26:25 +0800</pubDate>
+      <guid>/post/20240824/</guid>
+      <description>2024年8月24日 星期六 32℃ 被燥热、噪音，以及尿意憋醒。然后打开电脑，先写点日记。哪怕现在的脑子依旧嗡嗡乱响。管它呢，说不定更富有创意。</description>
+    </item>
+    <item>
+      <title>你好起来 世界就美丽</title>
+      <link>/post/20240821/</link>
+      <pubDate>Wed, 21 Aug 2024 11:29:18 +0800</pubDate>
+      <guid>/post/20240821/</guid>
+      <description>2024年8月21日 星期三 28℃ 昨天练了背（引体向上），今天就练腿吧。睡前醒后，第一件事，就应该是整理自己的身体。练瑜伽的日子，经常说「身体</description>
+    </item>
     <item>
       <title>表侄女</title>
       <link>/post/20240712/</link>
@@ -1043,13 +1078,6 @@
       <pubDate>Sat, 03 Jan 2015 20:09:38 +0800</pubDate>
       <guid>/post/%E7%91%9C%E4%BC%BD%E5%AE%9D%E8%B4%9D%E4%B9%8B%E5%8F%B6%E5%AD%902015%E6%88%B7%E5%A4%96%E7%91%9C%E4%BC%BD%E6%B7%B1%E6%83%85%E5%9B%9E%E9%A1%BE/</guid>
       <description>瑜伽宝贝之叶子2015户外瑜伽深情回顾 图文 /叶子 户外啦，户外啦，换上飘逸的瑜伽服，背上瑜伽垫，我们整装出发啦！ 户外瑜伽，可以感受新鲜的自然环</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/post/2024%E5%B9%B48%E6%9C%8822%E6%97%A5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2024%E5%B9%B48%E6%9C%8822%E6%97%A5/</guid>
-      <description>2024年8月22日 星期四 26℃ 还有半个钟就到零点了。我无聊地看着泡沫剧，一想到「日更」这个事，就心不安理不得了。本来应该在起床就写一篇的，</description>
     </item>
   </channel>
 </rss>
