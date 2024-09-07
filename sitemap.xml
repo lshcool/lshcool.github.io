@@ -597,7 +597,7 @@
   </url>
   
   <url>
-    <loc>/post/20190908%E6%97%A5/</loc>
+    <loc>/post/20190908/</loc>
     <lastmod>2019-09-08T20:09:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -641,13 +641,6 @@
   <url>
     <loc>/post/20190101/</loc>
     <lastmod>2019-01-01T20:09:38+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/20181201/</loc>
-    <lastmod>2018-12-01T20:09:38+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
