@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 秋色日记</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Sep 2024 04:34:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 23:20:15 +0800</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>每次都被图床失效搞个半死</title>
+      <link>/post/20240907232002/</link>
+      <pubDate>Sat, 07 Sep 2024 23:20:15 +0800</pubDate>
+      <guid>/post/20240907232002/</guid>
+      <description>多年来的“图文并茂”，在一次次的图床变动和终止下，变得支离破碎，甚至从此消失不见。 每次从头到尾手工整理，往往需要几个小时甚至几天，都觉得好累</description>
+    </item>
     <item>
       <title>时间戳命名</title>
       <link>/post/20240907043420/</link>
