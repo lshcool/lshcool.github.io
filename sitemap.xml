@@ -9,21 +9,28 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2024-09-08T23:11:02+08:00</lastmod>
+    <loc>/post/20240913101551/</loc>
+    <lastmod>2024-09-13T10:48:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/20240908231046/</loc>
-    <lastmod>2024-09-08T23:11:02+08:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2024-09-13T10:48:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2024-09-13T10:48:32+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/20240908231046/</loc>
     <lastmod>2024-09-08T23:11:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
