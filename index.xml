@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>秋色日记</title>
+    <title>Shawn</title>
     <link>/</link>
-    <description>Recent content on 秋色日记</description>
+    <description>Recent content on Shawn</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Sep 2024 10:48:32 +0800</lastBuildDate>
@@ -11,9 +11,9 @@
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <pubDate>Mon, 09 Sep 2019 21:38:52 +0800</pubDate>
       <guid>/about/</guid>
-      <description>欢迎访问 Qiu.se ， 这是一个凡人写日记的地方。 邮箱： Ai@Qiu.se</description>
+      <description>Ai@Qiu.se</description>
     </item>
     <item>
       <title>20240913</title>
@@ -142,6 +142,13 @@
       <description>2024年3月3日 星期天 阴有小雨 一百多天前创建的部落格，用的是国内的主机，备了案，至今还是空空如也。 回想当初，因为冲动，买了阿里云99元一年</description>
     </item>
     <item>
+      <title>岁月催人老，一切要趁早</title>
+      <link>/post/20240221/</link>
+      <pubDate>Wed, 21 Feb 2024 10:48:32 +0800</pubDate>
+      <guid>/post/20240221/</guid>
+      <description>三十功名尘与土，八千里路云和月。 莫等闲，白了少年头，空悲切。 趁早不是叫人焦虑，不是赶鸭子上架，更不是揠苗助长。 而是现在就要开始行动，立刻、马</description>
+    </item>
+    <item>
       <title>有啥用，能吃吗？</title>
       <link>/post/2024021902/</link>
       <pubDate>Mon, 19 Feb 2024 23:43:18 +0800</pubDate>
@@ -154,6 +161,13 @@
       <pubDate>Sun, 21 Jan 2024 23:43:18 +0800</pubDate>
       <guid>/post/20240121/</guid>
       <description>2024年01月21日 18:48:40 始 上一篇日记，已经是去年的事了。 时光飞逝，我依旧废物。 其实，每天写几百字日记，是很容易的。比如今天，整夜睡不着，刷手</description>
+    </item>
+    <item>
+      <title>阳光大好</title>
+      <link>/post/20231231135019/</link>
+      <pubDate>Sun, 31 Dec 2023 10:48:32 +0800</pubDate>
+      <guid>/post/20231231135019/</guid>
+      <description>之前阴天，我看东西都模模糊糊的，于是担忧，是不是眼睛出了问题，身体有了毛病。 今天中午，看电脑累了，走到阳台，看看远山，竟然那么清晰，真让人欣</description>
     </item>
     <item>
       <title>不写日记才下贱</title>

@@ -3,7 +3,7 @@
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2017-08-20T21:38:52+08:00</lastmod>
+    <lastmod>2019-09-09T21:38:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -163,6 +163,13 @@
   </url>
   
   <url>
+    <loc>/post/20240221/</loc>
+    <lastmod>2024-02-21T10:48:32+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/2024021902/</loc>
     <lastmod>2024-02-19T23:43:18+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,6 +179,13 @@
   <url>
     <loc>/post/20240121/</loc>
     <lastmod>2024-01-21T23:43:18+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/20231231135019/</loc>
+    <lastmod>2023-12-31T10:48:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
