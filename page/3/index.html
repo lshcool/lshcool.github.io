@@ -1,303 +1,848 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Shawn</title>
-  <meta name="renderer" content="webkit" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<html lang="en" dir="ltr">
+    <head>
+	<meta name="generator" content="Hugo 0.144.2"><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Example description">
+<title>Pager 3 - Example Site</title>
 
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel='canonical' href='/'>
 
-<meta name="theme-color" content="#f8f5ec" />
-<meta name="msapplication-navbutton-color" content="#f8f5ec">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Example Site">
+<meta property='og:description' content="Example description">
+<meta property='og:url' content='/'>
+<meta property='og:site_name' content='Example Site'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-11-23T16:13:55&#43;08:00 '/>
+<meta name="twitter:title" content="Example Site">
+<meta name="twitter:description" content="Example description"><link rel="alternate" type="application/rss&#43;xml" href="/index.xml">
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
 
-<meta name="author" content="Shawn" /><meta name="description" content="Hugo theme even example site." /><meta name="keywords" content="Hugo, theme, even" />
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
 
-
-
-
-
-
-<meta name="generator" content="Hugo 0.133.1 with theme even" />
-
-
-<link rel="canonical" href="/" />
-  <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Shawn" />
-  <link href="/index.xml" rel="feed" type="application/rss+xml" title="Shawn" />
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-
-
-
-<link href="/sass/main.min.f92fd13721ddf72129410fd8250e73152cc6f2438082b6c0208dc24ee7c13fc4.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
-
-
-<meta property="og:url" content="/">
-  <meta property="og:site_name" content="Shawn">
-  <meta property="og:title" content="Shawn">
-  <meta property="og:description" content="Hugo theme even example site.">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
-
-  <meta itemprop="name" content="Shawn">
-  <meta itemprop="description" content="Hugo theme even example site.">
-  <meta itemprop="datePublished" content="2024-11-23T16:13:55+08:00">
-  <meta itemprop="dateModified" content="2024-11-23T16:13:55+08:00">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Shawn">
-  <meta name="twitter:description" content="Hugo theme even example site.">
-
-<!--[if lte IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
-<![endif]-->
-
-<!--[if lt IE 9]>
-  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
-<![endif]-->
-
-</head>
-<body>
-  <div id="mobile-navbar" class="mobile-navbar">
-  <div class="mobile-header-logo">
-    <a href="/" class="logo">Shawn</a>
-  </div>
-  <div class="mobile-navbar-icon">
-    <span></span>
-    <span></span>
-    <span></span>
-  </div>
-</div>
-<nav id="mobile-menu" class="mobile-menu slideout-menu">
-  <ul class="mobile-menu-list">
-    <a href="/">
-        <li class="mobile-menu-item">Home</li>
-      </a><a href="/post/">
-        <li class="mobile-menu-item">Archives</li>
-      </a><a href="/tags/">
-        <li class="mobile-menu-item">Tags</li>
-      </a><a href="/categories/">
-        <li class="mobile-menu-item">Categories</li>
-      </a>
-  </ul>
-
-  
-
-
-</nav>
-
-  <div class="container" id="mobile-panel">
-    <header id="header" class="header">
-        <div class="logo-wrapper">
-  <a href="/" class="logo">Shawn</a>
-</div>
-
-
-
-
-
-<nav class="site-navbar">
-  <ul id="menu" class="menu">
-    <li class="menu-item">
-        <a class="menu-item-link" href="/">Home</a>
-      </li><li class="menu-item">
-        <a class="menu-item-link" href="/post/">Archives</a>
-      </li><li class="menu-item">
-        <a class="menu-item-link" href="/tags/">Tags</a>
-      </li><li class="menu-item">
-        <a class="menu-item-link" href="/categories/">Categories</a>
-      </li>
-  </ul>
-</nav>
-
-    </header>
-
-    <main id="main" class="main">
-      <div class="content-wrapper">
-        <div id="content" class="content">
-          <section id="posts" class="posts">
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20240907043420/">时间戳命名</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2024-09-07 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      微软拼音自定义时间戳 右键 – 用户自定义短语 – 添加 输入代码 1 2 3 %yyyy% 年 %MM% 月 %dd% 日 %HH%:%mm%:%ss% 我想要的是一串日期和时间数字，用来作静态文章的文件名，方便管理。所
-    </div>
-    <div class="read-more">
-      <a href="/post/20240907043420/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20240906/">数字永生</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2024-09-07 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      2024年9月6日 星期五 24℃~30℃ 雨 对对子 打开QQ空间看到陆同学更新了一条说说： 「荣华易去青山处处英雄冢，红颜易老转眼桑田泛清波。」 不知
-    </div>
-    <div class="read-more">
-      <a href="/post/20240906/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20240905/">干就完了</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2024-09-05 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      2024年9月5日 星期四 26℃～35℃ 刚刚翻到一张 9 年前的瑜伽照片，我还清楚地记得，在广州珠江公园的一个石板凳上，摆出一个蝎子式的瑜伽造型是
-    </div>
-    <div class="read-more">
-      <a href="/post/20240905/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20240904/">如何永久保存博客文章</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2024-09-04 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      2024年9月4日 星期三 33℃ 一大早，就有人放鞭炮，远远近近，有时相隔一段时间，有时密密麻麻，吵得我睡眠不好。夜猫子就这点不好，跟别人作息不
-    </div>
-    <div class="read-more">
-      <a href="/post/20240904/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20240902/">为什么要写东西</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2024-09-02 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      推特暂休 回归酷萌部落 推特（现在X平台）不愧是世界上最大的社交平台之一，玩久了，也确实可以遇见不少有趣的人。 但今早突然觉得在上面说的废话太多了
-    </div>
-    <div class="read-more">
-      <a href="/post/20240902/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
-    </section>
-  
-  <nav class="pagination">
-    <a class="prev" href="/page/2/">
-        <i class="iconfont icon-left"></i>
-        <span class="prev-text">Prev</span>
-      </a>
-    <a class="next" href="/page/4/">
-        <span class="next-text">Next</span>
-        <i class="iconfont icon-right"></i>
-      </a>
-  </nav>
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_f509edb42ecc0ebd.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Example Site</a></h1>
+            <h2 class="site-description">Example description</h2>
         </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="/" selected>English</option>
+                                
+                                    <option value="/zh-cn/" >中文</option>
+                                
+                                    <option value="/ar/" >عربي</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archives</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">28</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">35</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">12</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">6</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">9</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">More</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+            
+                <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">Categories</h2>
+
+    <div class="tagCloud-tags">
+        
+    </div>
+</section>
+
+            
+        
+            
+                <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">Tags</h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/tags/-/" class="font_size_1">
+                 
+            </a>
+        
+    </div>
+</section>
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    
+    
+    
+    
+
+    <section class="article-list">
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/20240924/">20240924</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Sep 24, 2024</time>
+            </div>
         
 
-      </div>
-    </main>
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
 
-    <footer id="footer" class="footer">
-      <div class="social-links">
-      <a href="mailto:hi@moeme.eu.org" class="iconfont icon-email" title="email"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-twitter" title="twitter"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-facebook" title="facebook"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-linkedin" title="linkedin"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-google" title="google"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-github" title="github"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-weibo" title="weibo"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-zhihu" title="zhihu"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-douban" title="douban"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-pocket" title="pocket"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-tumblr" title="tumblr"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-instagram" title="instagram"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-gitlab" title="gitlab"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-bilibili" title="bilibili"></a>
-  <a href="/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
-</div>
 
-<div class="copyright">
-  <span class="power-by">
-    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
-  </span>
-  <span class="division">|</span>
-  <span class="theme-info">
-    Theme - 
-    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
-  </span>
 
-  
-
-  <span class="copyright-year">
-    &copy; 
-    2015 - 
-    2024<span class="heart"><i class="iconfont icon-heart"></i></span><span>Shawn</span>
-  </span>
-</div>
-
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
     </footer>
+    
 
-    <div class="back-to-top" id="back-to-top">
-      <i class="iconfont icon-up"></i>
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/20240913/">20240913</a>
+        </h2>
+    
+        
     </div>
-  </div>
-  
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Sep 13, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
 
 
 
-<script type="text/javascript" src="/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js"></script>
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%E6%96%87%E4%BB%B6%E5%A4%B9%E5%91%BD%E5%90%8D%E5%92%8C%E7%AE%A1%E7%90%86/">文件夹命名和管理</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Sep 08, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
 
 
 
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
 
+    
+</div>
 
+</header>
+</article>
+        
+    </section>
+    <nav class='pagination'>
+        
+        
 
+        
+            
+                    <a class='page-link' href='/'>1</a>
+                
+            
+            
+                    <a class='page-link' href='/page/2/'>2</a>
+                
+            
+            
+                <span class='page-link current'>3</span>
+                
+            
+            
+                    <a class='page-link' href='/page/4/'>4</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/page/56/'>56</a>
+                
+            
+    </nav>
 
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2025 Example Site
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
 
-</body>
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
 </html>
