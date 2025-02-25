@@ -16,14 +16,20 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="Shawn" /><meta name="description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步： 用 hugo new 命令新建 md 文件 用 hugo -D 生成 public html 文件 前往 public 目录 用 git add -A 命令将全部更新的文件添加到暂存区 用 git commit" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="" /><meta name="description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
+用 hugo new 命令新建 md 文件
+用 hugo -D 生成 public html 文件
+前往 public 目录
+用 git add -A 命令将全部更新的文件添加到暂存区
+用 git commit 命令将暂存区内容添加到分支
+" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
 
 
 
-<meta name="generator" content="Hugo 0.133.1 with theme even" />
+<meta name="generator" content="Hugo 0.144.2 with theme even" />
 
 
 <link rel="canonical" href="/post/2022112602/" />
@@ -42,7 +48,12 @@
 <meta property="og:url" content="/post/2022112602/">
   <meta property="og:site_name" content="Shawn">
   <meta property="og:title" content=" HUGO 写博客基础步骤和指令">
-  <meta property="og:description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步： 用 hugo new 命令新建 md 文件 用 hugo -D 生成 public html 文件 前往 public 目录 用 git add -A 命令将全部更新的文件添加到暂存区 用 git commit">
+  <meta property="og:description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
+用 hugo new 命令新建 md 文件
+用 hugo -D 生成 public html 文件
+前往 public 目录
+用 git add -A 命令将全部更新的文件添加到暂存区
+用 git commit 命令将暂存区内容添加到分支">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -50,13 +61,23 @@
     <meta property="article:modified_time" content="2022-11-26T11:12:26+08:00">
 
   <meta itemprop="name" content=" HUGO 写博客基础步骤和指令">
-  <meta itemprop="description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步： 用 hugo new 命令新建 md 文件 用 hugo -D 生成 public html 文件 前往 public 目录 用 git add -A 命令将全部更新的文件添加到暂存区 用 git commit">
+  <meta itemprop="description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
+用 hugo new 命令新建 md 文件
+用 hugo -D 生成 public html 文件
+前往 public 目录
+用 git add -A 命令将全部更新的文件添加到暂存区
+用 git commit 命令将暂存区内容添加到分支">
   <meta itemprop="datePublished" content="2022-11-26T11:12:26+08:00">
   <meta itemprop="dateModified" content="2022-11-26T11:12:26+08:00">
   <meta itemprop="wordCount" content="205">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content=" HUGO 写博客基础步骤和指令">
-  <meta name="twitter:description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步： 用 hugo new 命令新建 md 文件 用 hugo -D 生成 public html 文件 前往 public 目录 用 git add -A 命令将全部更新的文件添加到暂存区 用 git commit">
+  <meta name="twitter:description" content="步骤 基于 github 的 Hugo 静态博客 推送新博文 分为以下几步：
+用 hugo new 命令新建 md 文件
+用 hugo -D 生成 public html 文件
+前往 public 目录
+用 git add -A 命令将全部更新的文件添加到暂存区
+用 git commit 命令将暂存区内容添加到分支">
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -71,7 +92,7 @@
 <body>
   <div id="mobile-navbar" class="mobile-navbar">
   <div class="mobile-header-logo">
-    <a href="/" class="logo">Shawn</a>
+    <a href="/" class="logo">Even</a>
   </div>
   <div class="mobile-navbar-icon">
     <span></span>
@@ -82,7 +103,7 @@
 <nav id="mobile-menu" class="mobile-menu slideout-menu">
   <ul class="mobile-menu-list">
     <a href="/">
-        <li class="mobile-menu-item">Home</li>
+        <li class="mobile-menu-item">Shawn</li>
       </a><a href="/post/">
         <li class="mobile-menu-item">Archives</li>
       </a><a href="/tags/">
@@ -100,7 +121,7 @@
   <div class="container" id="mobile-panel">
     <header id="header" class="header">
         <div class="logo-wrapper">
-  <a href="/" class="logo">Shawn</a>
+  <a href="/" class="logo">Even</a>
 </div>
 
 
@@ -110,7 +131,7 @@
 <nav class="site-navbar">
   <ul id="menu" class="menu">
     <li class="menu-item">
-        <a class="menu-item-link" href="/">Home</a>
+        <a class="menu-item-link" href="/">Shawn</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/post/">Archives</a>
       </li><li class="menu-item">
@@ -190,8 +211,7 @@
 <h2 id="报错">报错</h2>
 <blockquote>
 <p>[rejected]   master -&gt; master (fetch first) <br>
-error: failed to push some refs</p>
-</blockquote>
+error: failed to push some refs</p></blockquote>
 <p>解决</p>
 <ol>
 <li>
@@ -203,15 +223,14 @@ error: failed to push some refs</p>
 </ol>
 <p>master 切换到 main</p>
 <blockquote>
-<p><code>git checkout -b main</code></p>
-</blockquote>
+<p><code>git checkout -b main</code></p></blockquote>
 
     </div>
 
     <div class="post-copyright">
   <p class="copyright-item">
     <span class="item-title">Author</span>
-    <span class="item-content">Shawn</span>
+    <span class="item-content"></span>
   </p>
   <p class="copyright-item">
     <span class="item-title">LastMod</span>
@@ -252,21 +271,21 @@ error: failed to push some refs</p>
     <footer id="footer" class="footer">
       <div class="social-links">
       <a href="mailto:hi@moeme.eu.org" class="iconfont icon-email" title="email"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-twitter" title="twitter"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-facebook" title="facebook"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-linkedin" title="linkedin"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-google" title="google"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-github" title="github"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-weibo" title="weibo"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-zhihu" title="zhihu"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-douban" title="douban"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-pocket" title="pocket"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-tumblr" title="tumblr"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-instagram" title="instagram"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-gitlab" title="gitlab"></a>
-      <a href="https://moeme.eu.org" class="iconfont icon-bilibili" title="bilibili"></a>
-  <a href="/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+      <a href="http://localhost:1313" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
+      <a href="http://localhost:1313" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="http://localhost:1313" class="iconfont icon-facebook" title="facebook"></a>
+      <a href="http://localhost:1313" class="iconfont icon-linkedin" title="linkedin"></a>
+      <a href="http://localhost:1313" class="iconfont icon-google" title="google"></a>
+      <a href="http://localhost:1313" class="iconfont icon-github" title="github"></a>
+      <a href="http://localhost:1313" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="http://localhost:1313" class="iconfont icon-zhihu" title="zhihu"></a>
+      <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
+      <a href="http://localhost:1313" class="iconfont icon-pocket" title="pocket"></a>
+      <a href="http://localhost:1313" class="iconfont icon-tumblr" title="tumblr"></a>
+      <a href="http://localhost:1313" class="iconfont icon-instagram" title="instagram"></a>
+      <a href="http://localhost:1313" class="iconfont icon-gitlab" title="gitlab"></a>
+      <a href="http://localhost:1313" class="iconfont icon-bilibili" title="bilibili"></a>
+  
 </div>
 
 <div class="copyright">
@@ -283,8 +302,8 @@ error: failed to push some refs</p>
 
   <span class="copyright-year">
     &copy; 
-    2015 - 
-    2024<span class="heart"><i class="iconfont icon-heart"></i></span><span>Shawn</span>
+    2017 - 
+    2025<span class="heart"><i class="iconfont icon-heart"></i></span><span></span>
   </span>
 </div>
 
