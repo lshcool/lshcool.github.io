@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags on 演示站点</title>
-        <link>/zh-cn/tags/</link>
-        <description>Recent content in Tags on 演示站点</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+        <title>Tags - 标签 - Shawn</title>
+        <link>https://qiu.se/zh-cn/tags/</link>
+        <description>Tags - 标签 - Shawn</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hi@qiu.se (Shawn)</managingEditor>
+            <webMaster>hi@qiu.se (Shawn)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://qiu.se/zh-cn/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
