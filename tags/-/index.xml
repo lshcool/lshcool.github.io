@@ -1,31 +1,19 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>  - Tag - </title>
-        <link>https://qiu.se/tags/-/</link>
-        <description>  - Tag - </description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@qiu.se (Shawn)</managingEditor>
-            <webMaster>hi@qiu.se (Shawn)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 12 Jul 2024 11:29:18 &#43;0800</lastBuildDate><atom:link href="https://qiu.se/tags/-/" rel="self" type="application/rss+xml" /><item>
-    <title>表侄女</title>
-    <link>https://qiu.se/20240712/</link>
-    <pubDate>Fri, 12 Jul 2024 11:29:18 &#43;0800</pubDate>
-    <author>Shawn</author>
-    <guid>https://qiu.se/20240712/</guid>
-    <description><![CDATA[<p>2024-7-12　星期五　26~34℃</p>
-<p>这两天有点感悟：有些父母为孩子撑起一片天，有些父母是孩子的绊脚石。</p>
-<p>中考成绩出来了，想关心一下表侄女，然而大姑一问三不知。</p>
-<p>对话几回合，我内心都直呼受不了，只有抱怨和否定，没有支持和鼓励。不难想象，从小失去了父亲的表侄女，成长路上会遭受多少挫折。</p>
-<p>目前表侄女住到了同学家里，没有透露自己的中考分数。大姑给她打电话也不接。</p>
-<p>表侄女的父亲是我表哥。表哥比我只大一个月。命运残酷，他不到三十岁就查出晚期肝癌，带着不甘死去了。</p>
-<p>留下两个孩子，男的智商稍低，幸好活泼开朗。表侄女小时候很乖，我一招呼就过来，坐到我怀里。</p>
-<p>表侄女六年级的时候，我认为到了关键时期，想关心、鼓励一下她，甚至给她补补功课。然而，她躲在卫生间，不见人。这是她保护自己的方式吧。</p>
-<p>初中一年级，来我家喝喜酒，长得更水灵了，没那么胆小了，脸上洋溢着开朗的笑容。</p>
-<p>初二末在超市见面，脸上已经显现忧愁，笑容不见了。</p>
-<p>之后没有见过她。又到了人生十字路口，敏感又叛逆的时期了。</p>
-<p>因为我跟表哥关系不错，对表哥的英年早逝很是震撼。也想对表侄女多一点关心和爱护，甚至想当成自己孩子来对待。</p>
-<p>然而，现实是复杂的。有好心好意，也得有合适的环境和时机才行。大姑她们的养育方式太粗糙落后了，一味地否定和批评，这是“毁人不倦”，孩子没出大问题就已经不错了。</p>
-<p>最后，我用大姑手机找到表侄女的微信，发出好友申请，让她看到后给我回个电话。当然，半天过去，也没有收到回复，正如六年级的她躲在卫生间不肯见面。</p>
-<p>也许，她会选择跟好朋友一起，在市里某个中专读个三年，然后进厂打工；也许，她会遇到人生贵人，将她从小房间和手机里带出来，见识更广阔的世界。</p>
-<p>命运是无常的，我们都是局中人，无法左右自己，更别轻易左右他人。怀着善意、宽容和理解，对年轻人多点信任和支持，希望大家都能实现理想，过上好日子。</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on Shawn</title>
+    <link>https://qiu.se/tags/-/</link>
+    <description>Recent content in   on Shawn</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Jul 2024 11:29:18 +0800</lastBuildDate>
+    <atom:link href="https://qiu.se/tags/-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>表侄女</title>
+      <link>https://qiu.se/post/20240712/</link>
+      <pubDate>Fri, 12 Jul 2024 11:29:18 +0800</pubDate>
+      <guid>https://qiu.se/post/20240712/</guid>
+      <description>&lt;p&gt;2024-7-12　星期五　26~34℃&lt;/p&gt;&#xA;&lt;p&gt;这两天有点感悟：有些父母为孩子撑起一片天，有些父母是孩子的绊脚石。&lt;/p&gt;&#xA;&lt;p&gt;中考成绩出来了，想关心一下表侄女，然而大姑一问三不知。&lt;/p&gt;&#xA;&lt;p&gt;对话几回合，我内心都直呼受不了，只有抱怨和否定，没有支持和鼓励。不难想象，从小失去了父亲的表侄女，成长路上会遭受多少挫折。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
