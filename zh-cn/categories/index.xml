@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - Shawn</title>
+        <title>Categories - 分类 - </title>
         <link>https://qiu.se/zh-cn/categories/</link>
-        <description>Categories - 分类 - Shawn</description>
+        <description>Categories - 分类 - </description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hi@qiu.se (Shawn)</managingEditor>
             <webMaster>hi@qiu.se (Shawn)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://qiu.se/zh-cn/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
