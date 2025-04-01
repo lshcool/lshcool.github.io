@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shawn</title>
-    <link>https://qiu.se/tags/</link>
+    <link>https://owls.eu.org/tags/</link>
     <description>Recent content in Tags on Shawn</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 12 Jul 2024 11:29:18 +0800</lastBuildDate>
-    <atom:link href="https://qiu.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://owls.eu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> </title>
-      <link>https://qiu.se/tags/-/</link>
+      <link>https://owls.eu.org/tags/-/</link>
       <pubDate>Fri, 12 Jul 2024 11:29:18 +0800</pubDate>
-      <guid>https://qiu.se/tags/-/</guid>
+      <guid>https://owls.eu.org/tags/-/</guid>
       <description></description>
     </item>
   </channel>
